@@ -1,0 +1,65 @@
+{
+  "policy": "official_thailand_store",
+  "updated": "2026-10-03",
+  "sources": [
+    "https://www.apple.com/th/iphone/",
+    "https://www.samsung.com/th/smartphones/all-smartphones/",
+    "https://www.mi.com/th/",
+    "https://www.oppo.com/th/smartphones/",
+    "https://shop.vivo.com/th/products/phone?categoryId=4"
+  ],
+  "models": {
+    "Apple": [
+      "iPhone Duo",
+      "iPhone 18 Pro",
+      "iPhone Air",
+      "iPhone 17",
+      "iPhone 17e",
+      "iPhone 16"
+    ],
+    "Samsung": [
+      "Galaxy S26",
+      "Galaxy S26+",
+      "Galaxy S26 Ultra",
+      "Galaxy Z Fold8",
+      "Galaxy Z Fold8 Ultra",
+      "Galaxy Z Flip8",
+      "Galaxy A57"
+    ],
+    "Xiaomi": [
+      "Xiaomi 17",
+      "Xiaomi 17T",
+      "REDMI Note 17 Pro Max 5G",
+      "REDMI Note 17 Pro 5G",
+      "REDMI Note 17 5G",
+      "POCO F9 Ultra",
+      "POCO F9 Pro",
+      "POCO M8s 5G",
+      "POCO C81 Pro"
+    ],
+    "OPPO": [
+      "Find N6",
+      "Find X9 Ultra",
+      "Find X9s",
+      "Find X9",
+      "Find X9 Pro",
+      "Find X8 Pro",
+      "Find X8",
+      "Reno16 Pro 5G",
+      "Reno16 5G",
+      "Reno16 F 5G",
+      "Reno15 5G",
+      "A7 Pro Max 5G",
+      "A7 Pro 5G",
+      "A6s 5G",
+      "A6",
+      "A6x"
+    ],
+    "vivo": [
+      "X300 Pro",
+      "X300 Ultra",
+      "X300",
+      "X Fold5"
+    ]
+  }
+}
