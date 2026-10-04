@@ -1,0 +1,998 @@
+brand_name,model,price_category,price,spec_score,vfm_score,vfm_label,has_5G,has_NFC,has_IR,processor_brand,processor_name,num_core,processor_speed,ram,memory,battery_capacity(mAh),fast_charging(W),charging_ratio,charging_speed_type,screen_size,refresh_rate,rear_camera,front_camera,rear_camera_count,os
+oneplus,OnePlus Nord 6,Premium,38999,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,8,256,9000,80,112.5,Standard,6.78,165,50,32,2,Android v16
+samsung,Samsung Galaxy S25 Ultra,Flagship,110000,89,0.658517001,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite for Galaxy,8,4.47,12,256,5000,45,111.1111111,Standard,6.9,120,200,12,4,Android v15
+vivo,Vivo T5 Pro,Mid-Range,29999,72,1.522389029,Value King,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen4,8,,8,128,9020,90,100.2222222,Standard,6.8,120,50,50,3,Android v16
+samsung,Samsung Galaxy S25 FE,Premium,50743,77,0.282124388,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2400,10,3.2,8,128,4900,45,108.8888889,Standard,6.7,120,50,12,3,Android v16
+vivo,Vivo T5x 5G,Mid-Range,18999,66,0.478614983,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Turbo,8,2.6,6,128,7200,44,163.6363636,Standard,6.76,120,50,32,2,Android v16
+vivo,Vivo T5 5G,Mid-Range,23990,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen4,8,,8,128,7500,100,75,Standard,6.67,120,50,32,3,Android v16
+motorola,Motorola Edge 70 Fusion,Mid-Range,25999,71,1.348426688,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen4,8,2.7,8,128,7000,68,102.9411765,Standard,6.78,144,50,32,3,Android v16
+xiaomi,Xiaomi Redmi Note 15 5G Special Edition,Mid-Range,19999,64,0.130690301,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6 Gen3,8,2.4,6,128,5800,45,128.8888889,Standard,6.77,120,50,20,2,Android v15
+realme,Realme 16 5G,Premium,31999,68,-1.123459617,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6400 Turbo,8,2.5,8,128,7000,60,116.6666667,Standard,6.57,120,50,50,2,Android v16
+vivo,Vivo V70 FE,Premium,37999,79,0.594476389,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7360 Turbo,8,2.5,8,128,7000,90,77.77777778,Standard,6.83,120,200,50,2,Android v16
+oneplus,OnePlus Nord CE 6 5G,Mid-Range,26990,72,1.522389029,Value King,TRUE,FALSE,TRUE,qualcomm,Octa Core Processor,,,8,128,7500,100,75,Standard,6.82,144,50,32,2,Android v16
+oneplus,OnePlus Nord CE 5 5G (8GB RAM + 256GB),Mid-Range,24250,70,1.174464347,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 8350 Apex,8,3.35,8,256,7100,80,88.75,Standard,6.77,120,50,16,2,Android v15
+infinix,Infinix Note 60 Pro 5G,Mid-Range,25999,72,1.522389029,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7s Gen4,8,2.7,8,256,6500,90,72.22222222,Standard,6.78,144,50,13,2,Android v16
+vivo,Vivo V70 5G,Premium,45999,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,256,6500,90,72.22222222,Standard,6.59,120,50,50,3,Android v16
+vivo,Vivo T4 Pro 5G,Mid-Range,27177,71,1.348426688,Value King,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,128,6500,90,72.22222222,Standard,6.77,120,50,32,3,Android v15
+iqoo,iQOO Z11,Mid-Range,25990,70,1.174464347,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8500,8,3.4,8,256,9020,90,100.2222222,Standard,6.83,165,50,16,2,Android v16
+infinix,Infinix Note 60 Ultra,Premium,31990,83,1.219180391,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8400 Ultimate,8,3.25,12,256,7000,100,70,Standard,6.78,144,200,32,3,Android v16
+oneplus,OnePlus Nord CE 5 5G (12GB RAM + 256GB),Mid-Range,28999,71,1.348426688,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 8350 Apex,8,3.35,12,256,7100,80,88.75,Standard,6.77,120,50,16,2,Android v15
+realme,Realme P4 Power 5G,Mid-Range,24879,72,1.522389029,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Ultra,8,2.6,8,128,10001,80,125.0125,Standard,6.8,144,50,16,2,Android v16
+motorola,Motorola Edge 60 Fusion,Mid-Range,20900,67,0.652577324,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.5,8,256,5500,68,80.88235294,Standard,6.7,120,50,32,2,Android v15
+motorola,Motorola Moto G67 Power 5G,Mid-Range,17190,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen2,8,2.4,8,128,7000,30,233.3333333,Slow Charging,6.7,120,50,32,2,Android v15
+vivo,Vivo T5 Ultra,Premium,39990,72,-0.498755615,Average Value,TRUE,FALSE,FALSE,dimensity,Octa Core Processor,8,,8,256,6200,100,62,Super Fast,6.78,120,50,50,3,Android v16
+apple,Apple iPhone 17,Flagship,82900,76,-0.893243864,Average Value,TRUE,TRUE,FALSE,apple,Apple A19,6,,8,256,3692,,,Slow Charging,6.3,120,48,18,2,iOS v26
+vivo,Vivo T5x 5G (8GB RAM + 256GB),Mid-Range,22999,67,0.652577324,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Turbo,8,2.6,8,256,7200,44,163.6363636,Standard,6.76,120,50,32,2,Android v16
+oneplus,OnePlus Nord 5 5G,Premium,33999,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,8,256,6800,80,85,Standard,6.83,144,50,50,2,Android v15
+oppo,OPPO K13,Mid-Range,19149,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6 Gen4,8,2.3,8,128,7000,80,87.5,Standard,6.67,120,50,16,2,Android v15
+motorola,Motorola Edge 60 Pro,Mid-Range,28906,77,2.392200733,Performance Beast,TRUE,TRUE,FALSE,mediatek,Dimensity 8350 Extreme,8,3.35,8,256,6000,90,66.66666667,Super Fast,6.7,120,50,50,3,Android v15
+realme,Realme P4 5G,Mid-Range,20990,64,0.130690301,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Ultra,8,2.6,6,128,7000,80,87.5,Standard,6.77,144,50,16,2,Android v15
+vivo,Vivo X300 Ultra,Flagship,95990,92,1.016615662,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,6600,120,55,Super Fast,6.82,144,200,50,3,Android v16
+ai+,Ai+ Nova 2 Ultra,Budget,14999,58,1.15877124,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,6,128,6000,18,333.3333333,Slow Charging,6.78,120,50,13,2,Android v16
+iqoo,iQOO Z11x,Mid-Range,18999,66,0.478614983,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Turbo,8,2.6,6,128,7200,44,163.6363636,Standard,6.76,120,50,32,2,Android v16
+oppo,Oppo F33,Mid-Range,25999,64,0.130690301,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6360 Max,8,,8,128,7500,100,75,Standard,6.67,144,50,32,2,Android v16
+oppo,OPPO K13x 5G (6GB RAM +128GB),Budget,13999,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,45,133.3333333,Standard,6.67,120,50,8,2,Android v15
+samsung,Samsung Galaxy A18 5G,Mid-Range,20999,55,-1.434970767,Overpriced,TRUE,TRUE,FALSE,samsung,Octa Core Processor,,,6,128,6000,25,240,Slow Charging,6.74,90,50,16,3,Android v16
+realme,Realme P4x 5G,Mid-Range,16749,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400 Ultra,8,2.6,6,128,7000,45,155.5555556,Standard,6.72,144,50,8,2,Android v15
+motorola,Motorola Moto G57 Power,Mid-Range,16349,55,-1.434970767,Overpriced,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6s Gen4,8,2.4,8,128,7000,33,212.1212121,Slow Charging,6.72,120,50,8,2,Android v16
+samsung,Samsung Galaxy S26 Ultra 5G,Flagship,126750,95,1.374714323,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite Gen 5 for Galaxy,8,4.74,12,256,5000,60,83.33333333,Standard,6.9,120,200,12,4,Android v16
+iqoo,iQOO 15R,Premium,44998,85,1.531532392,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen5,8,3.8,8,256,7600,100,76,Standard,6.59,144,50,32,2,Android v16
+samsung,Samsung Galaxy S24 5G (Snapdragon),Premium,45000,72,-0.498755615,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen3,8,3.3,8,256,4000,25,160,Standard,6.2,120,50,12,3,Android v15
+realme,Realme P3x 5G,Budget,12999,55,0.638226116,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6400,8,2.5,6,128,6000,45,133.3333333,Standard,6.72,120,50,8,2,Android v15
+oneplus,OnePlus Nord CE 4 5G,Mid-Range,19999,66,0.478614983,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,128,5500,100,55,Super Fast,6.7,120,50,16,2,Android v14
+xiaomi,Xiaomi Redmi 15A 5G,Budget,12999,58,1.15877124,Value King,TRUE,FALSE,TRUE,unisoc,Unisoc T8300,8,2.2,4,64,6300,33,190.9090909,Standard,6.9,120,32,8,1,Android v16
+realme,Realme C63 5G (6GB RAM + 128GB),Budget,10999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5000,10,500,Slow Charging,6.67,120,32,8,2,Android v14
+motorola,Motorola Moto G86 Power 5G,Mid-Range,17835,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,8,128,6720,33,203.6363636,Slow Charging,6.7,120,50,32,2,Android v15
+xiaomi,Xiaomi Redmi A7 Pro,Budget,13999,45,-1.096924294,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc T7250,8,1.8,4,64,6000,15,400,Slow Charging,6.9,120,13,8,1,Android v16
+nothing,Nothing Phone (4a) Pro,Premium,39999,75,-0.030227613,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen 4,8,2.8,8,128,5400,50,108,Standard,6.83,144,50,32,3,Android v16
+oneplus,OnePlus 15,Flagship,72999,94,1.255348103,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,7300,120,60.83333333,Super Fast,6.78,165,50,32,3,Android v16
+vivo,Vivo T5 Lite 5G,Budget,10999,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6400,8,,6,128,7000,25,280,Slow Charging,6.77,120,50,8,2,Android v16
+xiaomi,Xiaomi Redmi Note 15 SE 5G (8GB RAM + 256GB),Mid-Range,23999,67,0.652577324,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6 Gen3,8,2.4,8,256,5800,45,128.8888889,Standard,6.77,120,50,20,2,Android v15
+motorola,Motorola Moto G96 5G,Mid-Range,18178,64,0.130690301,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen2,8,2.4,8,128,5500,33,166.6666667,Standard,6.67,144,50,32,2,Android v15
+vivo,Vivo T4x 5G,Mid-Range,16999,55,-1.434970767,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,2.5,6,128,6500,44,147.7272727,Standard,6.72,120,50,8,2,Android v15
+oneplus,OnePlus 15T,Premium,42990,84,1.375356392,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,7500,100,75,Standard,6.32,165,50,32,2,Android v16
+poco,Poco X8 Pro 5G,Premium,32999,76,0.125948388,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8500 Ultra,8,3.4,8,256,6500,100,65,Super Fast,6.59,120,50,20,2,Android v16
+motorola,Motorola Moto G45 5G,Budget,10997,54,0.464711075,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6s Gen3,8,2.3,4,128,5000,20,250,Slow Charging,6.5,120,50,16,2,Android v14
+realme,Realme 15 Pro 5G,Mid-Range,29990,72,1.522389029,Value King,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,128,7000,80,87.5,Standard,6.8,144,50,50,2,Android v15
+oppo,Oppo Find X9 Ultra,Flagship,80990,93,1.135981882,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,16,512,7050,100,70.5,Standard,6.82,144,200,50,4,Android v16
+poco,Poco X7 Pro 5G,Mid-Range,23999,70,1.174464347,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8400 Ultra,8,3.25,8,256,6550,90,72.77777778,Standard,6.67,120,50,20,2,Android v15
+apple,Apple iPhone 16,Flagship,69900,70,-1.609441186,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A18,6,4.04,8,128,3561,,,Slow Charging,6.1,60,48,12,2,iOS v18
+xiaomi,Xiaomi Redmi Note 13 5G,Budget,14498,62,1.852831404,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 6080,8,2.4,6,128,5000,33,151.5151515,Standard,6.67,120,108,16,3,Android v13
+realme,Realme 16 Pro 5G,Premium,34999,77,0.282124388,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Max,8,,8,128,7000,80,87.5,Standard,6.78,144,200,50,2,Android v16
+motorola,Motorola Edge 70 Pro,Premium,31999,72,-0.498755615,Average Value,TRUE,TRUE,FALSE,unknown,Octa Core Processor,8,,8,256,6500,100,65,Super Fast,6.7,120,50,50,3,Android v15
+oneplus,OnePlus 15R 5G,Premium,50499,83,1.219180391,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen5,8,3.84,12,256,7400,80,92.5,Standard,6.83,165,50,32,2,Android v16
+oneplus,OnePlus Nord 6 5G (12GB RAM +256GB),Premium,41999,83,1.219180391,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,12,256,9000,80,112.5,Standard,6.78,165,50,32,2,Android v16
+samsung,Samsung Galaxy A07 5G,Budget,13200,57,0.985256198,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,25,240,Slow Charging,6.74,120,50,8,2,Android v16
+xiaomi,Xiaomi Redmi Note 15 5G,Mid-Range,24999,70,1.174464347,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 6 Gen3,8,2.4,8,128,5520,45,122.6666667,Standard,6.77,120,108,20,2,Android v15
+vivo,Vivo V60 5G,Premium,36999,77,0.282124388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,128,6500,90,72.22222222,Standard,6.77,120,50,50,3,Android v15
+motorola,Motorola Edge 70 Fusion 5G (8GB RAM + 256 GB),Mid-Range,29890,72,1.522389029,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen4,8,2.7,8,256,7000,68,102.9411765,Standard,6.78,144,50,32,3,Android v16
+realme,Realme P3 5G,Mid-Range,15999,61,-0.391196721,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6 Gen4,8,2.3,6,128,6000,45,133.3333333,Standard,6.67,120,50,16,2,Android v15
+motorola,Motorola Moto G64 5G,Budget,13999,59,1.332286281,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 7025,8,2.5,8,128,6000,33,181.8181818,Standard,6.5,120,50,16,2,Android v14
+samsung,Samsung Galaxy M56 5G,Mid-Range,21999,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,samsung,Exynos 1480,8,2.7,8,128,5000,45,111.1111111,Standard,6.74,120,50,12,3,Android v15
+oneplus,OnePlus Nord CE 5 5G,Mid-Range,24999,70,1.174464347,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 8350 Apex,8,3.35,8,128,7100,80,88.75,Standard,6.77,120,50,16,2,Android v15
+oppo,Oppo Reno 15 Pro Mini,Premium,59999,84,1.375356392,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 8450,8,3.25,12,256,6200,80,77.5,Standard,6.32,120,200,50,3,Android v16
+samsung,Samsung Galaxy M37 5G,Mid-Range,17990,58,-0.913083744,Average Value,TRUE,TRUE,FALSE,samsung,Octa Core Processor,,,8,128,5000,45,111.1111111,Standard,6.67,120,50,16,3,Android v16
+xiaomi,Xiaomi Redmi Turbo 4 Pro,Mid-Range,23990,76,2.218238392,Performance Beast,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,12,256,7550,90,83.88888889,Standard,6.83,120,50,20,2,Android v15
+realme,Realme Narzo 90,Mid-Range,18999,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6400 Max,8,,6,128,7000,60,116.6666667,Standard,6.57,120,50,50,2,Android v15
+oppo,OPPO K15,Mid-Range,23999,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,unknown,Octa Core Processor,8,,8,128,7500,100,75,Standard,6.67,120,50,32,2,Android v16
+tecno,Tecno Camon 40 Pro 5G,Mid-Range,25990,66,0.478614983,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7300,8,2.5,8,256,5200,45,115.5555556,Standard,6.78,144,50,50,2,Android v15
+samsung,Samsung Galaxy A35 5G,Mid-Range,26990,63,-0.04327204,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1380,8,2.4,8,128,5000,25,200,Standard,6.6,120,50,13,3,Android v14
+apple,Apple iPhone 17 Pro Max,Flagship,149900,81,-0.296412762,Average Value,TRUE,TRUE,FALSE,apple,Apple A19 Pro,6,,12,256,4832,,,Slow Charging,6.9,120,48,18,3,iOS v26
+vivo,Vivo X300,Flagship,75998,86,0.30041834,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,4.21,12,256,6040,90,67.11111111,Super Fast,6.31,120,200,50,3,Android v16
+nothing,Nothing Phone 3a,Mid-Range,24999,67,0.652577324,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,128,5000,50,100,Standard,6.77,120,50,32,3,Android v15
+vivo,Vivo T4 5G,Mid-Range,24299,67,0.652577324,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,128,7300,90,81.11111111,Standard,6.77,120,50,32,2,Android v15
+vivo,Vivo V70 Elite 5G (12GB RAM + 256GB),Premium,56999,85,1.531532392,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,12,256,6500,90,72.22222222,Standard,6.59,120,50,50,3,Android v16
+iqoo,iQOO 15,Flagship,72998,93,1.135981882,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,7000,100,70,Standard,6.85,144,50,32,3,Android v16
+oppo,Oppo K12s,Budget,12990,64,2.199861486,Performance Beast,TRUE,TRUE,TRUE,qualcomm,Snapdragon 6 Gen4,8,2.3,8,128,7000,80,87.5,Standard,6.67,120,50,16,2,Android v15
+samsung,Samsung Galaxy A17 5G,Mid-Range,18900,58,-0.913083744,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1330,8,2.4,6,128,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+vivo,Vivo V70 FE 5G (12GB RAM + 256GB),Premium,44999,81,0.90682839,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7360 Turbo,8,2.5,12,256,7000,90,77.77777778,Standard,6.83,120,200,50,2,Android v16
+iqoo,iQOO Z11 Turbo,Premium,31990,79,0.594476389,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen5,8,3.8,12,256,7600,100,76,Standard,6.59,144,200,32,2,Android v16
+oppo,OPPO Reno 14 5G,Premium,39999,76,0.125948388,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8350,8,3.35,8,256,6000,80,75,Standard,6.59,120,50,50,3,Android v15
+xiaomi,Xiaomi Redmi 14C 5G,Budget,9499,52,0.117680993,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,4,64,5160,18,286.6666667,Slow Charging,6.88,120,50,8,2,Android v14
+apple,Apple iPhone 15,Premium,59900,64,-1.748163619,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A16,6,3.46,6,128,3349,,,Slow Charging,6.1,,48,12,2,iOS v17
+vivo,Vivo T5x 5G (8GB RAM + 128GB),Mid-Range,20999,67,0.652577324,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Turbo,8,2.6,8,128,7200,44,163.6363636,Standard,6.76,120,50,32,2,Android v16
+lava,Lava Bold 5G,Budget,10999,59,1.332286281,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5000,33,151.5151515,Standard,6.67,120,64,16,2,Android v14
+nothing,Nothing Phone 4a,Premium,31999,71,-0.654931615,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen4,8,2.7,8,128,5400,50,108,Standard,6.78,,50,32,3,Android v16
+oneplus,OnePlus Turbo 6,Mid-Range,29999,75,2.044276051,Performance Beast,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,12,256,9000,80,112.5,Standard,6.78,165,50,16,2,Android v16
+samsung,Samsung Galaxy A27 5G,Mid-Range,29999,62,-0.21723438,Average Value,TRUE,TRUE,FALSE,samsung,Octa Core Processor,,,6,128,5500,25,220,Slow Charging,6.74,120,50,13,3,Android v16
+samsung,Samsung Galaxy A57 5G,Premium,56999,74,-0.186403614,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1680,8,2.9,8,256,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v16
+honor,Honor Magic 8 Pro Air,Premium,49990,76,0.125948388,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 9500,8,4.21,12,256,5500,80,68.75,Super Fast,6.31,120,64,50,3,Android v16
+vivo,Vivo Y31d,Budget,11990,55,0.638226116,Average Value,FALSE,FALSE,TRUE,qualcomm,Snapdragon 6s Gen 2 4G,8,2.9,6,128,7200,444,16.21621622,Super Fast,6.75,120,50,8,2,Android v16
+samsung,SAMSUNG Galaxy S26 5G,Flagship,75800,77,-0.773877643,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2600,10,3.8,12,256,4300,25,172,Standard,6.3,120,50,12,3,Android v16
+xiaomi,Xiaomi Redmi Note 15 Pro 5G,Mid-Range,28999,72,1.522389029,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Ultra,8,2.6,8,128,6580,45,146.2222222,Standard,6.83,120,200,20,2,Android v15
+xiaomi,Xiaomi Redmi Note 14 SE 5G,Mid-Range,17999,64,0.130690301,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7025 Ultra,8,2.5,6,128,5110,45,113.5555556,Standard,6.67,120,50,20,3,Android v14
+google,Google Pixel 9A,Premium,39999,68,-1.123459617,Overpriced,TRUE,TRUE,FALSE,google,Tensor G4,8,3.1,8,256,5100,23,221.7391304,Slow Charging,6.3,120,48,13,2,Android v15
+motorola,Motorola Edge 60 Stylus,Mid-Range,20750,67,0.652577324,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen2,8,2.4,8,256,5000,68,73.52941176,Standard,6.7,120,50,32,2,Android v15
+motorola,Motorola Signature,Premium,52990,86,1.687708393,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen5,8,3.8,12,256,5200,90,57.77777778,Super Fast,6.8,165,50,50,3,Android v16
+iqoo,iQOO Neo 10R,Premium,31990,72,-0.498755615,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,8,128,6400,80,80,Standard,6.78,144,50,32,2,Android v15
+motorola,Motorola Edge 70 5G,Mid-Range,29990,75,2.044276051,Performance Beast,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,256,5000,68,73.52941176,Standard,6.7,120,50,50,2,Android v16
+poco,Poco M7 Plus 5G,Mid-Range,15716,59,-0.739121403,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6s Gen3,8,2.3,6,128,7000,33,212.1212121,Slow Charging,6.9,144,50,8,1,Android v15
+samsung,Samsung Galaxy M57 5G,Mid-Range,29990,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,samsung,Exynos,8,,8,128,5500,45,122.2222222,Standard,6.77,120,50,16,3,Android v16
+poco,Poco M7 Pro 5G,Budget,14999,61,1.679316363,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 7025 Ultra,8,2.5,6,128,5110,45,113.5555556,Standard,6.67,120,50,20,2,Android v14
+oppo,OPPO Reno 15 5G,Premium,45999,79,0.594476389,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,256,6500,80,81.25,Standard,6.59,120,50,50,3,Android v16
+apple,Apple iPhone 15 Plus,Premium,59994,66,-1.435811618,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A16,6,3.46,6,128,4383,,,Slow Charging,6.7,,48,12,2,iOS v17
+oppo,OPPO K15 Pro,Premium,42999,75,-0.030227613,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8500,8,3.4,12,256,7500,80,93.75,Standard,6.59,144,50,16,2,Android v16
+google,Google Pixel 10 5G (128GB),Premium,59990,74,-0.186403614,Average Value,TRUE,TRUE,FALSE,google,Tensor G5,8,3.78,12,128,4970,30,165.6666667,Standard,6.3,120,48,10.5,3,Android v16
+vivo,Vivo X200 FE,Premium,54999,84,1.375356392,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9300 Plus,8,3.25,12,256,6500,90,72.22222222,Standard,6.31,120,50,50,3,Android v15
+realme,Realme Neo 8,Mid-Range,29990,76,2.218238392,Performance Beast,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen5,8,3.8,12,256,8000,80,100,Standard,6.78,165,50,16,3,Android v16
+realme,Realme P1 5G,Budget,13999,58,1.15877124,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 7050,8,2.6,6,128,5000,45,111.1111111,Standard,6.67,120,50,16,2,Android v14
+samsung,Samsung Galaxy M36 5G (8GB RAM + 128GB),Mid-Range,16950,59,-0.739121403,Average Value,TRUE,FALSE,FALSE,samsung,Exynos 1380,8,2.4,8,128,5000,25,200,Standard,6.7,120,50,13,3,Android v15
+samsung,Samsung Galaxy M17e 5G,Budget,12999,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,25,240,Slow Charging,6.7,120,50,8,2,Android v16
+poco,Poco X8 Pro Max,Premium,42999,83,1.219180391,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 9500s,8,3.73,12,256,9000,100,90,Standard,6.83,120,50,20,2,Android v16
+motorola,Motorola Moto G45 5G (8GB RAM + 128GB),Budget,12269,55,0.638226116,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6s Gen3,8,2.3,8,128,5000,20,250,Slow Charging,6.5,120,50,16,2,Android v14
+oneplus,OnePlus 13R 5G,Premium,41999,79,0.594476389,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,12,256,6000,80,75,Standard,6.78,120,50,16,3,Android v15
+samsung,Samsung Galaxy S24 FE 5G,Premium,40499,70,-0.811107616,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2400e,10,3.11,8,128,4700,25,188,Standard,6.7,120,50,10,3,Android v14
+oneplus,OnePlus 16,Flagship,89990,90,0.777883221,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 6 Pro,8,,12,256,9000,150,60,Super Fast,6.82,240,200,50,3,Android v16
+tecno,Tecno Pova 7 5G,Budget,14999,61,1.679316363,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,8,128,6000,45,133.3333333,Standard,6.78,144,50,13,2,Android v15
+realme,Realme GT 7,Premium,36880,83,1.219180391,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9400e,8,3.4,8,256,7000,120,58.33333333,Super Fast,6.78,120,50,32,3,Android v15
+cmf,CMF Phone 3 Pro,Mid-Range,24990,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,8,128,6000,48,125,Standard,6.81,144,50,32,3,Android v16
+oppo,Oppo F31 5G,Mid-Range,26999,64,0.130690301,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6300,8,2.4,8,128,7000,80,87.5,Standard,6.57,120,50,16,2,Android v15
+realme,Realme 16 5G (8GB RAM + 256GB),Premium,33999,70,-0.811107616,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6400 Turbo,8,2.5,8,256,7000,60,116.6666667,Standard,6.57,120,50,50,2,Android v16
+vivo,Vivo X200T,Premium,59999,88,2.000060394,Performance Beast,TRUE,TRUE,TRUE,mediatek,Dimensity 9400 Plus,8,3.63,12,256,6200,90,68.88888889,Super Fast,6.67,120,50,32,3,Android v16
+samsung,Samsung Galaxy F05,Budget,6499,44,-1.270439335,Overpriced,FALSE,FALSE,FALSE,mediatek,Helio G85,8,2,4,64,5000,25,200,Standard,6.74,,50,8,2,Android v14
+vivo,Vivo V70 FE 5G (8GB RAM + 256GB),Premium,40999,80,0.75065239,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7360 Turbo,8,2.5,8,256,7000,90,77.77777778,Standard,6.83,120,200,50,2,Android v16
+google,Google Pixel 10A,Premium,47480,76,0.125948388,Average Value,TRUE,TRUE,FALSE,google,Tensor G4,8,3.1,8,256,5100,30,170,Standard,6.3,120,48,13,2,Android v16
+vivo,Vivo X300 Pro 5G,Flagship,109998,95,1.374714323,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,4.21,16,512,6510,90,72.33333333,Standard,6.78,120,200,50,3,Android v16
+xiaomi,Xiaomi Redmi 15 5G,Mid-Range,16499,61,-0.391196721,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6s Gen3,8,2.3,6,128,7000,33,212.1212121,Slow Charging,6.9,144,50,8,2,Android v15
+cmf,CMF Phone 2 Pro,Mid-Range,18999,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Pro,8,2.5,8,128,5000,33,151.5151515,Standard,6.77,120,50,16,3,Android v15
+motorola,Motorola Moto G67 Power 5G (8GB RAM + 256GB),Mid-Range,19999,64,0.130690301,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen2,8,2.4,8,256,7000,30,233.3333333,Slow Charging,6.7,120,50,32,2,Android v15
+apple,Apple iPhone 16 Pro,Flagship,103990,75,-1.012610084,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A18 Pro,6,4.05,8,128,3582,,,Slow Charging,6.3,120,48,12,3,iOS v18
+samsung,Samsung Galaxy A37 5G,Premium,38999,67,-1.279635617,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1480,8,2.7,8,128,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v16
+honor,Honor Robot Phone,Flagship,99990,85,0.181052119,Average Value,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,12,512,7000,120,58.33333333,Super Fast,6.71,120,200,50,2,Android v16
+tecno,Tecno Spark Go 5G,Budget,9999,52,0.117680993,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6400,8,2.5,4,128,6000,18,333.3333333,Slow Charging,6.74,120,50,5,1,Android v15
+xiaomi,Xiaomi Redmi Note 15 SE 5G (8GB RAM + 128GB),Mid-Range,21999,66,0.478614983,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6 Gen3,8,2.4,8,128,5800,45,128.8888889,Standard,6.77,120,50,20,2,Android v15
+iqoo,iQOO Neo 11,Premium,39990,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,7500,100,75,Standard,6.78,144,50,16,2,Android v16
+iqoo,iQOO Z11x 5G (8GB RAM + 256GB),Mid-Range,22999,67,0.652577324,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Turbo,8,2.6,8,256,7200,44,163.6363636,Standard,6.76,120,50,32,2,Android v16
+oneplus,OnePlus 15 5G (16GB RAM + 512GB),Flagship,79999,95,1.374714323,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,16,512,7300,120,60.83333333,Super Fast,6.78,165,50,32,3,Android v16
+realme,Realme Narzo 80x 5G (8GB RAM + 128GB),Budget,13999,58,1.15877124,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 6400,8,2.5,8,128,6000,45,133.3333333,Standard,6.72,120,50,8,2,Android v15
+vivo,Vivo V60e,Premium,31999,75,-0.030227613,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7360 Turbo,8,2.5,8,128,6500,90,72.22222222,Standard,6.77,120,200,50,2,Android v15
+iqoo,iQOO Z10 5G,Mid-Range,24998,67,0.652577324,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,128,7300,90,81.11111111,Standard,6.77,120,50,32,2,Android v15
+honor,Honor WIN RT,Premium,34999,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,10000,100,100,Standard,6.83,185,50,50,2,Android v16
+samsung,Samsung Galaxy A36 5G,Mid-Range,29953,64,0.130690301,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6 Gen3,8,2.4,8,128,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v15
+iqoo,iQOO Neo 10,Premium,35990,77,0.282124388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,8,128,7000,120,58.33333333,Super Fast,6.78,144,50,32,2,Android v15
+samsung,Samsung Galaxy S25 5G,Flagship,74999,79,-0.535145203,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8Elite,8,4.47,12,256,4000,25,160,Standard,6.2,120,50,12,3,Android v15
+oneplus,OnePlus 13s 5G,Premium,52999,80,0.75065239,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,5850,80,73.125,Standard,6.32,120,50,32,2,Android v15
+oppo,Oppo K13 (8GB RAM + 256GB),Mid-Range,21380,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6 Gen4,8,2.3,8,256,7000,80,87.5,Standard,6.67,120,50,16,2,Android v15
+oppo,OPPO K14x 5G,Budget,14999,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6500,45,144.4444444,Standard,6.75,120,50,5,2,Android v15
+vivo,Vivo T4R 5G,Mid-Range,22798,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,8,128,5700,44,129.5454545,Standard,6.77,120,50,32,2,Android v15
+oppo,Oppo K13 Turbo,Mid-Range,26550,68,0.826539665,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8450,8,3.25,8,128,7000,80,87.5,Standard,6.8,120,50,16,2,Android v15
+motorola,Motorola Moto G05,Budget,7299,49,-0.40286413,Average Value,FALSE,TRUE,FALSE,mediatek,Helio G81 Ultra,8,2,4,64,5200,18,288.8888889,Slow Charging,6.67,90,50,8,1,Android v15
+vivo,Vivo T4 Pro 5G (8GB RAM + 256GB),Mid-Range,29240,71,1.348426688,Value King,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,256,6500,90,72.22222222,Standard,6.77,120,50,32,3,Android v15
+samsung,Samsung Galaxy S24 Ultra,Flagship,109999,85,0.181052119,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen3,8,3.3,12,256,5000,45,111.1111111,Standard,6.8,120,200,12,4,Android v14
+vivo,Vivo Y400 Pro 5G,Mid-Range,25999,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,2.5,8,128,5500,90,61.11111111,Super Fast,6.77,120,50,32,2,Android v15
+samsung,Samsung Galaxy M14 4G,Budget,7773,48,-0.576379171,Average Value,FALSE,FALSE,FALSE,qualcomm,Snapdragon 680,8,2.4,4,64,5000,25,200,Standard,6.72,90,50,13,3,Android v13
+xiaomi,Xiaomi Redmi Note 15 Pro Plus,Premium,36999,79,0.594476389,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7s Gen4,8,2.7,8,256,6500,100,65,Super Fast,6.83,120,200,32,2,Android v15
+vivo,Vivo T4 Ultra,Premium,37690,74,-0.186403614,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 9300 Plus,8,3.25,8,256,5500,90,61.11111111,Super Fast,6.67,120,50,32,3,Android v15
+motorola,Motorola Moto G35 5G,Budget,13495,57,0.985256198,Average Value,TRUE,FALSE,FALSE,unisoc,Unisoc T760,8,2.2,4,128,5000,18,277.7777778,Slow Charging,6.72,120,50,16,2,Android v14
+motorola,Motorola Edge 70 Fusion 5G (12GB RAM + 256 GB),Premium,32999,74,-0.186403614,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen4,8,2.7,12,256,7000,68,102.9411765,Standard,6.78,144,50,32,3,Android v16
+realme,Realme P4 Lite 5G,Budget,13499,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,7000,15,466.6666667,Slow Charging,6.81,144,13,5,1,Android v16
+samsung,Samsung Galaxy S26 FE,Flagship,65990,75,-1.012610084,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 2500,10,,8,128,5100,55,92.72727273,Standard,6.73,120,50,16,3,Android v16
+samsung,Samsung Galaxy M17e 5G (6GB RAM + 128GB),Budget,14972,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,25,240,Slow Charging,6.7,120,50,8,2,Android v16
+oppo,OPPO K14,Mid-Range,18884,62,-0.21723438,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 6300,8,2.4,6,128,7000,45,155.5555556,Standard,6.75,120,50,8,2,Android v15
+motorola,Motorola Edge 60 Fusion 5G (12GB RAM + 256GB),Mid-Range,24832,68,0.826539665,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.5,12,256,5500,68,80.88235294,Standard,6.7,120,50,32,2,Android v15
+samsung,Samsung Galaxy S26 Ultra (12GB RAM + 512GB),Flagship,132499,95,1.374714323,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite Gen 5 for Galaxy,8,4.74,12,512,5000,60,83.33333333,Standard,6.9,120,200,12,4,Android v16
+vivo,Vivo Y51 Pro,Mid-Range,24999,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7360 Turbo,8,2.5,8,128,7200,44,163.6363636,Standard,6.75,120,50,8,2,Android v16
+oppo,OPPO Reno 14 Pro 5G,Premium,45499,85,1.531532392,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8450,8,3.25,12,256,6200,80,77.5,Standard,6.83,120,50,50,3,Android v15
+apple,Apple iPhone 17 Pro,Flagship,134900,74,-1.131976304,Overpriced,TRUE,TRUE,FALSE,apple,Apple A19 Pro,6,,12,256,3988,,,Slow Charging,6.3,120,48,18,3,iOS v26
+vivo,Vivo Y37c,Budget,7999,45,-1.096924294,Overpriced,TRUE,FALSE,FALSE,unisoc,Unisoc T7225,8,,6,128,5500,15,366.6666667,Slow Charging,6.56,90,13,5,2,Android v14
+samsung,Samsung Galaxy M17 5G,Budget,13999,54,0.464711075,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1330,8,2.4,4,128,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+nothing,Nothing Phone 3a Lite,Mid-Range,21869,63,-0.04327204,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 7300 Pro,8,2.5,8,128,5000,33,151.5151515,Standard,6.77,120,50,16,3,Android v15
+vivo,Vivo V70 Elite,Premium,51999,83,1.219180391,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,8,256,6500,90,72.22222222,Standard,6.59,120,50,50,3,Android v16
+vivo,Vivo T4 Lite 5G,Budget,13999,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,15,400,Slow Charging,6.74,90,50,5,2,Android v15
+poco,Poco F7 5G,Premium,35899,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,12,256,7550,90,83.88888889,Standard,6.83,120,50,20,2,Android v15
+apple,Apple iPhone 13,Premium,45690,55,-3.153747624,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A15,6,3.22,4,128,3240,,,Slow Charging,6.1,,12,12,2,iOS v15
+oneplus,OnePlus Turbo 6V,Mid-Range,24990,71,1.348426688,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7s Gen 4,8,2.7,8,256,9000,80,112.5,Standard,6.78,144,50,16,2,Android v16
+infinix,Infinix Note 60,Mid-Range,19990,70,1.174464347,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 7400,8,2.6,8,128,6500,45,144.4444444,Standard,6.78,144,50,13,2,Android v16
+vivo,Vivo Y31 5G,Mid-Range,18999,57,-1.087046085,Overpriced,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,4,128,6500,44,147.7272727,Standard,6.68,120,50,8,1,Android v15
+oppo,Oppo Find N6,Flagship,129990,97,1.613446764,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,6000,80,75,Standard,8.12,120,200,20,3,Android v16
+realme,Realme 16 5G (12GB RAM + 256GB),Premium,36999,71,-0.654931615,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6400 Turbo,8,2.5,12,256,7000,60,116.6666667,Standard,6.57,120,50,50,2,Android v16
+realme,Realme P3 Ultra,Mid-Range,25999,67,0.652577324,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8350 Ultra,8,3.35,8,128,6000,80,75,Standard,6.83,120,50,16,2,Android v15
+realme,Realme GT 6 5G (16GB RAM + 512GB),Premium,32999,77,0.282124388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,16,512,5500,120,45.83333333,Super Fast,6.78,120,50,32,3,Android v14
+infinix,Infinix Note 50 Pro 5G,Mid-Range,23990,71,1.348426688,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 7200,8,2.8,8,256,5000,65,76.92307692,Standard,6.78,144,50,50,3,Android v15
+realme,Realme P4 Power 5G (8GB RAM + 256GB),Mid-Range,27949,74,1.87031371,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Ultra,8,2.6,8,256,10001,80,125.0125,Standard,6.8,144,50,16,2,Android v16
+vivo,Vivo Y05,Budget,9999,45,-1.096924294,Overpriced,FALSE,FALSE,TRUE,unisoc,Unisoc T7225,8,2,4,64,6500,,,Slow Charging,6.74,90,8,5,1,Android v16
+vivo,Vivo V70 5G (12GB RAM + 256GB),Premium,46475,84,1.375356392,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,256,6500,90,72.22222222,Standard,6.59,120,50,50,3,Android v16
+realme,Realme P4 5G (8GB RAM + 256GB),Mid-Range,22999,67,0.652577324,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Ultra,8,2.6,8,256,7000,80,87.5,Standard,6.77,144,50,16,2,Android v15
+motorola,Motorola Edge 50 Fusion,Mid-Range,20849,67,0.652577324,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen2,8,2.4,8,128,5000,68,73.52941176,Standard,6.67,144,50,32,2,Android v14
+vivo,Vivo V50 5G,Mid-Range,29999,68,0.826539665,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,128,6000,90,66.66666667,Super Fast,6.77,120,50,50,2,Android v15
+xiaomi,Xiaomi Redmi Note 14 Pro 5G,Mid-Range,21999,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300 Ultra,8,2.5,8,128,5500,45,122.2222222,Standard,6.67,120,50,20,3,Android v14
+oppo,OPPO A6x 5G,Mid-Range,16999,50,-2.304782471,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,6500,45,144.4444444,Standard,6.75,120,13,5,1,Android v15
+apple,Apple iPhone 18 Pro Max,Flagship,179900,77,-0.773877643,Average Value,TRUE,TRUE,FALSE,samsung,A20 Pro,8,,12,256,5200,45,115.5555556,Standard,6.9,165,200,32,4,iOS v27
+redmagic,RedMagic 11 Pro Plus,Flagship,69990,80,-0.415778982,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,7500,120,62.5,Super Fast,6.85,144,50,16,3,Android v16
+infinix,Infinix Note 50X 5G,Budget,13499,55,0.638226116,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,6,128,5500,45,122.2222222,Standard,6.67,120,50,8,2,Android v15
+vivo,Vivo X400,Flagship,79990,84,0.061685899,Average Value,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,12,256,7000,100,70,Standard,6.45,120,200,50,3,Android v17
+honor,Honor 600 Lite 5G,Premium,30999,66,-1.435811618,Overpriced,TRUE,TRUE,FALSE,mediatek,Dimensity 7100,8,2.4,8,256,6520,45,144.8888889,Standard,6.6,120,108,16,2,Android v16
+xiaomi,Xiaomi Redmi 15C 5G,Budget,14999,55,0.638226116,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,33,181.8181818,Standard,6.9,120,50,8,2,Android v15
+xiaomi,Xiaomi Redmi Note 16,Mid-Range,18990,68,0.826539665,Average Value,FALSE,FALSE,TRUE,mediatek,Dimensity 6300,8,2.4,8,128,10000,100,100,Standard,6.82,120,200,32,3,Android v16
+infinix,Infinix Hot 50 5G,Budget,9999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5000,18,277.7777778,Slow Charging,6.7,120,48,8,2,Android v14
+iqoo,iQOO Z10x,Mid-Range,16998,57,-1.087046085,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,2.5,6,128,6500,44,147.7272727,Standard,6.72,120,50,8,2,Android v15
+xiaomi,Xiaomi 17 Ultra,Flagship,139999,94,1.255348103,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,16,512,6000,90,66.66666667,Super Fast,6.9,120,200,50,3,Android v16
+samsung,Samsung Galaxy S24 5G (Snapdragon +256GB),Premium,55999,72,-0.498755615,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen3,8,3.3,8,256,4000,25,160,Standard,6.2,120,50,12,3,Android v15
+oppo,Oppo F31 Pro Plus 5G,Premium,32999,70,-0.811107616,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,256,7000,80,87.5,Standard,6.8,120,50,32,2,Android v15
+poco,Poco C85x,Budget,10999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,unisoc,Unisoc T8300,8,2.2,4,64,6300,15,420,Slow Charging,6.9,120,32,8,1,Android v16
+lava,Lava Yuva Smart,Budget,5099,39,-2.138014541,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc SC9863A,8,1.6,3,64,5000,10,500,Slow Charging,6.75,,13,5,2,Android v14
+red,Red Magic 11 Pro,Flagship,60990,86,0.30041834,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,8000,80,100,Standard,6.85,144,50,16,3,Android v16
+oneplus,OnePlus Nord 5 (12GB RAM + 512GB),Premium,39999,79,0.594476389,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,12,512,6800,80,85,Standard,6.83,144,50,50,2,Android v15
+oppo,Oppo F31 Pro 5G,Mid-Range,27999,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Energy,8,2.5,8,128,7000,80,87.5,Standard,6.57,120,50,32,2,Android v15
+motorola,Motorola Razr 60 Ultra,Flagship,79999,98,1.732812984,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite,8,4.32,16,512,4700,68,69.11764706,Super Fast,6.96,165,50,50,2,
+xiaomi,Xiaomi Redmi Note 14,Mid-Range,16499,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7025 Ultra,8,2.5,6,128,5110,45,113.5555556,Standard,6.67,120,50,20,3,Android v14
+realme,Realme P5 5G,Mid-Range,19990,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,unknown,Octa Core Processor,8,,6,128,7500,100,75,Standard,6.77,144,50,16,2,Android v16
+realme,Realme 14 Pro Plus (8GB RAM + 256GB),Mid-Range,25999,67,0.652577324,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,256,6000,80,75,Standard,6.83,120,50,32,3,Android v15
+poco,Poco X7 Pro (12GB RAM + 256GB),Mid-Range,25999,71,1.348426688,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8400 Ultra,8,3.25,12,256,6550,90,72.77777778,Standard,6.67,120,50,20,2,Android v15
+vivo,Vivo Y400 5G,Mid-Range,25999,64,0.130690301,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,8,128,6000,90,66.66666667,Super Fast,6.67,120,50,32,2,Android v15
+google,Google Pixel 10 Pro,Flagship,109999,81,-0.296412762,Average Value,TRUE,TRUE,FALSE,google,Tensor G5,8,3.78,16,256,4870,30,162.3333333,Standard,6.3,120,50,42,3,Android v16
+oneplus,OnePlus Nord CE 4 5G (8GB RAM + 256GB),Mid-Range,21999,66,0.478614983,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,256,5500,100,55,Super Fast,6.7,120,50,16,2,Android v14
+samsung,Samsung Galaxy F17 5G,Budget,14599,57,0.985256198,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1330,8,2.4,4,128,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+realme,Realme Narzo 80 Pro 5G,Mid-Range,19999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,8,128,6000,80,75,Standard,6.72,120,50,16,2,Android v15
+poco,Poco M7 5G,Budget,12980,53,0.291196034,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,6,128,5160,18,286.6666667,Slow Charging,6.88,120,50,8,1,Android v14
+vivo,Vivo X300 FE,Flagship,69990,84,0.061685899,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen5,8,3.8,12,256,6500,90,72.22222222,Standard,6.31,120,50,50,3,Android v16
+vivo,Vivo Y500 5G,Mid-Range,17990,64,0.130690301,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 7300,8,2.5,8,128,8200,90,91.11111111,Standard,6.77,120,50,8,2,Android v15
+nothing,Nothing Phone 3a Pro,Mid-Range,27999,66,0.478614983,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen 3,8,2.5,8,128,5000,50,100,Standard,6.77,120,50,50,3,Android v15
+oppo,Oppo Find X9 Pro 5G,Flagship,109999,97,1.613446764,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,4.21,16,512,7500,80,93.75,Standard,6.78,120,200,50,3,Android v16
+samsung,Samsung Galaxy M15 5G Prime Edition (6GB RAM +128GB),Budget,12999,55,0.638226116,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,6,128,6000,25,240,Slow Charging,6.5,90,50,13,3,Android v14
+motorola,Motorola Moto G85 5G (12GB RAM + 256GB),Mid-Range,19190,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6s Gen3,8,2.3,12,256,5000,33,151.5151515,Standard,6.67,120,50,32,2,Android v14
+ai+,Ai+ Nova 2,Budget,10999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,unisoc,Unisoc T8200,8,,6,128,5000,18,277.7777778,Slow Charging,6.75,120,50,8,2,Android v15
+motorola,Motorola Edge 60 Pro (16GB RAM + 512GB),Premium,37999,81,0.90682839,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 8350 Extreme,8,3.35,16,512,6000,90,66.66666667,Super Fast,6.7,120,50,50,3,Android v15
+iqoo,iQOO Z10R,Mid-Range,22998,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,8,128,5700,44,129.5454545,Standard,6.77,120,50,32,2,Android v15
+samsung,Samsung Galaxy S27 Ultra 5G,Flagship,149990,88,0.53915078,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite Gen 6 for Galaxy,8,,12,256,5000,,,Slow Charging,6.9,144,200,12,4,Android v17
+tecno,Tecno Spark 50 5G,Mid-Range,16999,54,-1.608933108,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensity 6400,8,2.5,4,128,6500,45,144.4444444,Standard,6.78,120,50,8,1,Android v16
+oppo,Oppo Reno 15c,Premium,34999,68,-1.123459617,Overpriced,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6 Gen1,8,2.2,8,256,7000,80,87.5,Standard,6.57,120,50,50,3,Android v16
+iqoo,iQOO 15R (12GB RAM + 256GB),Premium,47998,86,1.687708393,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen5,8,3.8,12,256,7600,100,76,Standard,6.59,144,50,32,2,Android v16
+lava,Lava Bold N1 5G,Budget,7499,45,-1.096924294,Overpriced,TRUE,FALSE,FALSE,unisoc,Unisoc T765,8,2.3,4,64,5000,10,500,Slow Charging,6.75,,13,5,1,Android v15
+motorola,Motorola Moto G85 5G,Mid-Range,15999,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6s Gen3,8,2.3,8,128,5000,33,151.5151515,Standard,6.67,120,50,32,2,Android v14
+samsung,Samsung Galaxy S25 Plus,Flagship,74499,79,-0.535145203,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8Elite,8,4.47,12,256,4900,45,108.8888889,Standard,6.7,120,50,12,3,Android v15
+realme,Realme 16 Pro Plus 5G,Premium,43999,80,0.75065239,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,128,7000,80,87.5,Standard,6.8,144,200,50,3,Android v16
+realme,Realme GT 7 (12GB RAM + 256GB),Premium,38999,84,1.375356392,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9400e,8,3.4,12,256,7000,120,58.33333333,Super Fast,6.78,120,50,32,3,Android v15
+motorola,Motorola Edge 60 Pro (12GB RAM + 256GB),Premium,33449,79,0.594476389,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 8350 Extreme,8,3.35,12,256,6000,90,66.66666667,Super Fast,6.7,120,50,50,3,Android v15
+vivo,Vivo Y11 5G (4GB RAM + 128GB),Mid-Range,16999,50,-2.304782471,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensity 6300,8,2.4,4,128,6500,15,433.3333333,Slow Charging,6.74,120,13,5,2,Android v16
+samsung,Samsung Galaxy A56 5G,Premium,40999,66,-1.435811618,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1580,8,2.9,8,128,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v15
+oneplus,OnePlus 15R (12GB RAM + 512GB),Premium,55499,84,1.375356392,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen5,8,3.84,12,512,7400,80,92.5,Standard,6.83,165,50,32,2,Android v16
+tecno,Tecno Pova 7 Pro 5G (8GB RAM + 256GB),Mid-Range,19299,67,0.652577324,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,8,256,6000,45,133.3333333,Standard,6.78,144,64,13,2,Android v15
+acer,Acer Super ZX,Budget,9990,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5000,33,151.5151515,Standard,6.8,120,64,13,3,Android v15
+lava,Lava Bold 2 5G,Budget,13999,58,1.15877124,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 7060,8,2.6,6,128,5000,33,151.5151515,Standard,6.67,120,50,8,2,Android v15
+samsung,Samsung Galaxy Z Tri Fold,Flagship,219990,93,1.135981882,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,16,512,5600,45,124.4444444,Standard,10,120,,,2,Android v16
+samsung,Samsung Galaxy M36 5G,Mid-Range,16644,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,samsung,Exynos 1380,8,2.4,6,128,5000,25,200,Standard,6.7,120,50,13,3,Android v15
+tecno,Tecno Camon 50 Pro 5G,Premium,34990,67,-1.279635617,Overpriced,TRUE,TRUE,TRUE,mediatek,Dimensity 7400,8,2.6,8,256,6500,,,Slow Charging,6.78,144,50,50,3,Android v16
+google,Google Pixel 10 5G,Flagship,69999,75,-1.012610084,Overpriced,TRUE,TRUE,FALSE,google,Tensor G5,8,3.78,12,256,4970,30,165.6666667,Standard,6.3,120,48,10.5,3,Android v16
+infinix,Infinix Note 50 Pro Plus 5G,Premium,31990,79,0.594476389,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8350,8,3.35,12,256,5200,100,52,Super Fast,6.78,144,50,32,3,Android v15
+vivo,Vivo V60 Lite 5G,Mid-Range,24990,67,0.652577324,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 7360 Turbo,8,2.5,8,256,6500,90,72.22222222,Standard,6.77,120,50,32,2,Android v15
+apple,Apple iPhone 17e,Flagship,64900,63,-2.445004728,Overpriced,TRUE,TRUE,FALSE,apple,Apple A19,6,,8,256,4005,,,Slow Charging,6.1,,48,12,1,iOS v26.3
+realme,Realme P3x 5G (8GB RAM + 128GB),Budget,13999,57,0.985256198,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6400,8,2.5,8,128,6000,45,133.3333333,Standard,6.72,120,50,8,2,Android v15
+infinix,Infinix GT 30 Pro,Mid-Range,27499,75,2.044276051,Performance Beast,TRUE,TRUE,TRUE,mediatek,Dimensity 8350 Ultimate,8,3.35,8,256,5500,45,122.2222222,Standard,6.78,144,108,13,2,Android v15
+oneplus,OnePlus 13,Flagship,62999,86,0.30041834,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,6000,100,60,Super Fast,6.82,120,50,32,3,Android v15
+poco,Poco X7 5G,Mid-Range,19299,64,0.130690301,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7300 Ultra,8,2.5,8,128,5500,45,122.2222222,Standard,6.67,120,50,20,3,Android v14
+infinix,Infinix GT 50 Pro,Mid-Range,29999,70,1.174464347,Value King,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,8,256,6150,45,136.6666667,Standard,6.78,144,50,13,3,Android v16
+honor,Honor 600,Premium,44999,72,-0.498755615,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,256,7500,80,93.75,Standard,6.55,120,50,50,2,Android v16
+ai+,Ai+ Pulse 2,Budget,7999,46,-0.923409253,Average Value,FALSE,FALSE,FALSE,unisoc,Unisoc T7250,8,1.8,4,64,6000,10,600,Slow Charging,6.75,120,50,8,2,Android v16
+oppo,OPPO Reno 15 Pro 5G,Flagship,67999,86,0.30041834,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8450,8,3.25,12,256,6500,80,81.25,Standard,6.78,120,200,50,3,Android v16
+samsung,Samsung Galaxy F56 5G,Mid-Range,23190,64,0.130690301,Average Value,TRUE,FALSE,FALSE,samsung,Exynos 1480,8,2.7,8,128,5000,45,111.1111111,Standard,6.74,120,50,12,3,Android v15
+infinix,Infinix Note 15 Pro 5G,Mid-Range,19990,64,0.130690301,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,8,128,5000,66,75.75757576,Standard,6.8,144,108,32,3,Android v14
+samsung,Samsung Galaxy A07 5G (6GB RAM + 128GB),Mid-Range,15990,57,-1.087046085,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,25,240,Slow Charging,6.74,120,50,8,2,Android v16
+realme,Realme P4x 5G (8GB RAM + 256GB),Mid-Range,20999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400 Ultra,8,2.6,8,256,7000,45,155.5555556,Standard,6.72,144,50,8,2,Android v15
+realme,Realme P3 Lite 5G,Budget,12999,55,0.638226116,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,45,133.3333333,Standard,6.67,120,32,8,2,Android v15
+realme,Realme P4 5G (8GB RAM + 128GB),Mid-Range,20999,66,0.478614983,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Ultra,8,2.6,8,128,7000,80,87.5,Standard,6.77,144,50,16,2,Android v15
+oneplus,OnePlus Nord 6 Naruto Edition,Premium,39990,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,8,256,9000,80,112.5,Standard,6.78,165,50,32,2,Android v16
+xiaomi,Xiaomi Redmi 15A 5G (6GB RAM + 128GB),Mid-Range,16400,59,-0.739121403,Average Value,TRUE,FALSE,TRUE,unisoc,Unisoc T8300,8,2.2,6,128,6300,33,190.9090909,Standard,6.9,120,32,8,1,Android v16
+oppo,OPPO K13x 5G,Mid-Range,15990,54,-1.608933108,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,45,133.3333333,Standard,6.67,120,50,8,2,Android v15
+nothing,Nothing Phone (4a) Pro (12GB RAM + 256GB),Premium,45999,77,0.282124388,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen 4,8,2.8,12,256,5400,50,108,Standard,6.83,144,50,32,3,Android v16
+realme,Realme Narzo Power 5G (8GB RAM +256GB),Mid-Range,26099,75,2.044276051,Performance Beast,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Ultra,8,2.6,8,256,10001,80,125.0125,Standard,6.8,144,50,16,2,Android v16
+realme,Realme Narzo 90 (8GB RAM +128GB),Mid-Range,19999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6400 Max,8,,8,128,7000,60,116.6666667,Standard,6.57,120,50,50,2,Android v15
+iqoo,iQOO 15 (16GB RAM + 512GB),Flagship,79998,94,1.255348103,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,16,512,7000,100,70,Standard,6.85,144,50,32,3,Android v16
+samsung,Samsung Galaxy S25 FE (8GB RAM + 256GB),Premium,59899,79,0.594476389,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2400,10,3.2,8,256,4900,45,108.8888889,Standard,6.7,120,50,12,3,Android v16
+motorola,Motorola Moto G96 5G (8GB RAM + 256GB),Mid-Range,20849,66,0.478614983,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen2,8,2.4,8,256,5500,33,166.6666667,Standard,6.67,144,50,32,2,Android v15
+oppo,Oppo Find X9 5G,Flagship,74999,89,0.658517001,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,4.21,12,256,7025,80,87.8125,Standard,6.59,120,50,32,3,Android v16
+iqoo,iQOO Z11x 5G (8GB RAM + 128GB),Mid-Range,20999,66,0.478614983,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Turbo,8,2.6,8,128,7200,44,163.6363636,Standard,6.76,120,50,32,2,Android v16
+oppo,OPPO K15 Pro Plus,Premium,49999,77,0.282124388,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500s,8,3.73,12,256,8000,100,80,Standard,6.78,165,50,16,2,Android v16
+vivo,Vivo V70e,Premium,35990,71,-0.654931615,Average Value,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,8,256,6500,90,72.22222222,Standard,6.59,144,50,50,3,Android v16
+samsung,Samsung Galaxy S26 Ultra (16GB RAM + 1TB),Flagship,189999,98,1.732812984,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite Gen 5 for Galaxy,8,4.74,16,1024,5000,60,83.33333333,Standard,6.9,120,200,12,4,Android v16
+oppo,Oppo K15 Turbo,Mid-Range,29990,66,0.478614983,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8500,8,,8,128,7400,80,92.5,Standard,6.59,165,50,16,2,Android v16
+vivo,Vivo V80 5G,Premium,47999,81,0.90682839,Average Value,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,8,256,7000,100,70,Standard,6.67,144,50,50,3,Android v17
+realme,Realme P3 5G (8GB RAM + 256GB),Mid-Range,18499,63,-0.04327204,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6 Gen4,8,2.3,8,256,6000,45,133.3333333,Standard,6.67,120,50,16,2,Android v15
+xiaomi,Xiaomi Redmi 13 5G,Budget,12499,58,1.15877124,Value King,TRUE,FALSE,TRUE,qualcomm,Snapdragon 4 Gen 2 AE,8,2.3,6,128,5030,33,152.4242424,Standard,6.79,120,108,13,2,Android v14
+oppo,OPPO Reno 16 Pro 5G,Flagship,69990,86,0.30041834,Average Value,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,12,256,7000,100,70,Standard,6.78,120,200,50,3,Android v17
+honor,Honor Power 2,Premium,34990,70,-0.811107616,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8500,8,3.4,12,256,10080,80,126,Standard,6.79,120,50,16,2,Android v16
+poco,Poco M7 Plus 5G (4GB RAM + 128GB),Budget,13444,58,1.15877124,Value King,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6s Gen3,8,2.3,4,128,7000,33,212.1212121,Slow Charging,6.9,144,50,8,1,Android v15
+iqoo,iQOO 15R (12GB RAM + 512GB),Premium,52998,88,2.000060394,Performance Beast,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen5,8,3.8,12,512,7600,100,76,Standard,6.59,144,50,32,2,Android v16
+realme,Realme C83 5G,Budget,14499,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,7000,15,466.6666667,Slow Charging,6.8,144,13,5,1,Android v16
+bluefox,Bluefox NX1,Budget,8699,37,-2.485044623,Overpriced,FALSE,FALSE,TRUE,mediatek,Helio G81,8,2,4,64,3000,,,Slow Charging,4,,48,5,1,Android v15
+iqoo,iQOO Z10 Turbo Pro,Mid-Range,23990,70,1.174464347,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,12,256,7000,120,58.33333333,Super Fast,6.78,120,50,16,2,Android v15
+realme,Realme GT 7T,Premium,32490,76,0.125948388,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8400-MAX,8,3.25,8,256,7000,120,58.33333333,Super Fast,6.8,120,50,32,2,Android v15
+samsung,Samsung Galaxy A26 5G,Mid-Range,21990,64,0.130690301,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1380,8,2.4,8,128,5000,25,200,Standard,6.7,120,50,13,3,Android v15
+apple,Apple iPhone Air,Flagship,94990,64,-2.325638508,Overpriced,TRUE,TRUE,FALSE,apple,Apple A19 Pro,6,,8,256,3149,,,Slow Charging,6.5,120,48,18,1,iOS v26
+motorola,Motorola Edge 60 5G,Mid-Range,26884,75,2.044276051,Performance Beast,TRUE,TRUE,FALSE,mediatek,Dimensity 7400,8,2.6,12,256,5500,68,80.88235294,Standard,6.7,120,50,50,3,Android v15
+motorola,Motorola Moto G64 5G (12GB RAM + 256GB),Mid-Range,16889,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7025,8,2.5,12,256,6000,33,181.8181818,Standard,6.5,120,50,16,2,Android v14
+xiaomi,Xiaomi Redmi 13C 5G (6GB RAM + 128GB),Budget,11299,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,6,128,5000,18,277.7777778,Slow Charging,6.74,90,50,5,2,Android v13
+vivo,Vivo V30 Pro 5G,Mid-Range,28494,70,1.174464347,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 8200,8,3.1,8,256,5000,80,62.5,Super Fast,6.78,120,50,50,3,Android v14
+apple,Apple iPhone 16 Pro Max,Flagship,127490,80,-0.415778982,Average Value,TRUE,TRUE,FALSE,apple,Bionic A18 Pro,6,4.05,8,256,4685,,,Slow Charging,6.9,120,48,12,3,iOS v18
+google,Google Pixel 8A,Premium,37999,64,-1.748163619,Overpriced,TRUE,TRUE,FALSE,google,Tensor G3,9,3,8,128,4492,,,Slow Charging,6.1,120,64,13,2,Android v14
+honor,Honor X9d,Premium,31990,68,-1.123459617,Overpriced,TRUE,TRUE,TRUE,qualcomm,Snapdragon 6 Gen4,8,2.3,12,256,8300,66,125.7575758,Standard,6.79,120,108,16,2,Android v15
+oppo,Oppo A6 Pro 5G,Mid-Range,26999,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,7000,80,87.5,Standard,6.75,120,50,16,2,Android v15
+oneplus,OnePlus Nord 5 (12GB RAM + 256GB),Premium,36999,77,0.282124388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,12,256,6800,80,85,Standard,6.83,144,50,50,2,Android v15
+tecno,Tecno Pova Curve 5G,Mid-Range,15999,62,-0.21723438,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,6,128,5500,45,122.2222222,Standard,6.78,144,64,13,2,Android v15
+infinix,Infinix Note 50s 5G,Mid-Range,18999,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,8,128,5500,45,122.2222222,Standard,6.78,144,64,13,2,Android v15
+nothing,Nothing Phone 3a (8GB RAM + 256GB),Mid-Range,26999,68,0.826539665,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,256,5000,50,100,Standard,6.77,120,50,32,3,Android v15
+wobble,Wobble One 5G (12GB RAM + 256GB),Mid-Range,29999,68,0.826539665,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,12,256,5000,33,151.5151515,Standard,6.67,120,50,50,3,Android v15
+realme,Realme P4 Pro 5G,Mid-Range,28999,71,1.348426688,Value King,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7 Gen 4,8,,8,128,7000,80,87.5,Standard,6.8,144,50,50,2,Android v15
+infinix,Infinix Hot 60 5G,Budget,13999,57,0.985256198,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7020,8,2.2,6,128,5200,18,288.8888889,Slow Charging,6.7,120,50,8,2,Android v15
+lava,Lava Bold N2 Pro,Budget,7999,46,-0.923409253,Average Value,FALSE,FALSE,FALSE,unisoc,Unisoc T7250,8,2.6,4,128,5000,,,Slow Charging,6.75,120,50,8,3,Android v15
+oppo,OPPO Reno 14 Pro 5G (12GB RAM + 512GB),Premium,49889,88,2.000060394,Performance Beast,TRUE,TRUE,TRUE,mediatek,Dimensity 8450,8,3.25,12,512,6200,80,77.5,Standard,6.83,120,50,50,3,Android v15
+xiaomi,Xiaomi 17 5G,Flagship,89999,90,0.777883221,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,512,6330,100,63.3,Super Fast,6.3,120,50,50,3,Android v16
+iqoo,iQOO Neo 11R,Mid-Range,29990,71,1.348426688,Value King,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,12,256,6700,100,67,Super Fast,6.78,144,50,32,2,Android v16
+poco,Poco M8,Mid-Range,17490,61,-0.391196721,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6 Gen3,8,,6,128,5520,45,122.6666667,Standard,6.77,120,50,20,2,Android v15
+realme,Realme GT 6,Mid-Range,27999,74,1.87031371,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,8,256,5500,120,45.83333333,Super Fast,6.78,120,50,32,3,Android v14
+motorola,Motorola Edge 60 Fusion 5G (8GB RAM + 128GB),Mid-Range,21749,67,0.652577324,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,8,128,5500,68,80.88235294,Standard,6.7,120,50,32,2,Android v15
+realme,Realme Narzo 100 Lite,Mid-Range,15999,54,-1.608933108,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6400,8,,4,128,7000,33,212.1212121,Slow Charging,6.67,120,50,8,2,Android v16
+oppo,Oppo A6 5G,Mid-Range,21999,58,-0.913083744,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,7000,45,155.5555556,Standard,6.75,120,50,8,2,Android v15
+oneplus,OnePlus Nord CE 6 Lite,Mid-Range,22999,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6300,8,2.4,6,128,7000,80,87.5,Standard,6.7,120,50,16,2,Android v16
+nothing,Nothing Phone 4a (8GB RAM + 256GB),Premium,34824,72,-0.498755615,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen4,8,2.7,8,256,5400,50,108,Standard,6.78,,50,32,3,Android v16
+vivo,Vivo Y21 5G,Mid-Range,18999,58,-0.913083744,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 6300,8,2.4,4,128,6500,44,147.7272727,Standard,6.74,120,50,5,2,Android v16
+vivo,Vivo Y31 Pro 5G,Mid-Range,19999,57,-1.087046085,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,,8,128,6500,44,147.7272727,Standard,6.72,120,50,8,2,Android v15
+vivo,Vivo V60 5G (12GB RAM + 256GB),Premium,37834,79,0.594476389,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,256,6500,90,72.22222222,Standard,6.77,120,50,50,3,Android v15
+realme,Realme 15 Pro 5G (12GB RAM + 256GB),Premium,35999,76,0.125948388,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,256,7000,80,87.5,Standard,6.8,144,50,50,2,Android v15
+infinix,Infinix GT 30 5G,Mid-Range,18988,66,0.478614983,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400,8,2.6,8,128,5500,45,122.2222222,Standard,6.78,144,64,13,2,Android v15
+cmf,CMF Phone 2 Pro 5G (8GB RAM + 256GB),Mid-Range,20999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Pro,8,2.5,8,256,5000,33,151.5151515,Standard,6.77,120,50,16,3,Android v15
+iqoo,iQOO Neo 10R (12GB RAM + 256GB),Premium,34999,75,-0.030227613,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,12,256,6400,80,80,Standard,6.78,144,50,32,2,Android v15
+realme,Realme GT 8 Pro,Flagship,72999,94,1.255348103,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,7000,120,58.33333333,Super Fast,6.79,144,200,32,3,Android v16
+tecno,Tecno Pova 7 Pro 5G,Mid-Range,17299,66,0.478614983,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,8,128,6000,45,133.3333333,Standard,6.78,144,64,13,2,Android v15
+apple,Apple iPhone 16 Plus,Flagship,79900,70,-1.609441186,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A18,6,4.04,8,128,4674,,,Slow Charging,6.7,60,48,12,2,iOS v18
+oneplus,OnePlus 12 5G,Premium,46999,79,0.594476389,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,12,256,5400,100,54,Super Fast,6.82,120,64,32,3,Android v14
+realme,Realme P4 Power 5G (12GB RAM + 256GB),Premium,32999,75,-0.030227613,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Ultra,8,2.6,12,256,10001,80,125.0125,Standard,6.8,144,50,16,2,Android v16
+oneplus,OnePlus 15s 5G,Premium,59999,84,1.375356392,Value King,TRUE,TRUE,TRUE,qualcomm,Octa Core Processor,,,12,256,6500,80,81.25,Standard,6.3,165,50,50,2,Android v16
+xiaomi,Xiaomi Redmi Note 15 5G (256GB),Mid-Range,27999,71,1.348426688,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 6 Gen3,8,2.4,8,256,5520,45,122.6666667,Standard,6.77,120,108,20,2,Android v15
+realme,Realme 15T 5G,Mid-Range,21990,66,0.478614983,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6400 Max,8,2.5,8,128,7000,60,116.6666667,Standard,6.57,120,50,50,2,Android v15
+samsung,Samsung Galaxy Z Fold 8,Flagship,199999,94,1.255348103,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,4800,25,192,Standard,8,120,,,2,Android v17
+samsung,Samsung Galaxy M56 (8GB RAM + 256GB),Mid-Range,24999,59,-0.739121403,Average Value,TRUE,FALSE,FALSE,samsung,Exynos 1480,8,2.7,8,256,5000,45,111.1111111,Standard,6.74,120,50,12,3,Android v15
+tecno,Tecno POP 10 5G,Budget,7999,54,0.464711075,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7025,8,2.5,4,128,5100,,,Slow Charging,6.67,120,50,8,2,Android v15
+motorola,Motorola Edge 50 Ultra 5G,Premium,37790,81,0.90682839,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8s Gen3,8,3,12,512,4500,125,36,Super Fast,6.7,144,64,50,3,Android v14
+poco,Poco X8 Pro Max 5G (12GB RAM + 512GB),Premium,46999,84,1.375356392,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 9500s,8,3.73,12,512,9000,100,90,Standard,6.83,120,50,20,2,Android v16
+samsung,Samsung Galaxy F70e 5G (6GB RAM + 128GB),Mid-Range,15990,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,25,240,Slow Charging,6.7,120,50,8,2,Android v16
+realme,Realme 17 Pro 5G,Premium,33990,75,-0.030227613,Average Value,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,8,128,7500,100,75,Standard,6.83,144,200,50,2,Android v17
+xiaomi,Xiaomi Redmi 15 5G (8GB RAM + 256GB),Mid-Range,19499,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6s Gen3,8,2.3,8,256,7000,33,212.1212121,Slow Charging,6.9,144,50,8,2,Android v15
+oppo,OPPO K13x 5G (8GB RAM +128GB),Mid-Range,17880,55,-1.434970767,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,6000,45,133.3333333,Standard,6.67,120,50,8,2,Android v15
+lava,Lava Storm Play 5G (8GB RAM + 256GB),Budget,13499,57,0.985256198,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7060,8,2.6,8,256,5000,18,277.7777778,Slow Charging,6.75,120,50,8,2,Android v15
+realme,Realme GT 8T,Premium,36999,75,-0.030227613,Average Value,TRUE,TRUE,FALSE,unknown,Octa Core Processor,8,,8,256,7000,120,58.33333333,Super Fast,6.8,120,50,32,2,Android v16
+samsung,Samsung Galaxy M16 5G (8GB RAM + 128GB),Mid-Range,15499,57,-1.087046085,Overpriced,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,5000,25,200,Standard,6.7,90,50,13,3,Android v14
+xiaomi,Xiaomi Redmi 14C 5G (6GB RAM + 128GB),Budget,11999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,6,128,5160,18,286.6666667,Slow Charging,6.88,120,50,8,2,Android v14
+realme,Realme P3 Pro 5G,Mid-Range,20999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,128,6000,80,75,Standard,6.83,120,50,16,2,Android v15
+xiaomi,Xiaomi Redmi Note 14 Pro Plus,Mid-Range,26999,68,0.826539665,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,128,6200,90,68.88888889,Super Fast,6.67,120,50,20,3,Android v14
+apple,Apple iPhone 14,Premium,52190,58,-2.685219622,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A15,6,3.22,6,128,3279,,,Slow Charging,6.1,,12,12,2,iOS v16
+poco,Poco X8 Pro Iron Man Edition,Premium,37999,77,0.282124388,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8500 Ultra,8,3.4,12,256,6500,100,65,Super Fast,6.59,120,50,20,2,Android v16
+oppo,OPPO Reno 16 5G,Premium,47999,77,0.282124388,Average Value,TRUE,FALSE,TRUE,unknown,Octa Core Processor,8,,8,256,7000,100,70,Standard,6.67,120,200,50,3,Android v17
+motorola,Motorola Signature (16GB RAM + 1TB),Flagship,69999,90,0.777883221,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen5,8,3.8,16,1024,5200,90,57.77777778,Super Fast,6.8,165,50,50,3,Android v16
+xiaomi,Xiaomi Redmi Turbo 5 Max,Premium,39999,77,0.282124388,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500s,8,3.73,12,256,9000,100,90,Standard,6.83,120,50,20,2,Android v16
+samsung,Samsung Galaxy A08,Budget,9990,44,-1.270439335,Overpriced,FALSE,FALSE,FALSE,mediatek,Helio G100,8,,4,128,5000,,,Slow Charging,6.67,90,50,8,2,Android v16
+motorola,Motorola Moto G35 5G (8GB RAM + 128GB),Budget,13590,58,1.15877124,Value King,TRUE,FALSE,FALSE,unisoc,Unisoc T760,8,2.2,8,128,5000,18,277.7777778,Slow Charging,6.72,120,50,16,2,Android v14
+tecno,Tecno Pova Slim 5G,Mid-Range,20030,58,-0.913083744,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6400,8,2.5,8,128,5160,45,114.6666667,Standard,6.78,144,50,13,2,Android v15
+vivo,Vivo T4 Pro 5G (12GB RAM + 256GB),Premium,31990,74,-0.186403614,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,256,6500,90,72.22222222,Standard,6.77,120,50,32,3,Android v15
+vivo,Vivo T4 Lite 5G (6 GB RAM +128 GB),Budget,14999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,15,400,Slow Charging,6.74,90,50,5,2,Android v15
+realme,Realme 15x 5G,Mid-Range,18999,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,7000,60,116.6666667,Standard,6.81,144,50,50,2,Android v15
+realme,Realme 14 Pro Plus 5G,Mid-Range,24999,67,0.652577324,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,128,6000,80,75,Standard,6.83,120,50,32,3,Android v15
+oppo,OPPO Reno 13 5G,Premium,34999,71,-0.654931615,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8350,8,3.35,8,128,5600,80,70,Standard,6.59,120,50,50,3,Android v15
+apple,Apple iPhone 15 (256GB),Flagship,69900,64,-2.325638508,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A16,6,3.46,6,256,3349,,,Slow Charging,6.1,,48,12,2,iOS v17
+vivo,Vivo V70 5G (12GB RAM + 512GB),Premium,54999,84,1.375356392,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,512,6500,90,72.22222222,Standard,6.59,120,50,50,3,Android v16
+samaung,Samaung Galaxy F70e,Budget,13200,58,1.15877124,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,25,240,Slow Charging,6.7,120,50,8,2,Android v16
+realme,Realme P4x 5G (8GB RAM + 128GB),Mid-Range,17869,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400 Ultra,8,2.6,8,128,7000,45,155.5555556,Standard,6.72,144,50,8,2,Android v15
+tecno,Tecno Camon 50 Ultra,Premium,34990,66,-1.435811618,Overpriced,TRUE,TRUE,TRUE,mediatek,Dimensity 7400 Ultimate,8,2.6,8,256,6500,,,Slow Charging,6.78,144,50,50,3,Android v16
+motorola,Motorola Moto G06 Power,Budget,9999,48,-0.576379171,Average Value,FALSE,FALSE,FALSE,mediatek,Helio G81,8,2,4,64,7000,,,Slow Charging,6.88,120,50,8,1,Android v15
+vivo,Vivo V70 Lite,Mid-Range,20990,64,0.130690301,Average Value,TRUE,TRUE,FALSE,unknown,Octa Core Processor,8,,8,256,7000,100,70,Standard,6.78,120,50,32,2,Android v16
+realme,Realme 16T 5G,Mid-Range,21990,64,0.130690301,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity,8,,8,128,7500,80,93.75,Standard,6.57,120,50,50,2,Android v16
+ai+,Ai+ Nova 5G,Budget,10999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,unisoc,Unisoc T8200,8,,6,128,5000,18,277.7777778,Slow Charging,6.75,120,50,5,2,Android v15
+realme,Realme GT 7 (12GB RAM + 512GB),Premium,41999,85,1.531532392,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9400e,8,3.4,12,512,7000,120,58.33333333,Super Fast,6.78,120,50,32,3,Android v15
+iqoo,iQOO Neo 10R (8GB RAM + 256GB),Premium,33972,74,-0.186403614,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,8,256,6400,80,80,Standard,6.78,144,50,32,2,Android v15
+poco,Poco X7 5G (8GB RAM + 256GB),Mid-Range,19999,66,0.478614983,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7300 Ultra,8,2.5,8,256,5500,45,122.2222222,Standard,6.67,120,50,20,3,Android v14
+samsung,Samsung Galaxy A06 5G,Budget,10999,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,5000,25,200,Standard,6.7,90,50,8,2,Android v15
+samsung,Samsung Galaxy M15 5G Prime Edition (8GB RAM +128GB),Budget,13298,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,8,128,6000,25,240,Slow Charging,6.5,90,50,13,3,Android v14
+google,Google Pixel 10 Pro XL,Flagship,124999,83,-0.057680321,Average Value,TRUE,TRUE,FALSE,google,Tensor G5,8,3.78,16,256,5200,45,115.5555556,Standard,6.8,120,50,42,3,Android v16
+google,Google Pixel 7 Pro 5G,Premium,36999,72,-0.498755615,Average Value,TRUE,TRUE,FALSE,google,Google  Tensor G2,8,2.85,12,128,5000,30,166.6666667,Standard,6.7,120,50,10.8,3,Android v13
+vivo,Vivo Y11 5G,Budget,14999,49,-0.40286413,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6300,8,2.4,4,64,6500,15,433.3333333,Slow Charging,6.74,120,13,5,2,Android v16
+tecno,Tecno Pova Curve 2,Mid-Range,26299,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7100,8,2.4,8,128,8000,45,177.7777778,Standard,6.78,144,50,13,2,Android v16
+nothing,Nothing Phone 3a Lite (8GB RAM + 256GB),Mid-Range,23790,64,0.130690301,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 7300 Pro,8,2.5,8,256,5000,33,151.5151515,Standard,6.77,120,50,16,3,Android v15
+samsung,Samsung Galaxy M17 5G (6GB RAM + 128GB),Mid-Range,15499,55,-1.434970767,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1330,8,2.4,6,128,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+nothing,Nothing Phone (4a) Pro (8GB RAM + 256GB),Premium,42770,76,0.125948388,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen 4,8,2.8,8,256,5400,50,108,Standard,6.83,144,50,32,3,Android v16
+itel,itel Super 26 Ultra,Budget,9999,49,-0.40286413,Average Value,FALSE,TRUE,TRUE,unisoc,Unisoc T7300,8,2.2,8,128,6000,18,333.3333333,Slow Charging,6.8,144,50,,2,Android v15
+samsung,Samsung Galaxy A17 5G (8GB RAM + 128GB),Mid-Range,19999,59,-0.739121403,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1330,8,2.4,8,128,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+samsung,Samsung Galaxy F36 5G,Mid-Range,18900,62,-0.21723438,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1380,8,2.4,6,128,5000,25,200,Standard,6.7,120,50,13,3,Android v15
+xiaomi,Xiaomi Redmi A5 4G,Budget,7999,45,-1.096924294,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc T7250,8,1.8,3,64,5200,15,346.6666667,Slow Charging,6.88,120,32,8,1,Android v15
+realme,Realme P3 5G (8GB RAM + 128GB),Mid-Range,16999,63,-0.04327204,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6 Gen4,8,2.3,8,128,6000,45,133.3333333,Standard,6.67,120,50,16,2,Android v15
+vivo,Vivo T4x 5G (8GB RAM + 256GB),Mid-Range,20899,58,-0.913083744,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,2.5,8,256,6500,44,147.7272727,Standard,6.72,120,50,8,2,Android v15
+realme,Realme P1 5G (8GB RAM+ 128GB),Budget,14999,58,1.15877124,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 7050,8,2.6,8,128,5000,45,111.1111111,Standard,6.67,120,50,16,2,Android v14
+vivo,Vivo V40 5G,Premium,34999,70,-0.811107616,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,128,5500,80,68.75,Super Fast,6.78,120,50,50,2,Android v14
+nothing,Nothing Phone 2a (8GB RAM + 256GB),Mid-Range,24999,70,1.174464347,Value King,TRUE,TRUE,FALSE,mediatek,Dimensity 7200 Pro,8,2.8,8,256,5000,45,111.1111111,Standard,6.7,120,50,32,2,Android v14
+xiaomi,Xiaomi Redmi Note 13 5G (8GB RAM + 256GB),Mid-Range,16999,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6080,8,2.4,8,256,5000,33,151.5151515,Standard,6.67,120,108,16,3,Android v13
+motorola,Motorola Moto Edge 50 Neo,Mid-Range,20999,66,0.478614983,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 7300,8,2.5,8,256,4310,68,63.38235294,Super Fast,6.4,120,50,32,3,Android v14
+nothing,Nothing Phone 3 5G,Flagship,79999,83,-0.057680321,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8s Gen4,8,3.2,12,256,5500,65,84.61538462,Standard,6.67,120,50,50,3,Android v15
+oneplus,OnePlus Nord CE 4 Lite 5G,Mid-Range,19999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 695,8,2.2,8,128,5500,80,68.75,Super Fast,6.67,120,50,16,2,Android v14
+samsung,Samsung Galaxy M35 5G,Mid-Range,19999,61,-0.391196721,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1380,8,2.4,6,128,6000,25,240,Slow Charging,6.6,120,50,13,3,Android v14
+vivo,Vivo V70 Elite 5G (12GB RAM + 512GB),Flagship,61999,86,0.30041834,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,12,512,6500,90,72.22222222,Standard,6.59,120,50,50,3,Android v16
+realme,Realme 16 Pro 5G (8GB RAM + 256GB),Premium,37999,77,0.282124388,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Max,8,,8,256,7000,80,87.5,Standard,6.78,144,200,50,2,Android v16
+infinix,Infinix Note Edge 5G,Mid-Range,22999,66,0.478614983,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7100,8,2.4,6,128,6500,45,144.4444444,Standard,6.78,120,50,13,2,Android v16
+oneplus,OnePlus 16R 5G,Premium,50999,80,0.75065239,Average Value,TRUE,TRUE,TRUE,qualcomm,Octa Core Processor,,,12,256,7500,120,62.5,Super Fast,6.82,165,50,32,3,Android v17
+oppo,Oppo Find X9s,Premium,50990,83,1.219180391,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9500s,8,,12,256,10000,80,125,Standard,6.3,120,200,32,3,Android v15
+xiaomi,Xiaomi 17 Pro Max,Flagship,105990,94,1.255348103,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,512,7500,100,75,Standard,6.9,120,,,2,Android v16
+nothing,Nothing Phone 4a (12GB RAM + 256GB),Premium,36182,74,-0.186403614,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen4,8,2.7,12,256,5400,50,108,Standard,6.78,,50,32,3,Android v16
+oppo,Oppo K13 Turbo (8GB RAM + 256GB),Mid-Range,29999,70,1.174464347,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 8450,8,3.25,8,256,7000,80,87.5,Standard,6.8,120,50,16,2,Android v15
+iqoo,iQOO 15 Ultra,Flagship,99990,88,0.53915078,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,16,256,7400,100,74,Standard,6.85,144,50,32,3,Android v16
+iqoo,iQOO Neo 10 (8GB RAM + 256GB),Premium,36998,80,0.75065239,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,8,256,7000,120,58.33333333,Super Fast,6.78,144,50,32,2,Android v15
+realme,Realme C100,Mid-Range,15990,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,8,128,7500,44,170.4545455,Standard,6.67,144,50,16,2,Android v16
+vivo,Vivo X300s,Flagship,68990,88,0.53915078,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,4.21,12,256,7100,90,78.88888889,Standard,6.78,144,200,50,3,Android v16
+lava,Lava Agni 4 5G,Mid-Range,24999,70,1.174464347,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 8350,8,3.35,8,256,5000,66,75.75757576,Standard,6.67,120,50,50,2,Android v15
+vivo,Vivo Y04,Budget,8990,41,-1.790984458,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc T7225,8,2,4,64,5000,18,277.7777778,Slow Charging,6.74,90,13,5,2,Android v14
+nubia,Nubia Z70 Ultra,Premium,53990,80,0.75065239,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,6150,80,76.875,Standard,6.85,144,64,16,3,Android v15
+iqoo,iQOO Z10 Turbo,Mid-Range,21990,70,1.174464347,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8400,8,3.25,12,256,7620,90,84.66666667,Standard,6.78,144,50,16,2,Android v15
+infinix,Infinix Hot 50 5G (8 GB RAM + 128 GB),Budget,10999,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,5000,18,277.7777778,Slow Charging,6.7,120,48,8,2,Android v14
+vivo,Vivo X200 5G,Premium,59990,80,0.75065239,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9400,8,3.63,12,256,5800,90,64.44444444,Super Fast,6.67,120,50,32,3,Android v15
+oppo,OPPO Reno 11,Mid-Range,28999,70,1.174464347,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 7050,8,2.6,8,128,5000,67,74.62686567,Standard,6.7,120,50,32,3,Android v14
+vivo,Vivo T2x 5G,Budget,11999,50,-0.229349089,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6020,8,2.2,4,128,5000,18,277.7777778,Slow Charging,6.58,,50,8,2,Android v13
+honor,Honor X80i,Mid-Range,24990,61,-0.391196721,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 6500  Elite,8,2.6,8,128,7000,45,155.5555556,Standard,6.6,120,50,8,1,Android v16
+samsung,Samsung Galaxy A57 (12GB RAM + 256GB),Flagship,62499,75,-1.012610084,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1680,8,2.9,12,256,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v16
+red,Red Magic 11 Air,Premium,46990,75,-0.030227613,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,7000,120,58.33333333,Super Fast,6.85,144,50,16,2,Android v16
+realme,Realme GT 8 Pro (16GB RAM + 512GB),Flagship,78999,95,1.374714323,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,16,512,7000,120,58.33333333,Super Fast,6.79,144,200,32,3,Android v16
+xiaomi,Xiaomi Redmi K90 Pro Max,Premium,50990,86,1.687708393,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,7500,100,75,Standard,6.9,120,50,32,3,Android v16
+infinix,Infinix GT 30 Pro 5G (12GB RAM + 256GB),Mid-Range,29999,77,2.392200733,Performance Beast,TRUE,TRUE,TRUE,mediatek,Dimensity 8350 Ultimate,8,3.35,12,256,5500,45,122.2222222,Standard,6.78,144,108,13,2,Android v15
+vivo,Vivo T4 5G (8GB RAM + 256GB),Mid-Range,26385,67,0.652577324,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,256,7300,90,81.11111111,Standard,6.77,120,50,32,2,Android v15
+samsung,Samsung Galaxy S25 Ultra (12GB RAM + 512GB),Flagship,138997,90,0.777883221,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite for Galaxy,8,4.47,12,512,5000,45,111.1111111,Standard,6.9,120,200,12,4,Android v15
+tecno,Tecno Pop 9 5G (8GB RAM + 128GB),Budget,10999,55,0.638226116,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 6300,8,2.4,8,128,5000,18,277.7777778,Slow Charging,6.67,120,48,8,2,Android v14
+xiaomi,Xiaomi Redmi 14C 5G (4GB RAM + 128GB),Budget,10499,53,0.291196034,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,4,128,5160,18,286.6666667,Slow Charging,6.88,120,50,8,2,Android v14
+poco,Poco C85 5G,Budget,12945,57,0.985256198,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,33,181.8181818,Standard,6.9,120,50,8,2,Android v15
+poco,Poco M7 Pro 5G (8GB RAM + 256GB),Mid-Range,17999,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7025 Ultra,8,2.5,8,256,5110,45,113.5555556,Standard,6.67,120,50,20,2,Android v14
+poco,Poco C75 5G,Budget,10957,50,-0.229349089,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4s Gen2,8,2,4,64,5160,18,286.6666667,Slow Charging,6.88,120,50,5,2,Android v14
+apple,Apple iPhone 16 (256GB),Flagship,79900,70,-1.609441186,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A18,6,4.04,8,256,3561,,,Slow Charging,6.1,60,48,12,2,iOS v18
+samsung,Samsung Galaxy A55 5G (12GB RAM + 256GB),Premium,39999,66,-1.435811618,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1480,8,2.7,12,256,5000,25,200,Standard,6.6,120,50,32,3,Android v14
+google,Google Pixel 8 5G,Premium,52999,64,-1.748163619,Overpriced,TRUE,TRUE,FALSE,google,Tensor G3,9,3,8,128,4575,30,152.5,Standard,6.2,120,50,10.5,2,Android v14
+xiaomi,Xiaomi Redmi 15A 5G (4GB RAM + 128GB),Budget,14499,58,1.15877124,Value King,TRUE,FALSE,TRUE,unisoc,Unisoc T8300,8,2.2,4,128,6300,33,190.9090909,Standard,6.9,120,32,8,1,Android v16
+poco,Poco X8 Pro 5G (12GB RAM + 256GB),Premium,35999,77,0.282124388,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8500 Ultra,8,3.4,12,256,6500,100,65,Super Fast,6.59,120,50,20,2,Android v16
+oppo,OPPO K14x 5G  (6GB RAM + 128GB),Mid-Range,17978,55,-1.434970767,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6500,45,144.4444444,Standard,6.75,120,50,5,2,Android v15
+realme,Realme 17 Pro Plus 5G,Premium,42990,79,0.594476389,Average Value,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,8,128,8000,80,100,Standard,6.8,144,200,50,3,Android v17
+xiaomi,Xiaomi Redmi Note 15 Pro 5G (8GB RAM + 256GB),Premium,30999,74,-0.186403614,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Ultra,8,2.6,8,256,6580,45,146.2222222,Standard,6.83,120,200,20,2,Android v15
+xiaomi,Xiaomi Redmi 16C 5G,Budget,13999,54,0.464711075,Average Value,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,4,128,6500,33,196.969697,Standard,6.91,120,50,16,2,Android v16
+vivo,Vivo Y51 Pro 5G (256GB),Mid-Range,27999,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7360 Turbo,8,2.5,8,256,7200,44,163.6363636,Standard,6.75,120,50,8,2,Android v16
+vivo,Vivo S50 Pro Mini,Premium,48990,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen5,8,3.84,12,256,6500,90,72.22222222,Standard,6.31,120,50,50,3,Android v16
+vivo,Vivo Y31 5G (6GB RAM + 128GB),Mid-Range,20999,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,6,128,6500,44,147.7272727,Standard,6.68,120,50,8,1,Android v15
+infinix,Infinix Hot 60i 5G,Budget,11499,57,0.985256198,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6400,8,2.5,4,128,6000,45,133.3333333,Standard,6.75,120,50,5,1,Android v15
+tecno,Tecno Pova 7 5G (8GB RAM + 256GB),Mid-Range,15999,62,-0.21723438,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,8,256,6000,45,133.3333333,Standard,6.78,144,50,13,2,Android v15
+vivo,Vivo X200 FE (16GB RAM + 512GB),Premium,59999,86,1.687708393,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9300 Plus,8,3.25,16,512,6500,90,72.22222222,Standard,6.31,120,50,50,3,Android v15
+iqoo,iQOO Z10 Lite 5G (6GB RAM + 128GB),Budget,14999,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,15,400,Slow Charging,6.74,90,50,5,2,Android v15
+acer,Acer Super ZX 5G  (6GB RAM + 128GB),Budget,12499,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5000,33,151.5151515,Standard,6.8,120,64,13,3,Android v15
+oneplus,OnePlus 13T,Premium,39990,79,0.594476389,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,6260,80,78.25,Standard,6.32,120,50,16,2,Android v15
+apple,Apple iPhone 16 Pro (256GB),Flagship,113490,76,-0.893243864,Average Value,TRUE,TRUE,FALSE,apple,Bionic A18 Pro,6,4.05,8,256,3582,,,Slow Charging,6.3,120,48,12,3,iOS v18
+xiaomi,Xiaomi Redmi A4 5G,Budget,10999,50,-0.229349089,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4s Gen2,8,2,4,64,5160,18,286.6666667,Slow Charging,6.88,120,50,5,2,Android v14
+samsung,Samsung Galaxy S24 5G,Flagship,60990,75,-1.012610084,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 2400,10,3.2,8,256,4000,25,160,Standard,6.2,120,50,12,3,Android v14
+oneplus,OnePlus 11R 5G,Premium,35999,66,-1.435811618,Overpriced,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8+ Gen1,8,3.2,8,128,5000,100,50,Super Fast,6.74,120,50,16,3,Android v13
+xiaomi,Xiaomi Redmi Note 15 Pro Plus (12GB RAM + 512GB),Premium,42999,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7s Gen4,8,2.7,12,512,6500,100,65,Super Fast,6.83,120,200,32,2,Android v15
+poco,Poco F8 Ultra,Flagship,64990,90,0.777883221,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,6500,100,65,Super Fast,6.9,120,50,32,3,Android v16
+apple,Apple iPhone 17 Pro Max (2TB),Flagship,222990,84,0.061685899,Average Value,TRUE,TRUE,FALSE,apple,Apple A19 Pro,6,,12,2048,4832,,,Slow Charging,6.9,120,48,18,3,iOS v26
+samsung,Samsung Galaxy M07 4G,Budget,9499,46,-0.923409253,Average Value,FALSE,FALSE,FALSE,mediatek,Helio G99,8,2.2,4,64,5000,25,200,Standard,6.7,,50,8,2,Android v15
+samsung,Samsung Galaxy A17 5G (8GB RAM + 256GB),Mid-Range,26499,61,-0.391196721,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1330,8,2.4,8,256,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+tecno,Tecno Spark 40 Pro Plus,Mid-Range,17999,59,-0.739121403,Average Value,FALSE,TRUE,TRUE,mediatek,Helio G200,8,2.2,8,128,5200,45,115.5555556,Standard,6.78,144,50,13,1,Android v15
+realme,Realme Narzo 80 Lite 5G,Budget,13218,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,15,400,Slow Charging,6.67,120,32,8,2,Android v15
+iqoo,iQOO Neo 10 (12GB RAM + 256GB),Premium,38998,80,0.75065239,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,12,256,7000,120,58.33333333,Super Fast,6.78,144,50,32,2,Android v15
+oneplus,OnePlus 13R (16GB RAM + 512GB),Premium,45999,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,16,512,6000,80,75,Standard,6.78,120,50,16,3,Android v15
+infinix,Infinix Smart 9 HD,Budget,6699,43,-1.443954376,Overpriced,FALSE,FALSE,TRUE,mediatek,Helio G50,8,2.2,3,64,5000,10,500,Slow Charging,6.7,90,13,8,1,Android v14
+honor,Honor X9c,Mid-Range,22999,63,-0.04327204,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 6 Gen1,8,2.2,8,256,6600,66,100,Standard,6.78,,108,16,2,Android v14
+samsung,Samsung Galaxy S24 FE (256GB),Premium,45999,71,-0.654931615,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2400e,10,3.11,8,256,4700,25,188,Standard,6.7,120,50,10,3,Android v14
+oneplus,OnePlus Nord 4 5G (8GB RAM + 256GB),Mid-Range,29999,70,1.174464347,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7+ Gen3,8,2.8,8,256,5500,100,55,Super Fast,6.74,120,50,16,2,Android v14
+xiaomi,Xiaomi 14 Civi,Premium,32990,72,-0.498755615,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,8,256,4700,67,70.14925373,Standard,6.55,120,50,32,3,Android v14
+honor,Honor 200,Mid-Range,29999,64,0.130690301,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,256,5200,100,52,Super Fast,6.7,120,50,50,3,Android v14
+vivo,Vivo Y03,Budget,6990,40,-1.964499499,Overpriced,FALSE,FALSE,FALSE,mediatek,Helio G85,8,2,4,64,5000,15,333.3333333,Slow Charging,6.56,90,13,5,2,Android v14
+oneplus,OnePlus 9R (12GB RAM + 256GB),Premium,30996,64,-1.748163619,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 870,8,3.2,12,256,4500,65,69.23076923,Super Fast,6.55,120,48,16,4,Android v11
+realme,Realme Narzo 90x (4GB+128GB),Mid-Range,15999,57,-1.087046085,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,7000,60,116.6666667,Standard,6.8,144,50,8,2,Android v15
+lava,Lava Bold N2,Budget,8199,44,-1.270439335,Overpriced,TRUE,FALSE,FALSE,unisoc,UNISOC 9863a,8,,4,64,5000,10,500,Slow Charging,6.75,90,13,5,2,Android v15 (Go)
+realme,Realme 16 Pro 5G (12GB RAM + 256GB),Premium,40999,79,0.594476389,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Max,8,,12,256,7000,80,87.5,Standard,6.78,144,200,50,2,Android v16
+vivo,Vivo Y19s 5G,Mid-Range,15499,50,-2.304782471,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,15,400,Slow Charging,6.74,90,13,5,2,Android v15
+xiaomi,Xiaomi 18 Pro Max,Flagship,89990,89,0.658517001,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 6,8,,12,512,8000,120,66.66666667,Super Fast,6.9,,200,50,3,Android v17
+iqoo,iQOO 16,Flagship,74990,85,0.181052119,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 6,8,,12,256,7500,150,50,Super Fast,6.89,165,50,50,4,Android v16
+vivo,Vivo V60e (8GB RAM + 256GB),Premium,33999,76,0.125948388,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7360 Turbo,8,2.5,8,256,6500,90,72.22222222,Standard,6.77,120,200,50,2,Android v15
+samsung,Samsung Galaxy F17 5G (6GB RAM + 128GB),Mid-Range,17848,57,-1.087046085,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1330,8,2.4,6,128,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+vivo,Vivo V60 5G (8GB RAM + 256GB),Premium,38999,77,0.282124388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,256,6500,90,72.22222222,Standard,6.77,120,50,50,3,Android v15
+realme,Realme C71,Budget,7999,43,-1.443954376,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc UMS9230E,8,1.8,4,64,6300,15,420,Slow Charging,6.75,90,13,5,1,Android v15
+oneplus,OnePlus Ace 6,Premium,31990,75,-0.030227613,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,7800,120,65,Super Fast,6.83,165,50,16,2,Android v16
+nothing,Nothing Phone 3a Pro (8GB RAM + 256GB),Mid-Range,29999,67,0.652577324,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen 3,8,2.5,8,256,5000,50,100,Standard,6.77,120,50,50,3,Android v15
+samsung,Samsung Galaxy A36 5G (8GB RAM + 256GB),Premium,32990,66,-1.435811618,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6 Gen3,8,2.4,8,256,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v15
+iqoo,iQOO Z9s (8GB RAM + 256GB),Mid-Range,20767,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300,8,2.5,8,256,5500,44,125,Standard,6.77,120,50,16,2,Android v14
+xiaomi,Xiaomi Redmi 13 5G (8GB RAM + 128GB),Budget,13999,59,1.332286281,Value King,TRUE,FALSE,TRUE,qualcomm,Snapdragon 4 Gen 2 AE,8,2.3,8,128,5030,33,152.4242424,Standard,6.79,120,108,13,2,Android v14
+cmf,CMF Phone (1),Mid-Range,15999,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300,8,2.5,6,128,5000,33,151.5151515,Standard,6.67,120,50,16,2,Android v14
+vivo,Vivo T3x 5G (6GB RAM + 128GB),Mid-Range,16980,55,-1.434970767,Overpriced,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6 Gen1,8,2.2,6,128,6000,44,136.3636364,Standard,6.72,120,50,8,2,Android v14
+motorola,Motorola Edge 50 Pro (12GB RAM + 256GB),Mid-Range,26990,75,2.044276051,Performance Beast,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,12,256,4500,125,36,Super Fast,6.7,144,50,50,3,Android v14
+nothing,Nothing Phone 2a,Mid-Range,23999,70,1.174464347,Value King,TRUE,TRUE,FALSE,mediatek,Dimensity 7200 Pro,8,2.8,8,128,5000,45,111.1111111,Standard,6.7,120,50,32,2,Android v14
+vivo,Vivo T3 5G,Mid-Range,18499,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7200,8,2.8,8,128,5000,44,113.6363636,Standard,6.67,120,50,16,3,Android v14
+google,Google Pixel 9,Flagship,79999,75,-1.012610084,Overpriced,TRUE,TRUE,FALSE,google,Tensor G4,8,3.1,12,256,4700,27,174.0740741,Standard,6.3,120,50,10.5,2,Android v14
+motorola,Motorola Edge 30 Pro 5G,Premium,34990,71,-0.654931615,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen1,8,3,8,128,4800,68,70.58823529,Standard,6.7,144,50,60,3,Android v12
+ai+,Ai+ Pulse 2 (6GB RAM + 128GB),Budget,8999,48,-0.576379171,Average Value,FALSE,FALSE,FALSE,unisoc,Unisoc T7250,8,1.8,6,128,6000,10,600,Slow Charging,6.75,120,50,8,2,Android v16
+realme,Realme P4 Lite 5G (6GB RAM + 128GB),Mid-Range,16499,50,-2.304782471,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,7000,15,466.6666667,Slow Charging,6.81,144,13,5,1,Android v16
+samsung,Samsung Galaxy M47 5G,Mid-Range,22990,62,-0.21723438,Average Value,TRUE,TRUE,FALSE,samsung,Octa Core Processor,,,8,128,6000,25,240,Slow Charging,6.67,120,50,32,3,Android v16
+motorola,Motorola Signature (16GB RAM + 512GB),Flagship,62489,89,0.658517001,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen5,8,3.8,16,512,5200,90,57.77777778,Super Fast,6.8,165,50,50,3,Android v16
+oppo,Oppo Reno 15 Pro Mini (12GB RAM + 512GB),Flagship,64999,85,0.181052119,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8450,8,3.25,12,512,6200,80,77.5,Standard,6.32,120,200,50,3,Android v16
+oppo,OPPO A6x 5G (6GB RAM + 128GB),Mid-Range,17999,53,-1.782895449,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6500,45,144.4444444,Standard,6.75,120,13,5,1,Android v15
+honor,Honor 500 Pro,Premium,49990,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,8000,80,100,Standard,6.55,120,200,50,3,Android v16
+itel,itel A100C,Budget,9999,37,-2.485044623,Overpriced,FALSE,FALSE,TRUE,unisoc,Unisoc T7100,8,,2,64,5000,,,Slow Charging,6.6,90,8,5,1,Android v15
+lava,Lava Play Ultra 5G,Mid-Range,15778,64,0.130690301,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300,8,2.5,6,128,5000,33,151.5151515,Standard,6.67,120,64,13,2,Android v15
+oppo,Oppo K13 Turbo Pro,Premium,34999,71,-0.654931615,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,8,256,7000,80,87.5,Standard,6.8,120,50,16,2,Android v15
+poco,Poco C85x 5G (4GB RAM + 128GB),Budget,11999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,unisoc,Unisoc T8300,8,2.2,4,128,6300,15,420,Slow Charging,6.9,120,32,8,1,Android v16
+tecno,Tecno Spark Go 2,Budget,7499,44,-1.270439335,Overpriced,FALSE,FALSE,TRUE,unisoc,Unisoc T7250,8,1.8,4,64,5000,15,333.3333333,Slow Charging,6.67,120,13,8,1,Android v15
+vivo,Vivo T4 Ultra (12GB RAM+ 512GB),Premium,39999,76,0.125948388,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 9300 Plus,8,3.25,12,512,5500,90,61.11111111,Super Fast,6.67,120,50,32,3,Android v15
+oppo,Oppo A5x 5G,Budget,12499,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,45,133.3333333,Standard,6.67,120,32,5,1,Android v15
+samsung,Samsung Galaxy M06 (4GB RAM + 64GB),Budget,11499,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,5000,25,200,Standard,6.74,90,50,8,2,Android v15
+vivo,Vivo Y29s 5G,Mid-Range,15990,53,-1.782895449,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,256,5500,15,366.6666667,Slow Charging,6.74,90,50,5,2,Android v15
+iqoo,iQOO 13 (16GB RAM + 512GB),Flagship,66900,89,0.658517001,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,16,512,6000,120,50,Super Fast,6.82,144,50,32,3,Android v15
+vivo,Vivo Y19e,Budget,9999,40,-1.964499499,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc T7225,8,1.8,4,64,5500,15,366.6666667,Slow Charging,6.74,,13,5,2,Android v14
+tecno,Tecno Pop 9 5G,Budget,9490,53,0.291196034,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 6300,8,2.4,4,64,5000,18,277.7777778,Slow Charging,6.67,120,48,8,2,Android v14
+tecno,Tecno Pova 6 Neo 5G (8GB RAM + 256GB),Budget,13999,58,1.15877124,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 6300,8,2.4,8,256,5000,18,277.7777778,Slow Charging,6.67,120,108,8,2,Android v14
+peace,Peace Honor 10 (4GB RAM + 64GB),Budget,5900,23,-4.914255197,Overpriced,FALSE,FALSE,FALSE,mediatek,Helio,1,1.3,4,64,3000,,,Slow Charging,4.5,,8,,1,Android v14
+infinix,Infinix Note 40 Pro Plus Racing Edition,Mid-Range,24999,72,1.522389029,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 7020,8,2.2,12,256,4600,100,46,Super Fast,6.78,120,108,32,3,Android v14
+infinix,Infinix Note 40X 5G,Budget,14999,61,1.679316363,Value King,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,8,256,5000,18,277.7777778,Slow Charging,6.78,120,108,8,3,Android v14
+samsung,Samsung Galaxy A35 5G (8GB RAM + 256GB),Premium,36999,64,-1.748163619,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1380,8,2.4,8,256,5000,25,200,Standard,6.6,120,50,13,3,Android v14
+samsung,Samsung Galaxy F16 5G,Budget,12499,54,0.464711075,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+xiaomi,Xiaomi 15,Flagship,76999,89,0.658517001,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,512,5240,90,58.22222222,Super Fast,6.36,120,50,32,3,Android v15
+samsung,Samsung Galaxy S24 Plus,Premium,59999,77,0.282124388,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2400,10,3.2,12,256,4900,45,108.8888889,Standard,6.7,120,50,12,3,Android v14
+google,Google Pixel 6A,Mid-Range,21999,49,-2.478744812,Overpriced,TRUE,TRUE,FALSE,google,Google  Tensor,8,,6,128,4410,,,Slow Charging,6.14,,12.2,8,2,Android v12
+samsung,Samsung Galaxy S26 (12GB RAM + 512GB),Flagship,89999,79,-0.535145203,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2600,10,3.8,12,512,4300,25,172,Standard,6.3,120,50,12,3,Android v16
+sony,Sony Xperia 1 VIII,Flagship,149990,83,-0.057680321,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,5000,45,111.1111111,Standard,6.5,120,48,12,3,Android v16
+oppo,OPPO F33 Pro 5G,Premium,30999,68,-1.123459617,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6360 Max,8,2.6,8,128,7500,80,93.75,Standard,6.57,120,50,50,2,Android v16
+vivo,Vivo T6x 5G,Mid-Range,20999,61,-0.391196721,Average Value,TRUE,FALSE,TRUE,unknown,Octa Core Processor,8,,6,128,7500,67,111.9402985,Standard,6.78,144,50,50,2,Android v17
+oppo,OPPO Reno 15 5G (12GB RAM + 256GB),Premium,46999,80,0.75065239,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,256,6500,80,81.25,Standard,6.59,120,50,50,3,Android v16
+honor,Honor Win,Premium,49990,84,1.375356392,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,10000,100,100,Standard,6.83,185,50,50,3,Android v16
+samsung,Samsung Galaxy A77 5G,Premium,44999,66,-1.435811618,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 2400,8,,8,128,5000,25,200,Standard,6.7,120,50,50,3,Android v16
+realme,Realme P3 Lite 5G (6GB RAM+ 128GB),Budget,13999,55,0.638226116,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,45,133.3333333,Standard,6.67,120,32,8,2,Android v15
+realme,Realme 15 Pro 5G (8GB RAM + 256GB),Premium,32999,74,-0.186403614,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,256,7000,80,87.5,Standard,6.8,144,50,50,2,Android v15
+tecno,Tecno Pova 7 Ultra,Mid-Range,22990,68,0.826539665,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8350,8,3.35,8,256,6000,70,85.71428571,Standard,6.67,144,108,13,2,Android v15
+infinix,Infinix Smart 10 HD,Budget,4999,41,-1.790984458,Overpriced,FALSE,FALSE,TRUE,,12nm,8,1.6,2,64,5000,10,500,Slow Charging,6.6,90,13,8,1,Android v14
+samsung,Samsung Galaxy F57 5G,Mid-Range,29990,61,-0.391196721,Average Value,TRUE,TRUE,FALSE,samsung,Octa Core Processor,,,8,128,5000,65,76.92307692,Standard,6.74,120,50,50,3,Android v15
+realme,Realme Narzo 90x,Mid-Range,16499,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,7000,60,116.6666667,Standard,6.8,144,50,8,2,Android v15
+vivo,Vivo T4 5G (12GB RAM + 256GB),Mid-Range,27898,68,0.826539665,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen3,8,2.5,12,256,7300,90,81.11111111,Standard,6.77,120,50,32,2,Android v15
+poco,POCO C71 (6GB RAM + 128GB),Budget,9990,46,-0.923409253,Average Value,FALSE,FALSE,FALSE,unisoc,Unisoc T7250,8,1.8,6,128,5200,15,346.6666667,Slow Charging,6.88,120,32,8,2,Android v15
+infinix,Infinix Note 50X 5G (8GB RAM + 128 GB),Budget,14999,57,0.985256198,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,8,128,5500,45,122.2222222,Standard,6.67,120,50,8,2,Android v15
+vivo,Vivo T4x 5G (8GB RAM + 128GB),Mid-Range,18249,57,-1.087046085,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,2.5,8,128,6500,44,147.7272727,Standard,6.72,120,50,8,2,Android v15
+xiaomi,Xiaomi Redmi Note 14 (8GB RAM + 256GB),Mid-Range,18499,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7025 Ultra,8,2.5,8,256,5110,45,113.5555556,Standard,6.67,120,50,20,3,Android v14
+philips,Philips S7710 Omni 10,Budget,11990,49,-0.40286413,Average Value,FALSE,FALSE,FALSE,mediatek,Helio G91,8,2,8,256,5000,18,277.7777778,Slow Charging,6.6,,108,8,2,Android v13
+oneplus,OnePlus 13 (24GB RAM+ 1TB),Flagship,80999,90,0.777883221,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,24,1024,6000,100,60,Super Fast,6.82,120,50,32,3,Android v15
+realme,Realme P2 Pro (12GB RAM + 512GB),Mid-Range,23999,66,0.478614983,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen 2,8,2.4,12,512,5200,80,65,Super Fast,6.7,120,50,32,2,Android v14
+realme,Realme 15 5G,Mid-Range,29999,64,0.130690301,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Plus,8,,8,128,7000,80,87.5,Standard,6.8,144,50,50,2,Android v15
+samsung,Samsung Galaxy M55s,Mid-Range,18998,62,-0.21723438,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen1,8,2.4,8,128,5000,45,111.1111111,Standard,6.7,120,50,50,3,Android v14
+vivo,Vivo X200 Pro 5G,Flagship,82900,93,1.135981882,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9400,8,3.63,16,512,6000,90,66.66666667,Super Fast,6.78,120,200,32,3,Android v15
+motorola,Motorola Edge 50 Fusion (12GB RAM + 256GB),Mid-Range,22790,68,0.826539665,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen2,8,2.4,12,256,5000,68,73.52941176,Standard,6.67,144,50,32,2,Android v14
+realme,Realme Narzo 80x 5G,Budget,13999,57,0.985256198,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6400,8,2.5,6,128,6000,45,133.3333333,Standard,6.72,120,50,8,2,Android v15
+samsung,Samsung Galaxy A55 5G (8GB RAM + 256GB),Premium,36999,64,-1.748163619,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1480,8,2.7,8,256,5000,25,200,Standard,6.6,120,50,32,3,Android v14
+realme,Realme 13 Pro Plus 5G,Mid-Range,25999,67,0.652577324,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen2,8,2.4,8,256,5200,80,65,Super Fast,6.7,120,50,32,3,Android v14
+samsung,Samsung Galaxy F55 5G,Mid-Range,26899,64,0.130690301,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen1,8,2.4,8,128,5000,45,111.1111111,Standard,6.7,120,50,50,3,Android v14
+samsung,Samsung Galaxy S23 FE 5G (8GB RAM + 256GB),Premium,44994,70,-0.811107616,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2200,8,2.8,8,256,4500,25,180,Standard,6.4,120,50,10,3,Android v13
+xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),Budget,12239,58,1.15877124,Value King,TRUE,FALSE,TRUE,qualcomm,Snapdragon 4 Gen 1,8,2,6,128,5000,33,151.5151515,Standard,6.67,120,48,13,3,Android v12
+vivo,Vivo T3 Pro 5G,Mid-Range,22999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,128,5500,80,68.75,Super Fast,6.77,120,50,16,2,Android v14
+oneplus,OnePlus 11 5G,Premium,33399,71,-0.654931615,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen2,8,3.2,8,128,5000,100,50,Super Fast,6.7,120,50,16,3,Android v13
+samsung,Samsung Galaxy S23 Ultra 5G,Flagship,149999,83,-0.057680321,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen 2,8,3.36,12,256,5000,45,111.1111111,Standard,6.8,120,200,12,4,Android v13
+oneplus,OnePlus 8 Pro (12GB RAM + 256GB),Premium,39999,71,-0.654931615,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 865,8,2.84,12,256,4510,,,Slow Charging,6.78,120,48,16,4,Android v10
+realme,Realme P4 Lite 5G (4GB RAM + 128GB),Budget,14499,50,-0.229349089,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,7000,15,466.6666667,Slow Charging,6.81,144,13,5,1,Android v16
+realme,Realme Narzo 100,Mid-Range,18990,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,8,128,7500,80,93.75,Standard,6.57,144,50,50,2,Android v16
+ai+,Ai+ Nova Flip,Premium,39999,76,0.125948388,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 7300X,8,2.5,8,256,4325,45,96.11111111,Standard,6.78,144,,,2,
+tecno,Tecno Spark 50 5G (6GB RAM + 128GB),Mid-Range,18999,55,-1.434970767,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensity 6400,8,2.5,6,128,6500,45,144.4444444,Standard,6.78,120,50,8,1,Android v16
+lava,Lava Agni 5,Mid-Range,27999,71,1.348426688,Value King,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,8,256,7000,80,87.5,Standard,6.78,144,50,50,3,Android v16
+realme,Realme C85 5G,Mid-Range,16499,54,-1.608933108,Overpriced,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,7000,45,155.5555556,Standard,6.8,144,50,8,1,Android v15
+google,Google Pixel 11 Pro,Flagship,111999,80,-0.415778982,Average Value,TRUE,TRUE,FALSE,google,Tensor G6,,,16,256,5000,35,142.8571429,Standard,6.31,144,50,48,3,Android v17
+honor,Honor X7d 5G,Budget,14999,52,0.117680993,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6s Gen3,8,2.3,6,128,6500,35,185.7142857,Standard,6.77,120,50,5,2,Android v15
+oppo,Oppo A5x 5G (4GB RAM + 64GB),Budget,11499,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,6000,45,133.3333333,Standard,6.67,120,32,5,1,Android v15
+vivo,Vivo Y500 Pro 5G,Mid-Range,29990,72,1.522389029,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 7400,8,2.6,8,128,7000,90,77.77777778,Standard,6.67,120,200,32,2,Android v16
+vivo,Vivo T4R 5G (8GB RAM + 256GB),Mid-Range,24728,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,8,256,5700,44,129.5454545,Standard,6.77,120,50,32,2,Android v15
+iqoo,iQOO Z10 Turbo Plus,Mid-Range,25999,71,1.348426688,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9400 Plus,8,3.63,12,256,8000,80,100,Standard,6.78,144,50,16,2,Android v15
+oneplus,OnePlus Ace 6 Ultra,Premium,39990,74,-0.186403614,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,,12,256,8500,100,85,Standard,6.78,,50,32,2,Android v15
+infinix,Infinix Hot 60 Pro Plus,Mid-Range,19990,57,-1.087046085,Overpriced,FALSE,TRUE,TRUE,mediatek,Helio G200,8,2.2,8,128,5160,45,114.6666667,Standard,6.78,144,50,13,1,Android v15
+poco,Poco F7 5G (12GB RAM + 512GB),Premium,37999,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,12,512,7550,90,83.88888889,Standard,6.83,120,50,20,2,Android v15
+vivo,Vivo Y19 5G,Budget,12999,48,-0.576379171,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,5500,15,366.6666667,Slow Charging,6.74,90,13,5,2,Android v15
+lava,Lava Bold 5G (8GB RAM + 128GB),Mid-Range,16490,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,5000,33,151.5151515,Standard,6.67,120,64,16,2,Android v14
+samsung,Samsung Galaxy A14 4G (6GB RAM + 128 GB),Budget,9699,46,-0.923409253,Average Value,FALSE,FALSE,FALSE,samsung,Exynos 850,8,2,6,128,5000,15,333.3333333,Slow Charging,6.6,,50,13,3,Android v13
+realme,Realme 14x 5G,Budget,14999,55,0.638226116,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,45,133.3333333,Standard,6.67,120,50,8,2,Android v14
+vivo,Vivo Y29 5G,Budget,13999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5500,44,125,Standard,6.68,120,50,8,2,Android v14
+huawei,Huawei Mate 80 Pro,Flagship,75990,81,-0.296412762,Average Value,TRUE,TRUE,TRUE,hisilicon,Kirin 9030,8,,12,256,5750,100,57.5,Super Fast,6.75,144,50,13,3,
+samsung,Samsung Galaxy Z Fold 7,Flagship,174999,95,1.374714323,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite for Galaxy,8,4.47,12,256,4400,25,176,Standard,8,120,,,2,Android v16
+oneplus,OnePlus 12R (16GB RAM + 256GB),Premium,36449,71,-0.654931615,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen2,8,3.2,16,256,5500,100,55,Super Fast,6.78,120,50,16,3,Android v14
+realme,Realme C65 5G,Budget,10499,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,5000,15,333.3333333,Slow Charging,6.67,120,50,8,1,Android v14
+samsung,Samsung Galaxy Z Flip 4 (8GB RAM + 256GB),Premium,38350,72,-0.498755615,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon  8+ Gen1,8,3.2,8,256,3700,25,148,Standard,6.7,120,12,10,2,
+samsung,Samsung Galaxy S23 5G,Flagship,72999,72,-1.370708745,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen 2,8,3.36,8,128,3900,25,156,Standard,6.1,120,50,12,3,Android v13
+google,Google Pixel 7A,Premium,30999,62,-2.06051562,Overpriced,TRUE,TRUE,FALSE,google,Tensor G2,8,2.85,8,128,4385,18,243.6111111,Slow Charging,6.1,90,64,13,2,Android v13
+poco,Poco X6 Pro 5G,Mid-Range,26999,70,1.174464347,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8300 Ultra,8,3.35,8,256,5000,67,74.62686567,Standard,6.67,120,64,16,3,Android v14
+xiaomi,Xiaomi Redmi Note 13 Pro 5G,Mid-Range,28990,67,0.652577324,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen 2,8,2.4,8,128,5100,67,76.11940299,Standard,6.67,120,200,16,3,Android v13
+oppo,OPPO K14x 5G (4GB RAM + 64GB),Budget,14449,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,6500,45,144.4444444,Standard,6.75,120,50,5,2,Android v15
+oppo,Oppo A6s 5G,Mid-Range,20999,55,-1.434970767,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6500,45,144.4444444,Standard,6.75,120,50,5,2,Android v15
+motorola,Motorola Razr Fold,Flagship,139999,88,0.53915078,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen 5,8,3.8,12,256,5200,,,Slow Charging,8.09,120,,,2,
+realme,Realme GT 8 Pro Dream Edition,Flagship,79999,95,1.374714323,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,16,512,7000,120,58.33333333,Super Fast,6.79,144,200,32,3,Android v16
+oppo,Oppo F31 5G (8GB RAM + 256GB),Mid-Range,28999,66,0.478614983,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6300,8,2.4,8,256,7000,80,87.5,Standard,6.57,120,50,16,2,Android v15
+apple,Apple iPhone 17 (512GB),Flagship,102900,77,-0.773877643,Average Value,TRUE,TRUE,FALSE,apple,Apple A19,6,,8,512,3692,,,Slow Charging,6.3,120,48,18,2,iOS v26
+xiaomi,Xiaomi Redmi 15 5G (8GB RAM + 128GB),Mid-Range,17999,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6s Gen3,8,2.3,8,128,7000,33,212.1212121,Slow Charging,6.9,144,50,8,2,Android v15
+samsung,Samsung Galaxy A07 4G,Budget,9200,46,-0.923409253,Average Value,FALSE,FALSE,FALSE,mediatek,Helio G99,8,2.2,4,64,5000,25,200,Standard,6.7,90,50,8,2,Android v15
+lava,Lava Blaze AMOLED 2,Budget,14349,59,1.332286281,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 7060,8,2.6,6,128,5000,,,Slow Charging,6.67,120,50,8,2,Android v15
+vivo,Vivo Y400 Pro 5G (8GB RAM + 256GB),Mid-Range,27999,64,0.130690301,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,2.5,8,256,5500,90,61.11111111,Super Fast,6.77,120,50,32,2,Android v15
+infinix,Infinix Smart 10,Budget,8499,43,-1.443954376,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc T7250,8,1.8,4,64,5000,15,333.3333333,Slow Charging,6.67,120,8,8,1,Android v15
+acer,Acer Super ZX 5G  (8GB RAM + 128GB),Mid-Range,15990,53,-1.782895449,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,5000,33,151.5151515,Standard,6.8,120,64,13,3,Android v15
+vivo,Vivo Y19 5G (6GB RAM + 128GB),Budget,12999,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5500,15,366.6666667,Slow Charging,6.74,90,13,5,2,Android v15
+samsung,Samsung Galaxy F06 5G (4GB RAM + 64GB),Budget,11839,48,-0.576379171,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,5000,25,200,Standard,6.7,,50,8,2,Android v15
+realme,Realme P3 Ultra (8GB RAM + 256GB),Mid-Range,28999,67,0.652577324,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8350 Ultra,8,3.35,8,256,6000,80,75,Standard,6.83,120,50,16,2,Android v15
+itel,itel Power 70,Budget,7299,43,-1.443954376,Overpriced,FALSE,FALSE,FALSE,mediatek,Helio G50,8,2.2,4,128,6000,18,333.3333333,Slow Charging,6.67,120,13,8,1,Android v14
+iqoo,iQOO Z10x 5G (8GB RAM + 256GB),Mid-Range,20498,59,-0.739121403,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,2.5,8,256,6500,44,147.7272727,Standard,6.72,120,50,8,2,Android v15
+vivo,Vivo V50e 5G,Mid-Range,26999,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300,8,2.5,8,128,5600,90,62.22222222,Super Fast,6.77,120,50,50,2,Android v15
+sony,Sony Xperia 1 VII,Flagship,140990,83,-0.057680321,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,5000,30,166.6666667,Standard,6.5,120,48,12,3,Android v15
+oppo,Oppo F29 Pro 5G,Mid-Range,29990,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300,8,2.5,8,128,6000,80,75,Standard,6.7,120,50,16,2,Android v14
+realme,Realme GT 7 Pro 5G,Premium,48999,79,0.594476389,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,5800,120,48.33333333,Super Fast,6.78,120,50,16,3,Android v15
+vertu,Vertu Metavertu 2,Flagship,425999,74,-1.131976304,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen2,8,3.2,12,512,5100,65,78.46153846,Standard,6.78,120,50,16,3,Android v13
+google,Google Pixel 8A (8GB RAM + 256GB),Premium,36990,64,-1.748163619,Overpriced,TRUE,TRUE,FALSE,google,Tensor G3,9,3,8,256,4492,,,Slow Charging,6.1,120,64,13,2,Android v14
+huawei,Huawei Pura 80 Ultra,Flagship,118990,83,-0.057680321,Average Value,TRUE,TRUE,TRUE,hisilicon,Kirin 9020,8,2.5,16,512,5700,100,57,Super Fast,6.8,120,50,13,3,HarmonyOS v5.1
+vivo,Vivo T3x 5G (8GB RAM + 128GB),Mid-Range,15499,57,-1.087046085,Overpriced,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6 Gen1,8,2.2,8,128,6000,44,136.3636364,Standard,6.72,120,50,8,2,Android v14
+motorola,Motorola Moto G56 5G,Mid-Range,15990,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7060,8,2.6,8,256,5200,30,173.3333333,Standard,6.72,120,50,32,2,Android v15
+vivo,Vivo V40 Pro,Premium,41999,75,-0.030227613,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 9200 Plus,8,3.35,8,256,5500,80,68.75,Super Fast,6.78,120,50,50,3,Android v14
+samsung,Samsung Galaxy F15 5G (6GB RAM + 128GB),Budget,14999,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,6,128,6000,25,240,Slow Charging,6.45,90,50,13,3,Android v14
+oppo,OPPO Reno 12 Pro 5G,Premium,40999,74,-0.186403614,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7300 Energy,8,2.5,12,256,5000,80,62.5,Super Fast,6.7,120,50,50,3,Android v14
+xiaomi,Xiaomi Redmi 12 5G (8GB RAM + 256GB),Budget,14499,54,0.464711075,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 4 Gen2,8,2.2,8,256,5000,18,277.7777778,Slow Charging,6.79,90,50,8,2,Android v13
+samsung,Samsung Galaxy S21 FE (Snapdragon),Premium,38999,66,-1.435811618,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 888,8,2.84,8,256,4500,25,180,Standard,6.4,120,12,32,3,Android v13
+motorola,Motorola Edge 50 5G,Mid-Range,22990,70,1.174464347,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen1 AE,8,2.5,8,256,5000,68,73.52941176,Standard,6.67,120,50,32,3,Android v14
+xiaomi,Xiaomi Redmi A7 Pro 5G,Mid-Range,15999,46,-3.000631835,Overpriced,FALSE,FALSE,FALSE,unknown,Octa Core Processor,8,,4,64,6300,15,420,Slow Charging,6.9,120,32,8,2,Android v16
+nubia,Nubia Neo 5 GT,Mid-Range,21999,64,0.130690301,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 7400,8,2.6,12,256,6000,80,75,Standard,6.8,120,50,16,1,Android v16
+realme,Realme Narzo Power 5G,Mid-Range,24565,74,1.87031371,Value King,TRUE,FALSE,TRUE,mediatek,Dimensity 7400 Ultra,8,2.6,8,128,10001,80,125.0125,Standard,6.8,144,50,16,2,Android v16
+xiaomi,Xiaomi Redmi Note 15 Pro Plus (12GB RAM + 256GB),Premium,38999,80,0.75065239,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7s Gen4,8,2.7,12,256,6500,100,65,Super Fast,6.83,120,200,32,2,Android v15
+realme,Realme 16 Pro Plus 5G (12GB+256GB),Premium,48999,83,1.219180391,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,256,7000,80,87.5,Standard,6.8,144,200,50,3,Android v16
+oppo,Oppo Reno 15F,Premium,39999,68,-1.123459617,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6 Gen1,8,2.2,8,128,7000,80,87.5,Standard,6.57,120,50,50,3,Android v16
+vivo,Vivo X300 (16GB RAM + 512GB),Flagship,85999,88,0.53915078,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,4.21,16,512,6040,90,67.11111111,Super Fast,6.31,120,200,50,3,Android v16
+oppo,OPPO K14 5G (8GB RAM + 256GB),Mid-Range,23999,63,-0.04327204,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 6300,8,2.4,8,256,7000,45,155.5555556,Standard,6.75,120,50,8,2,Android v15
+poco,Poco F8 Pro,Premium,44990,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,6210,100,62.1,Super Fast,6.59,120,50,20,3,Android v16
+xiaomi,Xiaomi Redmi 16,Mid-Range,15990,57,-1.087046085,Overpriced,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6s Gen4,8,,6,128,7500,33,227.2727273,Slow Charging,6.9,144,50,16,2,Android v16
+oppo,OPPO Reno 15 Pro Max,Premium,59990,84,1.375356392,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8450,8,3.25,12,256,6500,80,81.25,Standard,6.78,120,200,50,3,Android v16
+huawei,Huawei Enjoy 90 Pro Max,Mid-Range,23990,66,0.478614983,Average Value,TRUE,TRUE,TRUE,hisilicon,Octa Core Processor,,,8,128,8500,40,212.5,Slow Charging,6.84,120,50,8,1,HarmonyOS v6.0
+hmd,HMD Fuse,Budget,8990,58,1.15877124,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,6,128,5000,33,151.5151515,Standard,6.56,90,108,50,2,Android v14
+wobble,Wobble One 5G (8GB RAM + 256GB),Mid-Range,27999,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,8,256,5000,33,151.5151515,Standard,6.67,120,50,50,3,Android v15
+tecno,Tecno Spark 40,Budget,10999,50,-0.229349089,Average Value,FALSE,FALSE,TRUE,mediatek,Helio G81,8,2,4,128,5200,45,115.5555556,Standard,6.67,120,50,8,1,Android v15
+vivo,Vivo S30 Pro Mini,Premium,40990,77,0.282124388,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9300 Plus,8,3.4,12,256,6500,90,72.22222222,Standard,6.31,120,50,50,3,Android v15
+iqoo,iQOO Z10 5G (8GB RAM + 256GB),Mid-Range,26998,68,0.826539665,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,256,7300,90,81.11111111,Standard,6.77,120,50,32,2,Android v15
+realme,Realme Narzo 80 Pro 5G (8GB RAM + 256GB),Mid-Range,21999,64,0.130690301,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,8,256,6000,80,75,Standard,6.72,120,50,16,2,Android v15
+realme,Realme C73,Budget,11999,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,6000,15,400,Slow Charging,6.67,120,32,8,2,Android v15
+samsung,Samsung Galaxy A56 5G (8GB RAM + 256GB),Premium,43999,66,-1.435811618,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1580,8,2.9,8,256,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v15
+samsung,Samsung Galaxy A06 5G (4GB RAM + 128GB),Budget,11790,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5000,25,200,Standard,6.7,90,50,8,2,Android v15
+honor,Honor 400 Lite,Premium,34990,63,-1.90433962,Overpriced,TRUE,TRUE,FALSE,mediatek,Dimensity 7025 Ultra,8,2.5,8,256,5230,35,149.4285714,Standard,6.7,120,108,16,2,Android v15
+poco,Poco F8,Premium,37990,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Elite,8,,12,256,7700,100,77,Standard,6.78,144,50,32,3,Android v16
+xiaomi,Xiaomi Redmi A5 5G,Budget,9990,52,0.117680993,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 4 Gen3,8,,4,128,5500,33,166.6666667,Standard,6.78,120,50,8,3,Android v14
+xiaomi,Xiaomi Redmi Turbo 4,Mid-Range,23990,71,1.348426688,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8400 Ultra,8,3.25,12,256,6550,90,72.77777778,Standard,6.67,120,50,20,2,Android v15
+vivo,Vivo X200 Ultra,Flagship,76990,88,0.53915078,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,6000,90,66.66666667,Super Fast,6.82,120,200,50,3,Android v15
+realme,Realme P2 Pro 5G,Mid-Range,17999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen 2,8,2.4,8,128,5200,80,65,Super Fast,6.7,120,50,32,2,Android v14
+realme,Realme P1 Pro 5G (8GB RAM + 256GB),Mid-Range,16999,59,-0.739121403,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6 Gen1,8,2.2,8,256,5000,45,111.1111111,Standard,6.7,120,50,16,2,Android v14
+oneplus,OnePlus 12R (8GB RAM + 256GB),Premium,35499,66,-1.435811618,Overpriced,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen2,8,3.2,8,256,5500,100,55,Super Fast,6.78,120,50,16,3,Android v14
+infinix,Infinix Note 50,Budget,14990,63,2.026346445,Performance Beast,FALSE,TRUE,TRUE,mediatek,Helio G100,8,2.2,8,256,5200,45,115.5555556,Standard,6.78,144,50,13,2,Android v15
+nokia,Nokia X200,Mid-Range,24999,62,-0.21723438,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6 Gen 4,8,2.2,8,256,6000,33,181.8181818,Standard,6.7,120,50,32,3,Android v15
+samsung,Samsung Galaxy A76,Premium,42990,72,-0.498755615,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7+ Gen2,8,2.91,8,128,5000,45,111.1111111,Standard,6.78,120,108,32,4,Android v14
+honor,Honor 90 5G,Mid-Range,25999,64,0.130690301,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen 1 Accelerated Edition,8,2.36,8,256,5000,66,75.75757576,Standard,6.7,120,200,50,3,Android v13
+apple,Apple iPhone 15 Pro,Flagship,134900,70,-1.609441186,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A17 Pro,6,3.78,8,128,3274,,,Slow Charging,6.1,120,48,12,3,iOS v17
+realme,Realme C83 5G (4GB RAM + 128GB),Mid-Range,16499,52,-1.95685779,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,7000,15,466.6666667,Slow Charging,6.8,144,13,5,1,Android v16
+oppo,Oppo A6s Pro,Mid-Range,28990,59,-0.739121403,Average Value,FALSE,TRUE,FALSE,mediatek,Helio G100 Max,8,2.2,8,256,7000,80,87.5,Standard,6.57,,50,50,2,Android v16
+samsung,Samsung Galaxy A37 5G (8GB RAM + 256 GB),Premium,44499,68,-1.123459617,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1480,8,2.7,8,256,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v16
+ai+,Ai+ Nova 2 Pro,Budget,12999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,6,128,6000,18,333.3333333,Slow Charging,6.8,120,50,8,2,Android v16
+tecno,Tecno Pova Curve 2 5G (8GB RAM +256GB),Premium,31999,63,-1.90433962,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensity 7100,8,2.4,8,256,8000,45,177.7777778,Standard,6.78,144,50,13,2,Android v16
+poco,Poco M8 5G (8GB RAM + 256GB),Mid-Range,20699,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6 Gen3,8,,8,256,5520,45,122.6666667,Standard,6.77,120,50,20,2,Android v15
+xiaomi,Xiaomi Redmi 15C 5G (6GB RAM + 128GB),Mid-Range,15999,57,-1.087046085,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,33,181.8181818,Standard,6.9,120,50,8,2,Android v15
+vivo,Vivo V60e (12GB RAM + 256GB),Premium,35999,77,0.282124388,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7360 Turbo,8,2.5,12,256,6500,90,72.22222222,Standard,6.77,120,200,50,2,Android v15
+tecno,Tecno Pova Curve 5G (8GB RAM + 256GB),Mid-Range,19999,63,-0.04327204,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,8,256,5500,45,122.2222222,Standard,6.78,144,64,13,2,Android v15
+vivo,Vivo Y31 Pro 5G (8GB RAM + 256GB),Mid-Range,21999,58,-0.913083744,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,,8,256,6500,44,147.7272727,Standard,6.72,120,50,8,2,Android v15
+apple,Apple iPhone 17 Pro Max (512GB),Flagship,169900,83,-0.057680321,Average Value,TRUE,TRUE,FALSE,apple,Apple A19 Pro,6,,12,512,4832,,,Slow Charging,6.9,120,48,18,3,iOS v26
+apple,Apple iPhone 17 Pro Max (1TB),Flagship,189900,83,-0.057680321,Average Value,TRUE,TRUE,FALSE,apple,Apple A19 Pro,6,,12,1024,4832,,,Slow Charging,6.9,120,48,18,3,iOS v26
+realme,Realme P5 Pro 5G,Premium,34999,71,-0.654931615,Average Value,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,8,256,10000,100,100,Standard,6.82,144,50,50,3,Android v16
+oppo,Oppo K13 Turbo Pro (12GB+256GB),Premium,36999,72,-0.498755615,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,12,256,7000,80,87.5,Standard,6.8,120,50,16,2,Android v15
+nothing,Nothing Phone 3 (16GB RAM + 512GB),Flagship,65988,85,0.181052119,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8s Gen4,8,3.2,16,512,5500,65,84.61538462,Standard,6.67,120,50,50,3,Android v15
+samsung,Samsung Galaxy M36 5G (8GB RAM + 256GB),Mid-Range,24499,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,samsung,Exynos 1380,8,2.4,8,256,5000,25,200,Standard,6.7,120,50,13,3,Android v15
+vivo,Vivo T4 Lite 5G (8GB RAM +256GB),Mid-Range,16999,54,-1.608933108,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,6000,15,400,Slow Charging,6.74,90,50,5,2,Android v15
+iqoo,iQOO Neo 10 (16GB RAM + 512GB),Premium,43998,83,1.219180391,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,16,512,7000,120,58.33333333,Super Fast,6.78,144,50,32,2,Android v15
+asus,Asus ROG Phone 10 Pro,Flagship,112990,84,0.061685899,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,16,512,6000,80,75,Standard,6.82,,50,32,3,Android v15
+iqoo,iQOO Z10 5G (12GB RAM + 256GB),Mid-Range,27999,70,1.174464347,Value King,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen3,8,2.5,12,256,7300,90,81.11111111,Standard,6.77,120,50,32,2,Android v15
+samsung,Samsung Galaxy S25 Ultra (12GB RAM + 1TB),Flagship,165999,90,0.777883221,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite for Galaxy,8,4.47,12,1024,5000,45,111.1111111,Standard,6.9,120,200,12,4,Android v15
+xiaomi,Xiaomi Redmi Note 14 Pro Plus (12GB RAM + 512GB),Premium,31999,72,-0.498755615,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen3,8,2.5,12,512,6200,90,68.88888889,Super Fast,6.67,120,50,20,3,Android v14
+google,Google Pixel 11,Flagship,79990,75,-1.012610084,Overpriced,TRUE,TRUE,FALSE,google,Google Tensor 6,,,8,256,5500,65,84.61538462,Standard,6.6,120,50,50,2,Android v15
+vivo,Vivo Y39 5G,Mid-Range,17990,55,-1.434970767,Overpriced,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,8,128,6500,44,147.7272727,Standard,6.68,120,50,8,2,Android v15
+infinix,Infinix Note 40X 5G (12GB RAM +256GB),Mid-Range,15999,62,-0.21723438,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,12,256,5000,18,277.7777778,Slow Charging,6.78,120,108,8,3,Android v14
+oppo,Oppo F27 Pro Plus 5G (8GB RAM +128GB),Mid-Range,25999,64,0.130690301,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7050,8,2.6,8,128,5000,67,74.62686567,Standard,6.7,120,64,8,2,Android v14
+vivo,Vivo T3 Lite 5G,Budget,12890,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5000,15,333.3333333,Slow Charging,6.56,90,50,8,2,Android v14
+tecno,Tecno Pova 8 Pro 5G,Mid-Range,22999,66,0.478614983,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7400 Ultimate,8,,8,128,7000,45,155.5555556,Standard,6.78,144,50,16,2,Android v16
+oppo,OPPO Reno 12 5G,Premium,43999,66,-1.435811618,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,2.5,8,256,5000,80,62.5,Super Fast,6.7,120,50,32,3,Android v14
+realme,Realme 12X,Budget,11999,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,4,128,5000,45,111.1111111,Standard,6.72,120,50,8,2,Android v14
+xiaomi,Xiaomi Redmi 12 4G (6GB RAM + 128GB),Budget,9999,50,-0.229349089,Average Value,FALSE,FALSE,TRUE,mediatek,Helio G88,8,2,6,128,5000,18,277.7777778,Slow Charging,6.79,90,50,8,3,Android v13
+vivo,Vivo T2x 5G (6GB RAM + 128GB),Budget,12999,50,-0.229349089,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6020,8,2.2,6,128,5000,18,277.7777778,Slow Charging,6.58,,50,8,2,Android v13
+google,Google Pixel 9 Pro,Flagship,109999,83,-0.057680321,Average Value,TRUE,TRUE,FALSE,google,Tensor G4,8,3.1,16,256,4700,27,174.0740741,Standard,6.3,120,50,42,3,Android v14
+iqoo,iQOO 12 5G,Premium,54999,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,12,256,5000,120,41.66666667,Super Fast,6.78,144,64,16,3,Android v14
+vivo,Vivo Y21 5G (8GB RAM + 128GB),Mid-Range,22999,59,-0.739121403,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 6300,8,2.4,8,128,6500,44,147.7272727,Standard,6.74,120,50,5,2,Android v16
+realme,Realme GT 9 Pro,Flagship,79990,88,0.53915078,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 6,8,,12,256,7000,120,58.33333333,Super Fast,6.79,144,200,32,3,Android v17
+tecno,Tecno Pova 8 5G,Mid-Range,17990,61,-0.391196721,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7100,8,,8,128,7000,45,155.5555556,Standard,6.83,144,50,16,2,Android v16
+oppo,Oppo Find X10 Pro 5G,Flagship,119990,92,1.016615662,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9600,8,,16,512,8500,100,85,Standard,6.82,120,200,50,3,Android v17
+vivo,Vivo X200T (12 GB RAM + 512 GB),Flagship,69999,89,0.658517001,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9400 Plus,8,3.63,12,512,6200,90,68.88888889,Super Fast,6.67,120,50,32,3,Android v16
+vivo,Vivo T4 Lite 5G (4GB RAM + 64GB),Budget,12999,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,6000,15,400,Slow Charging,6.74,90,50,5,2,Android v15
+oppo,Oppo Reno 15c 5G (12GB RAM + 256GB),Premium,40999,70,-0.811107616,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6 Gen1,8,2.2,12,256,7000,80,87.5,Standard,6.57,120,50,50,3,Android v16
+realme,Realme Narzo 90x (8GB+128GB),Mid-Range,16499,59,-0.739121403,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,7000,60,116.6666667,Standard,6.8,144,50,8,2,Android v15
+iqoo,iQOO Z11 Turbo Pro,Flagship,349990,80,-0.415778982,Average Value,TRUE,TRUE,TRUE,qualcomm,SM8735 Snapdragon 8s Gen,8,,12,256,7500,100,75,Standard,6.78,120,50,50,2,Android v16
+oppo,OPPO A6x 5G (4GB RAM + 128GB),Mid-Range,16999,52,-1.95685779,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6500,45,144.4444444,Standard,6.75,120,13,5,1,Android v15
+huawei,Huawei Mate 80 RS Ultimate,Flagship,159990,80,-0.415778982,Average Value,TRUE,TRUE,TRUE,hisilicon,Kirin 9030,,,20,512,6000,100,60,Super Fast,6.9,120,50,13,4,HarmonyOS v6.0
+wobble,Wobble One,Mid-Range,26999,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,8,128,5000,33,151.5151515,Standard,6.67,120,50,50,3,Android v15
+samsung,Samsung Galaxy M17 5G (8GB RAM + 128GB),Mid-Range,17499,57,-1.087046085,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1330,8,2.4,8,128,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+samsung,Samsung Galaxy M18 5G,Mid-Range,19990,55,-1.434970767,Overpriced,TRUE,TRUE,FALSE,samsung,Octa Core Processor,,,8,128,5500,25,220,Slow Charging,6.74,90,50,16,3,Android v16
+lava,Lava Bold N1 5G (4GB RAM + 128GB),Budget,9499,46,-0.923409253,Average Value,TRUE,FALSE,FALSE,unisoc,Unisoc T765,8,2.3,4,128,5000,10,500,Slow Charging,6.75,,13,5,1,Android v15
+oppo,Oppo F31 Pro Plus 5G (12GB RAM + 256GB),Premium,34999,71,-0.654931615,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,12,256,7000,80,87.5,Standard,6.8,120,50,32,2,Android v15
+samsung,Samsung Galaxy F36 5G (8GB RAM + 256GB),Mid-Range,24499,64,0.130690301,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1380,8,2.4,8,256,5000,25,200,Standard,6.7,120,50,13,3,Android v15
+nubia,Nubia Z80 Ultra,Flagship,61990,84,0.061685899,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,512,7200,90,80,Standard,6.85,144,64,16,3,Android v16
+iqoo,iQOO Z10R (8GB RAM + 256GB),Mid-Range,24998,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,8,256,5700,44,129.5454545,Standard,6.77,120,50,32,2,Android v15
+infinix,Infinix Note 50s 5G (6GB RAM + 128GB),Mid-Range,17999,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,6,128,5500,45,122.2222222,Standard,6.78,144,64,13,2,Android v15
+infinix,Infinix Hot 60 Pro,Budget,13990,57,0.985256198,Average Value,FALSE,TRUE,TRUE,mediatek,Helio G200,8,2.2,8,128,5160,45,114.6666667,Standard,6.78,144,50,13,1,Android v15
+lava,Lava Storm Lite 5G,Budget,9999,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6400,8,2.5,4,64,5000,,,Slow Charging,6.75,120,50,5,2,Android v15
+iqoo,iQOO Z10 Lite,Budget,13999,52,0.117680993,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,15,400,Slow Charging,6.74,90,50,5,2,Android v15
+vivo,Vivo Y19 5G (4GB RAM + 128GB),Budget,11499,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5500,15,366.6666667,Slow Charging,6.74,90,13,5,2,Android v15
+xiaomi,Xiaomi Redmi A5 4G (4GB RAM + 128GB),Budget,8999,46,-0.923409253,Average Value,FALSE,FALSE,FALSE,unisoc,Unisoc T7250,8,1.8,4,128,5200,15,346.6666667,Slow Charging,6.88,120,32,8,1,Android v15
+samsung,Samsung Galaxy A26 (8GB RAM + 256GB),Mid-Range,26470,66,0.478614983,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1380,8,2.4,8,256,5000,25,200,Standard,6.7,120,50,13,3,Android v15
+samsung,Samsung Galaxy M16 5G (6GB RAM + 128GB),Mid-Range,15999,55,-1.434970767,Overpriced,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5000,25,200,Standard,6.7,90,50,13,3,Android v14
+vivo,Vivo V50 5G (8GB RAM + 256GB),Premium,33999,70,-0.811107616,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,256,6000,90,66.66666667,Super Fast,6.77,120,50,50,2,Android v15
+oppo,Oppo A5 (2025),Mid-Range,16499,57,-1.087046085,Overpriced,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,45,133.3333333,Standard,6.67,120,50,8,2,Android v15
+motorola,Motorola Moto G65 5G,Mid-Range,16990,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300,8,2.5,8,128,6000,45,133.3333333,Standard,6.67,120,50,32,2,Android v15
+oneplus,OnePlus 13 (16GB RAM+ 512GB),Flagship,69999,90,0.777883221,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,16,512,6000,100,60,Super Fast,6.82,120,50,32,3,Android v15
+honor,Honor Magic 8 Pro,Flagship,97990,89,0.658517001,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,512,7100,100,71,Standard,6.71,120,200,50,3,Android v16
+apple,Apple iPhone 16e,Premium,59900,63,-1.90433962,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A18,6,4.04,8,128,4005,,,Slow Charging,6.1,,48,12,1,iOS v18
+motorola,Motorola Moto G87,Mid-Range,20990,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen2,8,,8,256,5100,44,115.9090909,Standard,6.74,120,50,32,2,Android v15
+vivo,Vivo Y19s,Budget,8990,48,-0.576379171,Average Value,FALSE,FALSE,FALSE,unisoc,Unisoc T612,8,1.8,6,128,5500,15,366.6666667,Slow Charging,6.68,90,50,5,2,Android v14
+realme,Realme C63 5G (8GB RAM + 128GB),Budget,12999,54,0.464711075,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,5000,10,500,Slow Charging,6.67,120,32,8,2,Android v14
+realme,Realme C63 5G,Budget,10999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5000,10,500,Slow Charging,6.67,120,32,8,2,Android v14
+vivo,Vivo V40e 5G,Mid-Range,28999,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300,8,2.5,8,128,5500,80,68.75,Super Fast,6.77,120,50,50,2,Android v14
+vivo,Vivo Y300 5G,Mid-Range,20999,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,8,128,5000,80,62.5,Super Fast,6.67,120,50,32,2,Android v14
+hmd,HMD Fusion,Budget,10999,58,1.15877124,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,6,128,5000,33,151.5151515,Standard,6.56,90,108,50,2,Android v14
+realme,Realme C61,Budget,7249,45,-1.096924294,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc T612,8,1.8,4,64,5000,18,277.7777778,Slow Charging,6.74,90,32,5,1,Android v14
+vertu,Vertu Ironflip,Flagship,489990,74,-1.131976304,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen2,8,3.2,12,256,4310,65,66.30769231,Super Fast,6.7,120,,,2,Android v13
+oneplus,OnePlus Nord CE 5 Lite 5G,Mid-Range,22990,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen2,8,,8,256,5000,80,62.5,Super Fast,6.78,120,50,32,3,Android v15
+poco,Poco X6 Neo (12GB RAM + 256GB),Mid-Range,17999,66,0.478614983,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6080,8,2.4,12,256,5000,33,151.5151515,Standard,6.67,120,108,16,2,Android v13
+infinix,Infinix Note 40 Pro 5G,Mid-Range,21999,68,0.826539665,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7020,8,2.2,8,256,5000,45,111.1111111,Standard,6.78,120,108,32,3,Android v14
+samsung,Samsung Galaxy S24 Ultra (12GB RAM + 512GB),Flagship,129999,84,0.061685899,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen3,8,3.3,12,512,5000,45,111.1111111,Standard,6.8,120,200,12,4,Android v14
+samsung,Samsung Galaxy M05,Budget,9999,44,-1.270439335,Overpriced,FALSE,FALSE,FALSE,mediatek,Helio G85,8,2,4,64,5000,25,200,Standard,6.7,,50,8,2,Android v14
+samsung,Samsung Galaxy M06 5G,Budget,11999,48,-0.576379171,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5000,25,200,Standard,6.74,90,50,8,2,Android v15
+nubia,Nubia Red Magic 10 Pro 5G,Premium,59990,83,1.219180391,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,6500,80,81.25,Standard,6.85,144,50,16,3,Android v15
+vivo,Vivo T2 Pro 5G (8GB RAM + 256GB),Mid-Range,23999,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7200,8,2.8,8,256,4600,66,69.6969697,Super Fast,6.78,120,64,16,2,Android v13
+realme,Realme GT Neo 6 SE,Mid-Range,19990,68,0.826539665,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7+ Gen3,8,2.8,8,256,5500,100,55,Super Fast,6.78,120,50,32,2,Android v14
+nothing,Nothing Phone 4,Flagship,80999,81,-0.296412762,Average Value,TRUE,TRUE,FALSE,unknown,Octa Core Processor,8,,12,256,6000,85,70.58823529,Standard,6.67,120,50,50,3,Android v15
+poco,Poco F6 5G,Mid-Range,29999,71,1.348426688,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,8,256,5000,90,55.55555556,Super Fast,6.67,120,50,20,2,Android v14
+samsung,Samsung Galaxy A16 5G,Mid-Range,20199,57,-1.087046085,Overpriced,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,5000,25,200,Standard,6.7,90,50,13,3,Android v14
+vivo,Vivo V30 5G,Mid-Range,29999,68,0.826539665,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,128,5000,80,62.5,Super Fast,6.78,120,50,50,2,Android v14
+google,Google Pixel 7 5G,Mid-Range,29999,64,0.130690301,Average Value,TRUE,TRUE,FALSE,google,Google Tensor G2,8,2.85,8,128,4355,30,145.1666667,Standard,6.3,90,50,10.8,2,Android v13
+apple,Apple iPhone 9,Mid-Range,29990,40,-4.04440588,Overpriced,FALSE,TRUE,FALSE,apple,A13 Bionic,6,2.65,3,64,2050,,,Slow Charging,4.7,,12,7,1,iOS v13
+oppo,Oppo A6X 4G,Budget,12999,44,-1.270439335,Overpriced,FALSE,FALSE,FALSE,qualcomm,Snapdragon 685,8,2.8,4,64,6500,,,Slow Charging,6.75,120,13,5,1,Android v15
+oppo,Oppo A6 5G (6GB RAM + 256GB),Mid-Range,25999,59,-0.739121403,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,6,256,7000,45,155.5555556,Standard,6.75,120,50,8,2,Android v15
+oppo,Oppo A6 5G (6GB RAM + 128GB),Mid-Range,21999,59,-0.739121403,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,7000,45,155.5555556,Standard,6.75,120,50,8,2,Android v15
+oppo,OPPO Reno 15 Pro 5G (12GB RAM + 512GB),Flagship,72999,88,0.53915078,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8450,8,3.25,12,512,6500,80,81.25,Standard,6.78,120,200,50,3,Android v16
+iqoo,iQOO Z10 Lite 5G (4GB RAM + 64GB),Budget,12999,50,-0.229349089,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,6000,15,400,Slow Charging,6.74,90,50,5,2,Android v15
+oppo,Oppo A6 Pro 5G (8GB+256GB),Mid-Range,26999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,256,7000,80,87.5,Standard,6.75,120,50,16,2,Android v15
+poco,POCO C85 5G (6GB RAM + 128GB),Budget,14470,58,1.15877124,Value King,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,33,181.8181818,Standard,6.9,120,50,8,2,Android v15
+vivo,Vivo X300 (12GB RAM + 512GB),Flagship,81999,86,0.30041834,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,4.21,12,512,6040,90,67.11111111,Super Fast,6.31,120,200,50,3,Android v16
+realme,Realme 15 Lite 5G,Mid-Range,17499,59,-0.739121403,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Energy,8,2.5,8,128,5000,80,62.5,Super Fast,6.67,120,50,16,2,Android v15
+samsung,Samsung Galaxy F07,Budget,8998,45,-1.096924294,Overpriced,FALSE,FALSE,FALSE,mediatek,Helio G99,8,2.2,4,64,5000,25,200,Standard,6.7,,50,8,2,Android v15
+xiaomi,Xiaomi 17 Pro,Flagship,82990,92,1.016615662,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 5,8,4.6,12,256,6300,100,63,Super Fast,6.3,144,50,50,3,Android v16
+realme,Realme P4 Pro 5G (8GB RAM + 256GB),Premium,30999,72,-0.498755615,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7 Gen 4,8,,8,256,7000,80,87.5,Standard,6.8,144,50,50,2,Android v15
+poco,Poco M7 Plus 5G (8GB RAM + 128GB),Mid-Range,16799,59,-0.739121403,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6s Gen3,8,2.3,8,128,7000,33,212.1212121,Slow Charging,6.9,144,50,8,1,Android v15
+vivo,Vivo V60 5G (16GB RAM + 512GB),Premium,45999,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,16,512,6500,90,72.22222222,Standard,6.77,120,50,50,3,Android v15
+iqoo,iQOO Z10R (12GB RAM + 256GB),Mid-Range,26998,67,0.652577324,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,12,256,5700,44,129.5454545,Standard,6.77,120,50,32,2,Android v15
+tecno,Tecno Spark 40 Pro,Mid-Range,15999,57,-1.087046085,Overpriced,FALSE,TRUE,TRUE,mediatek,Helio G100,8,2.2,8,128,5200,45,115.5555556,Standard,6.78,144,50,13,1,Android v15
+oppo,OPPO Reno 14 5G (12GB RAM + 256GB),Premium,44999,76,0.125948388,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8350,8,3.35,12,256,6000,80,75,Standard,6.59,120,50,50,3,Android v15
+vivo,Vivo T4 Ultra (12GB RAM+ 256GB),Premium,37999,75,-0.030227613,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 9300 Plus,8,3.25,12,256,5500,90,61.11111111,Super Fast,6.67,120,50,32,3,Android v15
+oneplus,OnePlus 13s (12GB RAM + 512GB),Premium,57999,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,512,5850,80,73.125,Standard,6.32,120,50,32,2,Android v15
+realme,Realme GT 7 Dream Edition,Premium,49999,89,2.156236395,Performance Beast,TRUE,TRUE,TRUE,mediatek,Dimensity 9400e,8,3.4,16,512,7000,120,58.33333333,Super Fast,6.78,120,50,32,3,Android v15
+realme,Realme Neo 7 Turbo,Mid-Range,23990,75,2.044276051,Performance Beast,TRUE,TRUE,TRUE,mediatek,Dimensity 9400e,8,,12,256,7200,100,72,Standard,6.8,144,50,16,2,Android v15
+infinix,Infinix Note 50s 5G (8GB RAM + 256GB),Mid-Range,24999,64,0.130690301,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,8,256,5500,45,122.2222222,Standard,6.78,144,64,13,2,Android v15
+realme,Realme Narzo 90 Pro 5G,Mid-Range,21990,64,0.130690301,Average Value,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,8,128,6500,100,65,Super Fast,6.78,120,50,32,3,Android v16
+nubia,Nubia Red Magic 10 Air,Premium,40999,74,-0.186403614,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,12,256,6000,80,75,Standard,6.8,120,50,16,2,Android v15
+poco,POCO C71,Budget,8963,45,-1.096924294,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc T7250,8,1.8,4,64,5200,15,346.6666667,Slow Charging,6.88,120,32,8,2,Android v15
+samsung,Samsung Galaxy F16 5G (6GB RAM + 128GB),Budget,14990,55,0.638226116,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+poco,Poco M7 5G (8GB RAM + 128GB),Budget,13984,53,0.291196034,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,8,128,5160,18,286.6666667,Slow Charging,6.88,120,50,8,1,Android v14
+xiaomi,Xiaomi Redmi Turbo 5,Mid-Range,29990,72,1.522389029,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8500 Ultra,8,3.4,12,256,7560,100,75.6,Standard,6.59,120,50,20,2,Android v16
+xiaomi,Xiaomi Redmi Note 14 Pro (8GB RAM + 256GB),Mid-Range,22869,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300 Ultra,8,2.5,8,256,5500,45,122.2222222,Standard,6.67,120,50,20,3,Android v14
+itel,itel S25 Ultra,Mid-Range,17990,57,-1.087046085,Overpriced,FALSE,TRUE,TRUE,unisoc,Unisoc T620,8,2.2,8,128,5000,18,277.7777778,Slow Charging,6.78,120,50,32,2,Android v14
+oppo,Oppo A5 Pro 5G,Mid-Range,18999,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,5800,45,128.8888889,Standard,6.67,120,50,8,2,Android v15
+samsung,Samsung Galaxy S26 Plus,Flagship,109999,79,-0.535145203,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2600,10,3.8,12,256,4900,45,108.8888889,Standard,6.7,120,50,12,3,Android v16
+apple,Apple iPhone 16 Plus (256GB),Flagship,89900,70,-1.609441186,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A18,6,4.04,8,256,4674,,,Slow Charging,6.7,60,48,12,2,iOS v18
+realme,Realme GT 8,Premium,52990,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,7000,100,70,Standard,6.79,144,50,16,3,Android v16
+realme,Realme Narzo 70 Turbo 5G,Mid-Range,16999,59,-0.739121403,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Energy,8,2.5,6,128,5000,45,111.1111111,Standard,6.67,120,50,16,2,Android v14
+realme,Realme 14 5G,Mid-Range,21990,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6 Gen4,8,2.3,12,256,6000,45,133.3333333,Standard,6.67,120,50,16,1,Android v15
+oneplus,OnePlus Ace 5,Mid-Range,26990,75,2.044276051,Performance Beast,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,12,256,6415,80,80.1875,Standard,6.78,120,50,16,3,Android v15
+iqoo,iQOO Z9s Pro 5G,Mid-Range,24999,64,0.130690301,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,128,5500,80,68.75,Super Fast,6.77,120,50,16,2,Android v14
+samsung,Samsung Galaxy F06 5G,Budget,11880,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5000,25,200,Standard,6.7,,50,8,2,Android v15
+vivo,Vivo T3 Lite 5G (6GB RAM + 128GB),Mid-Range,15490,54,-1.608933108,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5000,15,333.3333333,Slow Charging,6.56,90,50,8,2,Android v14
+realme,Realme C61 (6GB RAM + 128GB),Budget,8199,46,-0.923409253,Average Value,FALSE,FALSE,FALSE,unisoc,Unisoc T612,8,1.8,6,128,5000,18,277.7777778,Slow Charging,6.74,90,32,5,1,Android v14
+oneplus,OnePlus Nord CE 4 Lite 5G (8GB RAM + 256GB),Mid-Range,23899,64,0.130690301,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 695,8,2.2,8,256,5500,80,68.75,Super Fast,6.67,120,50,16,2,Android v14
+oppo,OPPO Reno 13 Pro 5G,Premium,44999,79,0.594476389,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8350,8,3.35,12,256,5800,80,72.5,Standard,6.83,120,50,50,3,Android v15
+xiaomi,Xiaomi Redmi K90,Premium,35990,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite,8,4.32,12,256,7100,100,71,Standard,6.59,120,50,20,3,Android v16
+realme,Realme 12X (6GB RAM +128GB),Budget,12499,55,0.638226116,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,6,128,5000,45,111.1111111,Standard,6.72,120,50,8,2,Android v14
+realme,Realme 12X 5G (8GB RAM +128GB),Budget,13499,55,0.638226116,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,8,128,5000,45,111.1111111,Standard,6.72,120,50,8,2,Android v14
+infinix,Infinix GT 20 Pro,Mid-Range,24999,71,1.348426688,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8200 Ultimate,8,3.1,8,256,5000,45,111.1111111,Standard,6.78,144,108,32,3,Android v14
+motorola,Motorola Moto G34 5G (8GB RAM + 128GB),Budget,14999,55,0.638226116,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 695,8,2.2,8,128,5000,18,277.7777778,Slow Charging,6.5,120,50,16,2,Android v14
+poco,Poco M6 Pro 5G (8GB RAM + 256GB),Budget,14999,54,0.464711075,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 4 Gen2,8,2.2,8,256,5000,18,277.7777778,Slow Charging,6.79,90,50,8,2,Android v13
+infinix,Infinix Smart 8,Budget,7299,48,-0.576379171,Average Value,FALSE,FALSE,FALSE,mediatek,Helio G36,8,2.2,4,64,5000,10,500,Slow Charging,6.6,90,50,8,2,Android v13
+motorola,Motorola Edge 50 Pro 5G,Mid-Range,27999,74,1.87031371,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,256,4500,68,66.17647059,Super Fast,6.7,144,50,50,3,Android v14
+vivo,Vivo T3x 5G,Mid-Range,17499,55,-1.434970767,Overpriced,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6 Gen1,8,2.2,4,128,6000,44,136.3636364,Standard,6.72,120,50,8,2,Android v14
+poco,Poco X5 Pro (8GB RAM + 256GB),Mid-Range,19349,64,0.130690301,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 778G,8,2.4,8,256,5000,67,74.62686567,Standard,6.67,120,108,16,3,Android v12
+oneplus,OnePlus 11 (16GB RAM + 256GB),Premium,38998,75,-0.030227613,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen2,8,3.2,16,256,5000,100,50,Super Fast,6.7,120,50,16,3,Android v13
+xiaomi,Xiaomi 14,Flagship,64999,88,0.53915078,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,12,512,4610,90,51.22222222,Super Fast,6.36,120,50,32,3,Android v14
+google,Google Pixel 8 Pro,Flagship,79999,74,-1.131976304,Overpriced,TRUE,TRUE,FALSE,google,Tensor G3,9,3,12,128,5050,30,168.3333333,Standard,6.7,120,50,10.5,3,Android v14
+samsung,Samsung Galaxy A82 5G,Premium,39990,67,-1.279635617,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 855+,8,2.96,6,128,4500,25,180,Standard,6.71,120,64,10,3,Android v11
+samsung,Samsung Galaxy F70 Pro 5G,Premium,32999,63,-1.90433962,Overpriced,TRUE,FALSE,FALSE,samsung,Exynos,8,,8,128,6000,45,133.3333333,Standard,6.74,120,50,32,2,Android v16
+vivo,Vivo V80 Elite 5G,Premium,52990,86,1.687708393,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,8,256,7000,100,70,Standard,6.67,144,50,50,3,Android v17
+vivo,Vivo Y21 5G (6GB RAM + 128GB),Mid-Range,20999,59,-0.739121403,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 6300,8,2.4,6,128,6500,44,147.7272727,Standard,6.74,120,50,5,2,Android v16
+samsung,Samsung Galaxy A37 5G (12GB RAM + 256 GB),Premium,52999,70,-0.811107616,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1480,8,2.7,12,256,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v16
+honor,Honor Magic 9 Pro,Flagship,109990,88,0.53915078,Average Value,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,12,512,7500,100,75,Standard,6.85,120,200,50,3,Android v17
+oppo,OPPO Reno 15 5G (12GB RAM + 512GB),Premium,53999,81,0.90682839,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,512,6500,80,81.25,Standard,6.59,120,50,50,3,Android v16
+realme,Realme 16 Pro Plus 5G (12GB RAM + 512GB),Premium,51999,83,1.219180391,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,512,7000,80,87.5,Standard,6.8,144,200,50,3,Android v16
+xiaomi,Xiaomi Redmi 15C 5G (8GB RAM + 128GB),Mid-Range,16999,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,6000,33,181.8181818,Standard,6.9,120,50,8,2,Android v15
+motorola,Motorola Edge 70 Ultra,Flagship,89990,86,0.30041834,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen 5,8,,12,512,7000,11200,0.625,Super Fast,6.7,120,50,60,4,Android v15
+oppo,OPPO Find X9s Pro,Flagship,79990,86,0.30041834,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500s,8,,16,512,7800,80,97.5,Standard,6.78,120,200,32,3,Android v16
+vivo,Vivo X Fold 6,Flagship,159999,94,1.255348103,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen 5,8,,16,512,6500,100,65,Super Fast,8.03,120,,,2,Android v16
+oppo,Oppo Find X9 5G (16GB RAM + 512GB),Flagship,84999,90,0.777883221,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,4.21,16,512,7025,80,87.8125,Standard,6.59,120,50,32,3,Android v16
+samsung,Samsung Galaxy F17 5G (8GB RAM + 128GB),Mid-Range,19283,59,-0.739121403,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1330,8,2.4,8,128,5000,25,200,Standard,6.7,90,50,13,3,Android v15
+honor,Honor 500,Premium,39990,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen4,8,3.2,12,256,8000,80,100,Standard,6.55,120,200,50,2,Android v16
+poco,Poco M8 Plus 5G,Budget,13999,57,0.985256198,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6s Gen4,8,,6,128,7500,44,170.4545455,Standard,6.92,144,50,16,2,Android v16
+realme,Realme 15x 5G (8GB RAM + 128GB),Mid-Range,19998,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,7000,60,116.6666667,Standard,6.81,144,50,50,2,Android v15
+realme,Realme 15x 5G (8GB RAM + 256GB),Mid-Range,21999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,256,7000,60,116.6666667,Standard,6.81,144,50,50,2,Android v15
+motorola,Motorola Moto X70 Air,Mid-Range,29990,76,2.218238392,Performance Beast,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,256,4800,68,70.58823529,Standard,6.7,120,50,50,2,Android v16
+apple,Apple iPhone 17 Pro (512GB),Flagship,149990,74,-1.131976304,Overpriced,TRUE,TRUE,FALSE,apple,Apple A19 Pro,6,,12,512,3988,,,Slow Charging,6.3,120,48,18,3,iOS v26
+samsung,Samsung Galaxy S25 FE (8GB RAM + 512GB),Flagship,71490,80,-0.415778982,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2400,10,3.2,8,512,4900,45,108.8888889,Standard,6.7,120,50,12,3,Android v16
+realme,Realme 15T (8GB RAM + 256GB),Mid-Range,24999,67,0.652577324,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6400 Max,8,2.5,8,256,7000,60,116.6666667,Standard,6.57,120,50,50,2,Android v15
+infinix,Infinix Note 60x,Budget,12990,57,0.985256198,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400,8,2.6,6,128,6000,45,133.3333333,Standard,6.67,120,50,16,2,Android v16
+infinix,Infinix HOT 70,Budget,12990,59,1.332286281,Value King,TRUE,FALSE,FALSE,mediatek,Dimensity 7050,8,2.6,6,128,5800,33,175.7575758,Standard,6.78,120,50,16,2,Android v16
+vivo,Vivo T4R 5G (12GB RAM + 256GB),Mid-Range,25840,67,0.652577324,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,12,256,5700,44,129.5454545,Standard,6.77,120,50,32,2,Android v15
+realme,Realme C71 (6GB RAM + 128GB),Budget,10999,44,-1.270439335,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc UMS9230E,8,1.8,6,128,6300,15,420,Slow Charging,6.75,90,13,5,1,Android v15
+ai+,Ai+ Nova 5G (8GB RAM + 128GB),Budget,12999,53,0.291196034,Average Value,TRUE,FALSE,FALSE,unisoc,Unisoc T8200,8,,8,128,5000,18,277.7777778,Slow Charging,6.75,120,50,5,2,Android v15
+oppo,OPPO Reno 14 5G (12GB RAM + 512GB),Premium,47999,79,0.594476389,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 8350,8,3.35,12,512,6000,80,75,Standard,6.59,120,50,50,3,Android v15
+ai+,Ai+ Pulse,Budget,8499,45,-1.096924294,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc T615,8,1.8,4,64,5000,10,500,Slow Charging,6.75,90,50,5,1,Android v15
+realme,Realme Neo 7 Turbo (16GB RAM + 256GB),Mid-Range,26990,76,2.218238392,Performance Beast,TRUE,TRUE,TRUE,mediatek,Dimensity 9400e,8,,16,256,7200,100,72,Standard,6.8,144,50,16,2,Android v15
+realme,Realme GT 10000 mAh,Premium,34990,75,-0.030227613,Average Value,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,8,256,10000,320,31.25,Super Fast,6.8,144,50,32,2,Android v15
+samsung,Samsung Galaxy F56 5G (8GB RAM + 256GB),Premium,32542,66,-1.435811618,Overpriced,TRUE,FALSE,FALSE,samsung,Exynos 1480,8,2.7,8,256,5000,45,111.1111111,Standard,6.74,120,50,12,3,Android v15
+realme,Realme P1 Speed 5G (8GB RAM + 256GB),Mid-Range,17999,63,-0.04327204,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 E,8,2.5,8,256,5000,45,111.1111111,Standard,6.67,120,50,16,2,Android v14
+realme,Realme Narzo 80 Pro 5G (12GB RAM + 256GB),Mid-Range,23999,66,0.478614983,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7400,8,2.6,12,256,6000,80,75,Standard,6.72,120,50,16,2,Android v15
+nothing,Nothing Phone 3a Pro (12GB RAM + 256GB),Premium,34999,68,-1.123459617,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen 3,8,2.5,12,256,5000,50,100,Standard,6.77,120,50,50,3,Android v15
+samsung,Samsung Galaxy M06 (6GB RAM + 128GB),Budget,13499,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5000,25,200,Standard,6.74,90,50,8,2,Android v15
+realme,Realme P3 Pro 5G (12GB RAM +256GB),Mid-Range,23999,66,0.478614983,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen3,8,2.5,12,256,6000,80,75,Standard,6.83,120,50,16,2,Android v15
+realme,Realme P3 Pro 5G (8GB RAM +256GB),Mid-Range,21999,64,0.130690301,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen3,8,2.5,8,256,6000,80,75,Standard,6.83,120,50,16,2,Android v15
+vivo,Vivo X300 Pro Mini,Premium,59990,81,0.90682839,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,,12,256,5800,100,58,Super Fast,6.3,120,50,50,3,Android v16
+samsung,Samsung Galaxy S25 Edge,Flagship,79999,81,-0.296412762,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8Elite,8,4.47,12,256,3900,25,156,Standard,6.7,120,200,12,2,Android v15
+oppo,OPPO Reno 13 5G (8GB+256GB),Premium,37998,72,-0.498755615,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8350,8,3.35,8,256,5600,80,70,Standard,6.59,120,50,50,3,Android v15
+motorola,Motorola Moto G06,Budget,7999,49,-0.40286413,Average Value,FALSE,TRUE,FALSE,mediatek,Helio G81 Ultra,8,2,4,64,5200,10,520,Slow Charging,6.88,120,50,8,1,Android v15
+itel,itel Zeno 10,Budget,5999,36,-2.658559664,Overpriced,FALSE,FALSE,FALSE,unknown,Octa Core Processor,8,,3,64,5000,,,Slow Charging,6.6,,8,5,2,Android v14
+xiaomi,Xiaomi Redmi Note 14 (8GB RAM + 128GB),Mid-Range,16999,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7025 Ultra,8,2.5,8,128,5110,45,113.5555556,Standard,6.67,120,50,20,3,Android v14
+realme,Realme C75,Budget,9990,52,0.117680993,Average Value,FALSE,TRUE,FALSE,mediatek,Helio G92 Max,8,2,8,128,6000,45,133.3333333,Standard,6.72,,50,8,2,Android v14
+samsung,Samsung Galaxy A16 5G (6GB RAM + 128GB),Mid-Range,15999,55,-1.434970767,Overpriced,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5000,25,200,Standard,6.7,90,50,13,3,Android v14
+google,Google Pixel 10 Pro Fold,Flagship,159999,88,0.53915078,Average Value,TRUE,TRUE,FALSE,google,Tensor G5,8,3.78,16,256,5015,30,167.1666667,Standard,8,120,,,2,Android v16
+motorola,Motorola Moto G77 5G,Mid-Range,29990,67,0.652577324,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6400,8,2.5,8,128,5200,30,173.3333333,Standard,6.78,120,108,32,2,Android v16
+asus,Asus ROG Phone 9 Pro,Flagship,101990,84,0.061685899,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Elite,8,4.32,16,512,5800,65,89.23076923,Standard,6.78,185,50,32,3,Android v15
+vivo,Vivo Y03t,Budget,6499,39,-2.138014541,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc T612,8,1.8,4,64,5000,15,333.3333333,Slow Charging,6.56,90,13,5,2,Android v14
+oppo,Oppo F29,Mid-Range,21999,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6 Gen1,8,2.2,8,128,6500,45,144.4444444,Standard,6.7,120,50,16,2,Android v15
+vivo,Vivo V50 Pro 5G,Premium,54990,77,0.282124388,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 9300,8,3.25,8,256,5700,100,57,Super Fast,6.8,144,50,50,4,Android v15
+realme,Realme 14 Pro 5G,Mid-Range,24990,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Energy,8,2.5,8,128,6000,45,133.3333333,Standard,6.77,120,50,16,2,Android v15
+vivo,Vivo Y28s 5G (6GB RAM + 128GB),Budget,14499,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5000,15,333.3333333,Slow Charging,6.56,90,50,8,2,Android v14
+cmf,CMF Phone 1 (8GB RAM + 128GB),Mid-Range,17999,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300,8,2.5,8,128,5000,33,151.5151515,Standard,6.67,120,50,16,2,Android v14
+samsung,Samsung Galaxy A06s,Budget,9999,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,samsung,Octa Core Processor,,,4,128,5000,25,200,Standard,6.7,90,50,8,2,Android v15
+oppo,Oppo F27 Pro Plus 5G,Mid-Range,25990,64,0.130690301,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7050,8,2.6,8,256,5000,67,74.62686567,Standard,6.7,120,64,8,2,Android v14
+realme,Realme GT 6T,Mid-Range,26099,68,0.826539665,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7+ Gen3,8,2.8,8,128,5500,120,45.83333333,Super Fast,6.78,120,50,32,2,Android v14
+oppo,Oppo A3 Pro 5G,Mid-Range,16999,55,-1.434970767,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,5100,45,113.3333333,Standard,6.67,120,50,8,2,Android v14
+nubia,Nubia Neo 2,Mid-Range,18990,58,-0.913083744,Average Value,TRUE,TRUE,FALSE,unisoc,Unisoc T820,8,2.7,8,256,6000,33,181.8181818,Standard,6.72,120,50,16,2,Android v13
+realme,Realme 12 Pro Plus 5G (8GB RAM + 256GB),Mid-Range,22999,64,0.130690301,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 7s Gen2,8,2.4,8,256,5000,67,74.62686567,Standard,6.7,120,64,32,3,Android v14
+lava,Lava Yuva 4,Budget,6699,44,-1.270439335,Overpriced,FALSE,FALSE,FALSE,unisoc,unisoc T606,8,1.6,4,64,5000,10,500,Slow Charging,6.56,90,50,8,2,Android v14
+poco,Poco X6 Neo,Mid-Range,15999,64,0.130690301,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6080,8,2.4,8,128,5000,33,151.5151515,Standard,6.67,120,108,16,2,Android v13
+nubia,Nubia Z60 Ultra,Premium,52990,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,8,256,6000,80,75,Standard,6.8,120,64,16,3,Android v14
+apple,Apple iPhone 15 Pro Max (1TB),Flagship,199900,74,-1.131976304,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A17 Pro,6,3.78,8,1024,4441,,,Slow Charging,6.7,120,48,12,3,iOS v17
+samsung,Samsung Galaxy Z Fold 6,Flagship,139499,88,0.53915078,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen 3,8,3.39,12,256,4400,25,176,Standard,7.6,120,,,2,Android v14
+infinix,Infinix Note 30 5G (8GB RAM + 256GB),Mid-Range,15999,62,-0.21723438,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6080,8,2.4,8,256,5000,45,111.1111111,Standard,6.78,120,108,16,3,Android v13
+realme,Realme C53,Budget,8994,52,0.117680993,Average Value,FALSE,FALSE,FALSE,unisoc,Tiger T612,8,1.82,4,128,5000,18,277.7777778,Slow Charging,6.74,90,108,8,2,Android v13
+samsung,Samsung Galaxy A34 5G (8GB RAM + 128GB),Mid-Range,24999,63,-0.04327204,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 1080,8,2.6,8,128,5000,25,200,Standard,6.6,120,48,13,3,Android v13
+tesla,Tesla Pi Phone,Flagship,69999,80,-0.415778982,Average Value,TRUE,TRUE,FALSE,unknown,Octa Core Processor,8,,16,512,5000,120,41.66666667,Super Fast,6.73,165,50,32,3,Android v16
+vivo,Vivo V29,Premium,31800,64,-1.748163619,Overpriced,TRUE,FALSE,FALSE,qualcomm,Snapdragon 778G,8,2.4,8,128,4600,80,57.5,Super Fast,6.78,120,50,50,3,Android v13
+vivo,Vivo X90 Pro 5G,Premium,54990,80,0.75065239,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9200,8,3.05,12,256,4870,120,40.58333333,Super Fast,6.78,120,50,32,3,Android v13
+samsung,Samsung Galaxy A54 5G,Premium,41999,68,-1.123459617,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1380,8,2.4,8,128,5000,25,200,Standard,6.4,120,50,32,3,Android v13
+oneplus,OnePlus 10 Pro 5G,Premium,39999,74,-0.186403614,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8 Gen1,8,3,8,128,5000,80,62.5,Super Fast,6.7,120,50,32,3,Android v12
+samsung,Samsung Galaxy S22 5G,Flagship,85999,74,-1.131976304,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon  8 Gen1,8,3,8,128,3700,25,148,Standard,6.1,120,50,10,3,Android v12
+motorola,Motorola Moto G60,Budget,14999,58,1.15877124,Value King,FALSE,TRUE,FALSE,qualcomm,Snapdragon  732G,8,2.3,6,128,6000,20,300,Slow Charging,6.78,120,108,32,3,Android v11
+oppo,OPPO K14 5G (6GB RAM + 256GB),Mid-Range,21999,62,-0.21723438,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 6300,8,2.4,6,256,7000,45,155.5555556,Standard,6.75,120,50,8,2,Android v15
+honor,Honor X80 GT,Premium,30990,64,-1.748163619,Overpriced,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,8,256,13080,80,163.5,Standard,6.79,120,50,16,2,Android v16
+oneplus,OnePlus 17,Flagship,99990,90,0.777883221,Average Value,TRUE,TRUE,TRUE,qualcomm,Octa Core Processor,,,12,256,10001,120,83.34166667,Standard,6.82,240,200,50,3,Android v17
+honor,Honor Play 80 Pro,Mid-Range,27990,55,-1.434970767,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6s Gen 3,8,2.3,6,256,7000,45,155.5555556,Standard,6.8,120,50,5,1,Android v15
+apple,Apple iPhone 18e,Flagship,69990,62,-2.564370948,Overpriced,TRUE,TRUE,FALSE,apple,Apple A20,6,,12,256,6.2,,,Slow Charging,48,,,,1,iOS v27
+xiaomi,Xiaomi 18 Ultra,Flagship,119990,94,1.255348103,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Elite Gen 6,8,,16,512,7000,100,70,Standard,6.9,120,200,50,3,Android v17
+realme,Realme C83 5G (6GB RAM + 128GB),Mid-Range,18499,53,-1.782895449,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,7000,15,466.6666667,Slow Charging,6.8,144,13,5,1,Android v16
+infinix,Infinix Note Edge 5G (8GB RAM + 256GB),Mid-Range,26999,67,0.652577324,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7100,8,2.4,8,256,6500,45,144.4444444,Standard,6.78,120,50,13,2,Android v16
+tecno,Tecno Camon 50 4G,Mid-Range,24990,57,-1.087046085,Overpriced,FALSE,TRUE,TRUE,mediatek,Helio G200,8,2.2,8,256,6150,,,Slow Charging,6.78,144,50,32,2,Android v16
+tecno,Tecno Camon 50 Pro 4G,Mid-Range,29990,61,-0.391196721,Average Value,FALSE,TRUE,TRUE,mediatek,Helio G200,8,2.2,8,256,6150,,,Slow Charging,6.78,144,50,32,3,Android v16
+oppo,Oppo K14 Turbo,Premium,30990,70,-0.811107616,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8500,8,3.4,8,128,7400,80,92.5,Standard,6.6,120,50,16,2,Android v16
+oppo,Oppo A6c,Budget,11990,48,-0.576379171,Average Value,FALSE,FALSE,FALSE,qualcomm,Snapdragon 685,8,2.8,6,128,6500,,,Slow Charging,6.75,120,13,5,1,Android v15
+lava,Lava Blaze Duo 3 5G,Mid-Range,17999,59,-0.739121403,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7060,8,,6,128,5000,33,151.5151515,Standard,6.67,120,50,8,2,
+poco,Poco M8 5G (8GB RAM + 128GB),Mid-Range,18899,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 6 Gen3,8,,8,128,5520,45,122.6666667,Standard,6.77,120,50,20,2,Android v15
+realme,Realme 16 Pro Plus 5G (8GB+256GB),Premium,45999,81,0.90682839,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,8,256,7000,80,87.5,Standard,6.8,144,200,50,3,Android v16
+xiaomi,Xiaomi Redmi Turbo 5 Pro,Premium,34990,74,-0.186403614,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500e,8,,12,256,9000,100,90,Standard,6.7,120,50,32,2,Android v16
+poco,POCO C85 5G (8GB RAM + 128GB),Mid-Range,15990,58,-0.913083744,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,6000,33,181.8181818,Standard,6.9,120,50,8,2,Android v15
+huawei,Huawei Mate 80 Pro Max,Flagship,109990,80,-0.415778982,Average Value,TRUE,TRUE,TRUE,hisilicon,Kirin 9030,,,16,512,6000,100,60,Super Fast,6.9,120,50,13,4,HarmonyOS v6.0
+oneplus,OnePlus Ace 6T,Premium,34990,75,-0.030227613,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen5,8,3.84,12,256,8300,100,83,Standard,6.83,165,50,16,2,Android v16
+oppo,Oppo K13s,Mid-Range,19990,58,-0.913083744,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen3,8,2.63,8,256,7000,,,Slow Charging,6.8,,50,32,2,Android v15
+hmd,HMD Vibe 5G,Budget,9999,48,-0.576379171,Average Value,TRUE,FALSE,FALSE,unisoc,Unisoc T760,8,,4,128,5000,18,277.7777778,Slow Charging,6.67,90,50,8,2,Android v15
+oppo,Oppo F31 Pro 5G (8GB RAM + 256GB),Mid-Range,29999,67,0.652577324,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300 Energy,8,2.5,8,256,7000,80,87.5,Standard,6.57,120,50,32,2,Android v15
+honor,Honor Play 10C,Budget,7999,45,-1.096924294,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,15,400,Slow Charging,6.61,120,13,5,1,Android v15
+infinix,Infinix GT 30 5G (8GB RAM+ 256GB),Mid-Range,20999,66,0.478614983,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7400,8,2.6,8,256,5500,45,122.2222222,Standard,6.78,144,64,13,2,Android v15
+vivo,Vivo Y400 5G (8GB RAM + 256GB),Mid-Range,27999,64,0.130690301,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,8,256,6000,90,66.66666667,Super Fast,6.67,120,50,32,2,Android v15
+xiaomi,Xiaomi 16 Pro Max,Flagship,72999,85,0.181052119,Average Value,TRUE,TRUE,TRUE,unknown,Octa Core Processor,8,,16,512,7500,100,75,Standard,6.85,120,50,32,3,Android v16
+oppo,Oppo A5x 5G (6GB RAM + 128GB),Mid-Range,16990,53,-1.782895449,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,45,133.3333333,Standard,6.67,120,32,5,1,Android v15
+samsung,Samsung Galaxy F36 5G (8GB RAM + 128GB),Mid-Range,20999,63,-0.04327204,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1380,8,2.4,8,128,5000,25,200,Standard,6.7,120,50,13,3,Android v15
+iqoo,iQOO Z10 Lite 5G (8GB RAM + 256GB),Mid-Range,16999,54,-1.608933108,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,256,6000,15,400,Slow Charging,6.74,90,50,5,2,Android v15
+honor,Honor X70,Mid-Range,16999,62,-0.21723438,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 6 Gen4,8,2.3,8,128,8300,80,103.75,Standard,6.79,120,50,8,1,Android v15
+realme,Realme Narzo 80 Lite (6GB RAM + 128GB),Budget,14479,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,6000,15,400,Slow Charging,6.67,120,32,8,2,Android v15
+lava,Lava Storm Lite 5G (4GB RAM + 128GB),Budget,10499,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6400,8,2.5,4,128,5000,,,Slow Charging,6.75,120,50,5,2,Android v15
+motorola,Motorola Razr 70,Premium,59990,83,1.219180391,Value King,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8S Elite,8,,8,256,5000,33,151.5151515,Standard,6.9,120,50,32,2,
+tecno,Tecno Pova Curve 5G (8GB RAM + 128GB),Mid-Range,18999,63,-0.04327204,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 7300 Ultimate,8,2.5,8,128,5500,45,122.2222222,Standard,6.78,144,64,13,2,Android v15
+realme,Realme GT 7T (12GB RAM + 512GB),Premium,41999,80,0.75065239,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8400-MAX,8,3.25,12,512,7000,120,58.33333333,Super Fast,6.8,120,50,32,2,Android v15
+vivo,Vivo Y29t 5G,Budget,12999,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,6,128,5500,45,122.2222222,Standard,6.68,120,50,8,2,Android v15
+itel,itel Zeno 5G,Budget,9999,53,0.291196034,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 6300,8,2.4,4,128,5000,18,277.7777778,Slow Charging,6.67,120,50,8,2,Android v14
+iqoo,iQOO Z10x 5G (8GB RAM + 128GB),Mid-Range,18998,58,-0.913083744,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 7300,8,2.5,8,128,6500,44,147.7272727,Standard,6.72,120,50,8,2,Android v15
+lava,Lava Bold 5G (6GB RAM + 128GB),Mid-Range,16999,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5000,33,151.5151515,Standard,6.67,120,64,16,2,Android v14
+vivo,Vivo S30,Premium,31990,74,-0.186403614,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7 Gen4,8,2.8,12,256,6500,90,72.22222222,Standard,6.67,120,50,50,3,Android v15
+vivo,Vivo Y40,Mid-Range,19999,55,-1.434970767,Overpriced,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,8,128,7300,44,165.9090909,Standard,6.68,120,50,32,2,Android v16
+samsung,Samsung Galaxy S25 (12GB RAM + 128GB),Flagship,74999,77,-0.773877643,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 8Elite,8,4.47,12,128,4000,25,160,Standard,6.2,120,50,12,3,Android v15
+samsung,Samsung Galaxy A36 5G (12GB RAM + 256GB),Premium,38499,67,-1.279635617,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6 Gen3,8,2.4,12,256,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v15
+samsung,Samsung Galaxy A56 5G (12GB RAM + 256GB),Premium,47999,67,-1.279635617,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1580,8,2.9,12,256,5000,45,111.1111111,Standard,6.7,120,50,12,3,Android v15
+honor,Honor 400 Pro,Flagship,64990,81,-0.296412762,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,12,256,6000,100,60,Super Fast,6.7,120,200,50,3,Android v15
+realme,Realme 14T 5G,Mid-Range,17999,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,8,128,6000,45,133.3333333,Standard,6.67,120,50,16,2,Android v15
+poco,Poco X7 Pro Iron Man Edition,Premium,34990,74,-0.186403614,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 8400 Ultra,8,3.25,12,512,6550,90,72.77777778,Standard,6.67,120,50,20,2,Android v15
+vivo,Vivo Y60,Mid-Range,22990,53,-1.782895449,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 4 Gen2,8,2.2,8,256,6500,15,433.3333333,Slow Charging,6.74,120,13,5,1,Android v15
+poco,Poco X8 5G,Mid-Range,29990,66,0.478614983,Average Value,TRUE,FALSE,FALSE,unknown,Octa Core Processor,8,,8,256,5700,80,71.25,Standard,6.74,144,50,32,3,Android v16
+vivo,Vivo Y29 5G (6GB+128GB),Mid-Range,15499,54,-1.608933108,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5500,44,125,Standard,6.68,120,50,8,2,Android v14
+vivo,Vivo X200 (16GB RAM + 512GB),Flagship,60999,81,-0.296412762,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9400,8,3.63,16,512,5800,90,64.44444444,Super Fast,6.67,120,50,32,3,Android v15
+xiaomi,Xiaomi Redmi A4 5G (4GB RAM + 128GB),Budget,11999,50,-0.229349089,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 4s Gen2,8,2,4,128,5160,18,286.6666667,Slow Charging,6.88,120,50,5,2,Android v14
+vivo,Vivo X200 Pro Mini,Premium,55990,84,1.375356392,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9400,8,3.63,12,256,5700,90,63.33333333,Super Fast,6.31,120,50,32,3,Android v15
+motorola,Motorola Razr 60 5G,Premium,49999,81,0.90682839,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 7400X,8,2.6,8,256,4500,30,150,Standard,6.9,120,,,2,
+motorola,Motorola Moto G75 5G,Premium,32990,66,-1.435811618,Overpriced,TRUE,TRUE,FALSE,qualcomm,Snapdragon 6 Gen3,8,2.4,8,256,5000,30,166.6666667,Standard,6.78,120,50,16,2,Android v14
+huawei,Huawei Mate XT Ultimate,Flagship,235990,83,-0.057680321,Average Value,TRUE,TRUE,TRUE,hisilicon,Octa Core Processor,,,16,256,5600,66,84.84848485,Standard,10.2,120,,,2,HarmonyOS v4.2
+iqoo,iQOO Z9s 5G,Mid-Range,25490,62,-0.21723438,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300,8,2.5,8,128,5500,44,125,Standard,6.77,120,50,16,2,Android v14
+hmd,HMD Crest,Budget,10416,55,0.638226116,Average Value,TRUE,FALSE,FALSE,unisoc,Unisoc T760,8,2.2,6,128,5000,33,151.5151515,Standard,6.67,90,50,50,2,Android v14
+oneplus,OnePlus Nord 4 5G (12GB RAM + 256GB),Mid-Range,29942,70,1.174464347,Value King,TRUE,TRUE,TRUE,qualcomm,Snapdragon 7+ Gen3,8,2.8,12,256,5500,100,55,Super Fast,6.74,120,50,16,2,Android v14
+vivo,Vivo Y28e 5G (4GB RAM + 64GB),Budget,9999,49,-0.40286413,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,64,5000,15,333.3333333,Slow Charging,6.56,90,13,5,2,Android v14
+oppo,OPPO A3x 5G,Budget,11499,48,-0.576379171,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,5100,45,113.3333333,Standard,6.67,120,8,5,1,Android v14
+samsung,Samsung Galaxy Z Flip 7 5G,Flagship,95999,88,0.53915078,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2500,10,3.3,12,256,4300,25,172,Standard,6.9,120,,,2,
+realme,Realme GT 6 5G (12GB RAM + 256GB),Premium,46480,79,0.594476389,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,12,256,5500,120,45.83333333,Super Fast,6.78,120,50,32,3,Android v14
+xiaomi,Xiaomi 14 Civi (12GB RAM + 512GB),Premium,44999,75,-0.030227613,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,12,512,4700,67,70.14925373,Standard,6.55,120,50,32,3,Android v14
+poco,Poco M6 Plus 5G,Budget,13499,58,1.15877124,Value King,TRUE,FALSE,TRUE,qualcomm,Snapdragon 4 Gen2 AE,8,2.3,6,128,5030,33,152.4242424,Standard,6.79,120,108,13,2,Android v14
+tecno,Tecno Camon 30 5G (12GB RAM + 512GB),Premium,31990,66,-1.435811618,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensit 7020,8,2.2,12,512,5000,70,71.42857143,Standard,6.78,120,50,50,3,Android v14
+honor,Honor 200 Lite,Mid-Range,24999,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6080,8,2.4,8,256,4500,35,128.5714286,Standard,6.7,,108,50,3,Android v14
+oppo,OPPO K15 Turbo Pro,Premium,45999,76,0.125948388,Average Value,TRUE,FALSE,TRUE,unknown,Octa Core Processor,8,,8,256,7800,80,97.5,Standard,6.78,165,200,16,2,Android v17
+oppo,Oppo A60 5G,Budget,14990,53,0.291196034,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,5100,45,113.3333333,Standard,6.67,120,50,5,2,Android v14
+infinix,Infinix Hot 50 Pro,Mid-Range,15990,55,-1.434970767,Overpriced,FALSE,TRUE,FALSE,mediatek,Helio G100,8,2.2,8,128,5000,33,151.5151515,Standard,6.78,120,50,8,3,Android v14
+iqoo,iQOO Neo 9 Pro 5G (12GB RAM + 256GB),Premium,37990,68,-1.123459617,Overpriced,TRUE,FALSE,TRUE,qualcomm,Snapdragon 8 Gen2,8,3.2,12,256,5160,120,43,Super Fast,6.78,144,50,16,2,Android v14
+samsung,Samsung Galaxy S24 (8GB RAM + 128GB),Premium,49998,72,-0.498755615,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 2400,10,3.2,8,128,4000,25,160,Standard,6.2,120,50,12,3,Android v14
+poco,Poco X6 Pro 5G (12GB RAM + 512GB),Mid-Range,29999,71,1.348426688,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 8300 Ultra,8,3.35,12,512,5000,67,74.62686567,Standard,6.67,120,64,16,3,Android v14
+oppo,Oppo Find X7 Ultra,Flagship,69990,83,-0.057680321,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,12,256,5000,100,50,Super Fast,6.82,120,50,32,4,Android v14
+vivo,Vivo S19 Pro,Premium,37990,74,-0.186403614,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9200 Plus,8,3.35,8,256,5500,80,68.75,Super Fast,6.78,120,50,50,3,Android v14
+iqoo,iQOO 12 5G (16GB RAM + 512GB),Premium,57699,79,0.594476389,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen3,8,3.3,16,512,5000,120,41.66666667,Super Fast,6.78,144,64,16,3,Android v14
+samsung,Samsung Galaxy A15 5G,Mid-Range,21499,57,-1.087046085,Overpriced,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,8,128,5000,25,200,Standard,6.5,90,50,13,3,Android v14
+xiaomi,Xiaomi Redmi 13C 5G,Budget,9999,50,-0.229349089,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,4,128,5000,18,277.7777778,Slow Charging,6.74,90,50,5,2,Android v13
+motorola,Motorola Edge 40 Neo (12GB RAM + 256GB),Mid-Range,22990,66,0.478614983,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 7030,8,2.5,12,256,5000,68,73.52941176,Standard,6.55,144,50,32,2,Android v13
+apple,Apple iPhone 17 Plus,Flagship,99999,66,-2.086906067,Overpriced,TRUE,TRUE,FALSE,apple,Apple A19,6,,8,256,6.8,,,Slow Charging,48,,,,1,iOS v26
+iqoo,iQOO Z9x,Mid-Range,17990,58,-0.913083744,Average Value,TRUE,FALSE,FALSE,qualcomm,Snapdragon 6 Gen1,8,2.2,4,128,6000,44,136.3636364,Standard,6.72,120,50,8,2,Android v14
+motorola,Motorola Moto G54 5G (12GB RAM +256GB),Mid-Range,20999,61,-0.391196721,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7020,8,2.2,12,256,6000,33,181.8181818,Standard,6.5,120,50,16,2,Android v13
+xiaomi,Xiaomi Redmi 12 5G (6GB RAM + 128GB),Budget,12494,53,0.291196034,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 4 Gen2,8,2.2,6,128,5000,18,277.7777778,Slow Charging,6.79,90,50,8,2,Android v13
+poco,Poco C65,Budget,8499,46,-0.923409253,Average Value,FALSE,FALSE,FALSE,mediatek,Helio G85,8,2,4,128,5000,18,277.7777778,Slow Charging,6.74,90,50,8,3,Android v13
+nubia,Nubia Neo,Mid-Range,15990,54,-1.608933108,Overpriced,TRUE,TRUE,FALSE,unisoc,Unisoc T820,8,2.7,8,256,4500,22,204.5454545,Slow Charging,6.6,120,50,8,2,Android v13
+vivo,Vivo V29e,Mid-Range,26999,64,0.130690301,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 695,8,2.2,8,128,5000,44,113.6363636,Standard,6.78,120,64,50,2,Android v13
+lava,Lava Agni 3 5G,Mid-Range,20999,67,0.652577324,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7300X,8,2.5,8,128,5000,66,75.75757576,Standard,6.78,120,50,16,3,
+samsung,Samsung Galaxy F15 5G,Budget,13499,53,0.291196034,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6100 Plus,8,2.2,4,128,6000,25,240,Slow Charging,6.45,90,50,13,3,Android v14
+samsung,Samsung Galaxy F54,Premium,35999,68,-1.123459617,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 1380,8,2.4,8,256,6000,25,240,Slow Charging,6.7,120,108,32,3,Android v13
+oneplus,OnePlus 11R (16GB RAM + 256GB),Premium,34991,70,-0.811107616,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8+ Gen1,8,3.2,16,256,5000,100,50,Super Fast,6.74,120,50,16,3,Android v13
+oppo,Oppo Find X6 Pro,Flagship,71990,80,-0.415778982,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8 Gen2,8,3.2,12,256,5000,100,50,Super Fast,6.82,120,50,32,3,Android v13
+samsung,Samsung Galaxy A14 5G,Mid-Range,18499,52,-1.95685779,Overpriced,TRUE,FALSE,FALSE,samsung,Exynos 1330,8,2.4,4,64,5000,15,333.3333333,Slow Charging,6.6,90,50,13,3,Android v13
+motorola,Motorola Edge 40 5G,Mid-Range,29999,70,1.174464347,Value King,TRUE,TRUE,FALSE,mediatek,Dimensity 8020,8,2.6,8,256,4400,68,64.70588235,Super Fast,6.55,144,50,32,2,Android v13
+samsung,Samsung Galaxy M34 5G,Mid-Range,21900,62,-0.21723438,Average Value,TRUE,TRUE,FALSE,samsung,Exynos 1280 ,8,2.4,6,128,6000,25,240,Slow Charging,6.5,120,50,13,3,Android v13
+poco,Poco X6 5G,Mid-Range,21999,63,-0.04327204,Average Value,TRUE,FALSE,TRUE,qualcomm,Snapdragon 7s Gen 2,8,2.4,8,256,5100,67,76.11940299,Standard,6.67,120,64,16,3,Android v13
+iqoo,iQOO 9 SE 5G,Mid-Range,27999,64,0.130690301,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon  888 ,8,2.84,8,128,4500,66,68.18181818,Super Fast,6.62,120,48,16,3,Android v12
+oneplus,OnePlus Nord 2T 5G,Mid-Range,28999,64,0.130690301,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 1300,8,3,8,128,4500,80,56.25,Super Fast,6.43,90,50,32,3,Android v12
+oneplus,OnePlus 10R 5G,Mid-Range,29999,63,-0.04327204,Average Value,TRUE,TRUE,FALSE,mediatek,Dimensity 8100 Max,8,2.85,8,128,5000,80,62.5,Super Fast,6.7,120,50,16,3,Android v12
+xiaomi,Xiaomi Redmi Note 12 Pro 5G,Mid-Range,21499,62,-0.21723438,Average Value,TRUE,FALSE,TRUE,mediatek,Dimensity 1080,8,2.6,6,128,5000,67,74.62686567,Standard,6.67,120,50,16,3,Android v12
+samsung,Samsung Galaxy S21 FE 5G,Flagship,74999,68,-1.848173626,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos 2100,8,2.9,8,128,4500,25,180,Standard,6.4,120,12,32,3,Android v12
+realme,Realme 7,Budget,11999,52,0.117680993,Average Value,FALSE,FALSE,FALSE,mediatek,Helio  G95,8,2.05,6,64,5000,30,166.6666667,Standard,6.5,90,64,16,4,Android v10
+oneplus,OnePlus 8T,Mid-Range,23999,63,-0.04327204,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 865,8,2.84,8,128,4500,65,69.23076923,Super Fast,6.55,120,48,16,4,Android v11
+apple,Apple iPhone 12 Pro Max,Flagship,119900,61,-2.683737169,Overpriced,TRUE,TRUE,FALSE,apple,Bionic A14,6,3.1,6,128,3687,,,Slow Charging,6.7,,12,12,3,iOS v14
+xiaomi,Xiaomi Redmi K20 Pro Signature Edition,Flagship,480000,68,-1.848173626,Overpriced,FALSE,TRUE,FALSE,qualcomm,Snapdragon  855,8,2.8,8,256,4000,27,148.1481481,Standard,6.39,,48,20,3,Android v9
+tecno,Tecno Camon Slim,Mid-Range,22999,57,-1.087046085,Overpriced,TRUE,FALSE,TRUE,mediatek,Dimensity 7100,8,,8,128,5200,45,115.5555556,Standard,6.78,144,50,13,2,Android v16
+motorola,Motorola Edge 70 Fusion Plus,Premium,49999,71,-0.654931615,Average Value,TRUE,TRUE,FALSE,qualcomm,Snapdragon 7s Gen4,8,2.7,12,256,5200,,,Slow Charging,6.8,144,50,50,3,Android v16
+samsung,Samsung Galaxy S27 5G,Flagship,94990,75,-1.012610084,Overpriced,TRUE,TRUE,FALSE,samsung,Exynos,10,,12,256,4400,25,176,Standard,6.3,144,50,12,3,Android v17
+apple,Apple iPhone 17e (512GB),Flagship,84900,64,-2.325638508,Overpriced,TRUE,TRUE,FALSE,apple,Apple A19,6,,8,512,4005,,,Slow Charging,6.1,,48,12,1,iOS v26.3
+realme,Realme P4 Lite 4G,Budget,10480,41,-1.790984458,Overpriced,FALSE,FALSE,FALSE,unisoc,Unisoc T7250,8,1.8,4,64,6300,15,420,Slow Charging,6.74,,13,5,1,Android v15
+oppo,Oppo Find X10 Pro Max 5G,Flagship,129990,94,1.255348103,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9600,8,,16,512,8000,800,10,Super Fast,6.9,120,200,50,3,Android v17
+xiaomi,Xiaomi Redmi K90 Ultra,Flagship,69990,86,0.30041834,Average Value,TRUE,TRUE,TRUE,mediatek,Dimensity 9500,8,,12,256,8500,100,85,Standard,6.9,120,50,50,3,Android v16
+huawei,Huawei Pura X2,Flagship,99990,80,-0.415778982,Average Value,TRUE,TRUE,TRUE,hisilicon,Kirin 9030,8,,12,256,5000,80,62.5,Super Fast,7.69,,,,2,HarmonyOS v6.1
+tecno,Tecno Spark GO 3,Budget,9990,41,-1.790984458,Overpriced,FALSE,FALSE,TRUE,unisoc,Unisoc T7250,8,1.8,4,64,5000,15,333.3333333,Slow Charging,6.74,120,13,8,1,Android v15
+realme,Realme C85 5G (6GB RAM + 128GB),Mid-Range,17999,55,-1.434970767,Overpriced,TRUE,TRUE,FALSE,mediatek,Dimensity 6300,8,2.4,6,128,7000,45,155.5555556,Standard,6.8,144,50,8,1,Android v15
+vivo,Vivo X500,Premium,57990,83,1.219180391,Value King,TRUE,TRUE,TRUE,mediatek,Dimensity 9600,8,,12,256,7000,90,77.77777778,Standard,6.67,120,200,50,3,Android v16
+vivo,Vivo Y19s 5G (4GB RAM + 128GB),Budget,13499,50,-0.229349089,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 6300,8,2.4,4,128,6000,15,400,Slow Charging,6.74,90,13,5,2,Android v15
+oukitel,Oukitel WP60 5G,Mid-Range,24699,64,0.130690301,Average Value,TRUE,FALSE,FALSE,mediatek,Dimensity 7025,8,2.5,8,256,10000,33,303.030303,Slow Charging,7.2,120,108,32,3,Android v15
+vivo,Vivo S50,Premium,39990,76,0.125948388,Average Value,TRUE,TRUE,TRUE,qualcomm,Snapdragon 8s Gen3,8,3,12,256,6500,100,65,Super Fast,6.59,120,50,50,3,Android v16

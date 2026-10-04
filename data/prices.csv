@@ -1,0 +1,43 @@
+﻿brand,model,price_thb,updated,source
+Apple,iPhone Duo,79900,2026-10-04,"apple.com/th/shop 256GB; 512GB 87,900 / 1TB 103,900 / 2TB 127,900"
+Apple,iPhone 18 Pro,48900,2026-10-04,"apple.com/th/shop 256GB; 512GB 56,900 / 1TB 72,900 / 2TB 96,900"
+Apple,iPhone Air,43900,2026-10-04,"apple.com/th/shop 256GB; 512GB 51,900 / 1TB 67,900"
+Apple,iPhone 17,34900,2026-10-04,"apple.com/th/shop 256GB; 512GB 42,900"
+Apple,iPhone 17e,26900,2026-10-04,"apple.com/th/shop 256GB; 512GB 34,900"
+Apple,iPhone 16,30900,2026-10-04,apple.com/th/shop 128GB
+Samsung,Galaxy S26,38900,2026-10-04,"samsung.com/th 12/256; 12/512 46,900"
+Samsung,Galaxy S26+,45900,2026-10-04,"samsung.com/th 12/256; 12/512 53,900"
+Samsung,Galaxy S26 Ultra,50900,2026-10-04,"samsung.com/th 12/256; 12/512 58,900; 16/1TB ไม่แสดงราคา"
+Samsung,Galaxy Z Fold8,61900,2026-10-04,"samsung.com/th 12/256; 12/512 69,900 / 16/1TB 85,900"
+Samsung,Galaxy Z Fold8 Ultra,69900,2026-10-04,"samsung.com/th 12/256; 12/512 77,900 / 16/1TB 93,900"
+Samsung,Galaxy Z Flip8,42900,2026-10-04,"samsung.com/th 12/256; 12/512 50,900"
+Samsung,Galaxy A57,19999,2026-10-04,"samsung.com/th 8/256; 12/256 22,999 / 512GB 27,999"
+Xiaomi,Xiaomi 17,29990,2026-10-04,"mi.com/th ราคาเริ่มต้นที่แสดง (ขีดฆ่า 35,988)"
+Xiaomi,Xiaomi 17T,21999,2026-10-04,"mi.com/th ราคาเริ่มต้นที่แสดง (ขีดฆ่า 26,399)"
+Xiaomi,REDMI Note 17 Pro Max 5G,18599,2026-10-04,"mi.com/th (ขีดฆ่า 22,319)"
+Xiaomi,REDMI Note 17 Pro 5G,15499,2026-10-04,"mi.com/th (ขีดฆ่า 18,599)"
+Xiaomi,REDMI Note 17 5G,11999,2026-10-04,"mi.com/th (ขีดฆ่า 14,399)"
+Xiaomi,POCO F9 Ultra,36990,2026-10-04,"mi.com/th (ขีดฆ่า 39,990)"
+Xiaomi,POCO F9 Pro,24990,2026-10-04,"mi.com/th (ขีดฆ่า 27,990)"
+Xiaomi,POCO M8s 5G,8499,2026-10-04,"mi.com/th (ขีดฆ่า 10,799)"
+Xiaomi,POCO C81 Pro,5099,2026-10-04,"mi.com/th (ขีดฆ่า 6,599)"
+OPPO,Find N6,,,
+OPPO,Find X9 Ultra,49999,2026-10-04,"oppo.com/th 12/512; 16/1TB 54,999"
+OPPO,Find X9s,31999,2026-10-04,"oppo.com/th 12/256; 12/512 34,999"
+OPPO,Find X9,29999,2026-10-04,"bnn.in.th (ร้านทางการ) 12/256 ราคาปกติ (โปร 27,999)"
+OPPO,Find X9 Pro,42999,2026-10-04,bnn.in.th (ร้านทางการ) 16/512
+OPPO,Find X8 Pro,39999,2026-10-04,bnn.in.th (ร้านทางการ) 16/512 (สถานะ Coming Soon)
+OPPO,Find X8,29999,2026-10-04,bnn.in.th (ร้านทางการ) 12/256 (สถานะ พร้อมจำหน่ายเร็วๆ นี้)
+OPPO,Reno16 Pro 5G,29999,2026-10-04,"oppo.com/th 12/256 ราคาปกติ (โปร 27,999)"
+OPPO,Reno16 5G,18999,2026-10-04,"oppo.com/th 8/256; 12/256 19,999"
+OPPO,Reno16 F 5G,15999,2026-10-04,"oppo.com/th 8/128; 8/256 16,999"
+OPPO,Reno15 5G,18999,2026-10-04,oppo.com/th
+OPPO,A7 Pro Max 5G,,,
+OPPO,A7 Pro 5G,,,
+OPPO,A6s 5G,11999,2026-10-04,oppo.com/th 8/256
+OPPO,A6,6499,2026-10-04,"oppo.com/th 6/128; 8/128 7,999"
+OPPO,A6x,8499,2026-10-04,"oppo.com/th 4/128 (ราคาที่ 2 = 8,999 ไม่ชัดว่าเป็นราคาปกติหรือรุ่นย่อย)"
+vivo,X300 Pro,39999,2026-10-04,ราคาเปิดตัว vivo TH 27 พ.ย. 2025 (ผ่าน mgronline) 16/512
+vivo,X300 Ultra,,,
+vivo,X300,31999,2026-10-04,"ราคาเปิดตัว vivo TH 27 พ.ย. 2025 (ผ่าน mgronline) 12/256; 16/512 34,999"
+vivo,X Fold5,,,
